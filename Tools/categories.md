@@ -3,6 +3,46 @@
 This is the list of categories to which tools were aligned to in the
 IO2 initial efforts.
 
+## Refined list (generated from the Initial list below, please check and correct)
+
+This list should be concise and informative enough. 
+
+- Brainstorming
+- Collaboration
+- Data visualization
+- Design (animation)
+- Design (audio)
+- Design (collaborative editing)
+- Design (graphic)
+- Design (image)
+- Design (lesson)
+- Design (podcast)
+- Design (presentation)
+- Design (video)
+- Diagrams
+- Dissemination
+- Evaluation
+- Evaluation
+- Feedback
+- Gamification
+- Meetings
+- Mindmaps
+- Organization
+- Planning
+- Polling/surveys
+- Project design
+- Project development
+- Quizzes
+- Speeddating
+- Streaming
+- Tutoring
+- Whiteboard/note taking
+
+
+## Initial list
+
+Directly extracted from the corresponding column in the IO2 base excel file.
+
 - Advanced Streaming
 - Collaboration whiteboard
 - Data visualization
