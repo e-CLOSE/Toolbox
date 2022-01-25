@@ -1,4 +1,4 @@
-![](e-close-color.png)
+![](Logos/e-close-color.png)
 
 # :open_file_folder: Toolbox database :file_folder:
 (by the [e-CLOSE](eclose.eu) project) 
