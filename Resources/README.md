@@ -1,6 +1,6 @@
 ![](../e-close-color.png)
 
-# Resources folder
+# :paperclip: Resources folder :paperclip:
 
 This folder is meant to keep information on each of the resources suggested
 within the e-CLOSE project, under the IO2 working group.
