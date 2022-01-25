@@ -2,8 +2,7 @@
 
 ## Brief description
 
-Here a brief description of the tool should be provided.
-+ Logo 
+Here a brief description of the tool should be provided + Logo 
 
 ## Links
 
