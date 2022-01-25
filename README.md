@@ -11,8 +11,12 @@ This database is divided into three main categories:
 - [Resources](https://github.com/e-CLOSE/Toolbox/blob/main/Resources) :paperclip:
 - [Tools](https://github.com/e-CLOSE/Toolbox/tree/main/Tools) :hammer_and_wrench:
 
+## Team
 
-![](Logos/tul.png)
-![](Logos/uah.png)
-![](Logos/ua.png)
-![](Logos/htw.png)
+The [e-CLOSE](eclose.eu) participant institutions are:
+
+| --------------------------------------------------------|---------------------------------------------------------------------------|
+| Lodz University of Technology (Poland)                  | ![Lodz University of Technology (Poland)](Logos/tul.png)                  |
+| Universidad de Alcalá (Spain)                           | ![Universidad de Alcalá (Spain)](Logos/uah.png)                           |
+| Universidade de Aveiro (Portugal)                       | ![Universidade de Aveiro (Portugal)](Logos/ua.png)                        |
+| University of Applied Sciences in Saarbrücken (Germany) | ![University of Applied Sciences in Saarbrücken (Germany)](Logos/htw.png) |
