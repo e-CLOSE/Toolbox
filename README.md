@@ -16,7 +16,7 @@ This database is divided into three main categories:
 The [e-CLOSE](eclose.eu) participant institutions are:
 
 | --------------------------------------------------------|---------------------------------------------------------------------------|
-| Lodz University of Technology (Poland)                  | ![Lodz University of Technology (Poland)](Logos/tul.png)                  |
-| Universidad de Alcalá (Spain)                           | ![Universidad de Alcalá (Spain)](Logos/uah.png)                           |
-| Universidade de Aveiro (Portugal)                       | ![Universidade de Aveiro (Portugal)](Logos/ua.png)                        |
-| University of Applied Sciences in Saarbrücken (Germany) | ![University of Applied Sciences in Saarbrücken (Germany)](Logos/htw.png) |
+| Lodz University of Technology (Poland)                  | ![](Logos/tul.png)                  |
+| Universidad de Alcalá (Spain)                           | ![](Logos/uah.png)                           |
+| Universidade de Aveiro (Portugal)                       | ![](Logos/ua.png)                        |
+| University of Applied Sciences in Saarbrücken (Germany) | ![](Logos/htw.png) |
