@@ -1,4 +1,4 @@
-![](../e-close-color.png)
+![](../Logos/e-close-color.png)
 
 # :paperclip: Resources folder :paperclip:
 
