@@ -15,6 +15,7 @@ This database is divided into three main categories:
 
 The [e-CLOSE](eclose.eu) participant institutions are:
 
+| | |
 | --------------------------------------------------------|---------------------------------------------------------------------------|
 | Lodz University of Technology (Poland)                  | ![](Logos/tul.png)                  |
 | Universidad de Alcalá (Spain)                           | ![](Logos/uah.png)                           |
