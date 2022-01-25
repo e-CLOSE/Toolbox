@@ -1,6 +1,6 @@
 ![](../e-close-color.png)
 
-# Methodologies folder
+# :book: Methodologies folder :book:
 
 This folder is meant to keep information on each of the methodologies suggested
 within the e-CLOSE project, under the IO2 working group.
