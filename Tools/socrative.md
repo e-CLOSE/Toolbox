@@ -20,5 +20,5 @@ Website: [Socrative](https://www.socrative.com/)
 ## See also...
 
 + Socrative categories: https://github.com/e-CLOSE/Toolbox/issues/1
-+ Similar tools: https://github.com/e-CLOSE/Toolbox/issues?q=is%3A*TOOL*+is%3Aevaluation+is%3Afeedback
++ Similar tools: https://github.com/e-CLOSE/Toolbox/issues?q=label%3A*TOOL*+label%3Aevaluation+label%3Afeedback+
 
