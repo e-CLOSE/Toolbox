@@ -1,3 +1,5 @@
+![](../e-close-color.png)
+
 # Resources folder
 
 This folder is meant to keep information on each of the resources suggested
