@@ -18,3 +18,4 @@ This database is divided into three main categories:
 ![](uah.png)
 ![](ua.png)
 ![](htw.png)
+![](Logos/htw.png)
