@@ -1,6 +1,6 @@
 ![](../e-close-color.png)
 
-# :wrench: Tools folder :wrench:
+# :hammer_and_wrench: Tools folder :hammer_and_wrench:
 
 This folder is meant to keep information on each of the tools suggested
 within the e-CLOSE project, under the IO2 working group.
