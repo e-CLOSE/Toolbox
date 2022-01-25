@@ -12,10 +12,7 @@ This database is divided into three main categories:
 - [Tools](https://github.com/e-CLOSE/Toolbox/tree/main/Tools) :hammer_and_wrench:
 
 
-
-
-![](tul.png)
-![](uah.png)
-![](ua.png)
-![](htw.png)
+![](Logos/tul.png)
+![](Logos/uah.png)
+![](Logos/ua.png)
 ![](Logos/htw.png)
