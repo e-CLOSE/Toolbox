@@ -1,4 +1,4 @@
-![](e-close-color.png)
+![](../e-close-color.png)
 
 # Tools folder
 
