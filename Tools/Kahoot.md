@@ -7,7 +7,7 @@ The access code and questions are displayed on screen, students respond question
 These activities by means of mobile devices encourage the participation of every student and allow students be active in their learning process and even can be useful to know which is students' understanding and to help decision- making and early action if required.
 The free version only allows 10 users.
 
-![](Kahoot.png)
+![](images/Kahoot.png)
 
 
 ## Links
