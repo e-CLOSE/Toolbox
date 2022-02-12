@@ -7,6 +7,11 @@ Interactive web-based student-response system
 ![](images/Socrative.png)
 
 
+## Detailed description
+
+This section should include a detailed description of the tool.
+
+
 ## Links
 
 This section should include links directly related to the tool (main web
@@ -36,8 +41,8 @@ related to (IMPORTANT: this must linked to the final list of
 categories, which may generate a synchronization problem, so check
 carefully that the links work).
 
-- [Socrative creation issue](https://github.com/e-CLOSE/Toolbox/issues/13)
-- [Similar tools](https://github.com/e-CLOSE/Toolbox/issues?q=is%3A*TOOL*+is%3Afeedback+is%3Aevaluation)
+- [Socrative creation issue](https://github.com/e-CLOSE/Toolbox/issues/14)
+- [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A*TOOL*+label%3Afeedback+label%3Aevaluation)
 
-  - [feedback category](https://github.com/e-CLOSE/Toolbox/issues?q=is%3A*TOOL*+is%3Afeedback)
-  - [evaluation category](https://github.com/e-CLOSE/Toolbox/issues?q=is%3A*TOOL*+is%3Aevaluation)
+  - [All tools in the feedback category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A*TOOL*+label%3Afeedback)
+  - [All tools in the evaluation category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A*TOOL*+label%3Aevaluation)
