@@ -34,3 +34,17 @@ file containing the Tools/Methodologies/...:
    "Other comments" some people have written something that could be methodology
 
 
+# People
+
+ElisaRojas
+RosaES
+pcachim
+joseluis-martin
+JaviMaciasG
+eljosea
+xeniahuelsmann
+FrankURueckert
+GertrudaG
+jmmacedo
+MonikaPotyrala
+mpinholopes
