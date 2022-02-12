@@ -36,7 +36,8 @@ related to (IMPORTANT: this must linked to the final list of
 categories, which may generate a synchronization problem, so check
 carefully that the links work).
 
-- [Socrative creation issue](https://github.com/e-CLOSE/Toolbox/issues/12)
-- [Similar tools](https://github.com/e-CLOSE/Toolbox/issues?q=is%3Afeedback+is%3Aevaluation)
+- [Socrative creation issue](https://github.com/e-CLOSE/Toolbox/issues/13)
+- [Similar tools](https://github.com/e-CLOSE/Toolbox/issues?q=is%3A*TOOL*+is%3Afeedback+is%3Aevaluation)
 
-  - [evaluation category](https://github.com/e-CLOSE/Toolbox/issues?q=is%3Afeedback+is%3Aevaluation)
+  - [feedback category](https://github.com/e-CLOSE/Toolbox/issues?q=is%3A*TOOL*+is%3Afeedback)
+  - [evaluation category](https://github.com/e-CLOSE/Toolbox/issues?q=is%3A*TOOL*+is%3Aevaluation)
