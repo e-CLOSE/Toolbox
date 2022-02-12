@@ -34,7 +34,7 @@ understanding and using the tool.
 
 ## See also...
 
-- [Wooclap creation issue](https://github.com/e-CLOSE/Toolbox/issues/32)
+- [Wooclap creation issue](https://github.com/e-CLOSE/Toolbox/issues/39)
 - Links to similar tools:
   - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3ATOOL+label%3Afeedback+label%3Aevaluation)
 
