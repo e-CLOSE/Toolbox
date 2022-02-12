@@ -34,8 +34,8 @@ understanding and using the tool.
 
 ## See also...
 
-- [Mentimeter creation issue](https://github.com/e-CLOSE/Toolbox/issues/24)
+- [Mentimeter creation issue](https://github.com/e-CLOSE/Toolbox/issues/32)
 - Links to similar tools:
-  - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A*TOOL*+label%3Aevaluation)
+  - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3ATOOL+label%3Aevaluation)
 
-  - [All tools in the evaluation category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A*TOOL*+label%3Aevaluation)
+  - [All tools in the evaluation category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3ATOOL+label%3Aevaluation)
