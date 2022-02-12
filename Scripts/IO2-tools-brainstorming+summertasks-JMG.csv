@@ -1,0 +1,115 @@
+Name#Short description#Type (try to be aligned with previous name in the list when possible)#Type1#Type2#Type3#Type4#Subscription mode (completely free, freemium, company account, only paid subscriptions)#URL/Site#Tested by you or your University? (Add acronym if yes, leave empty if no)#Other comments#Platform (GNU/Linux, MacOS, Windows, Web based, iOS, Android)#Asignee
+Socrative#Interactive web-based student-response system#Feedback/Evaluation#feedback#evaluation###Freemium#https://www.socrative.com/#UAH (Elisa); UAH (Javi); UAH (Rosa)#Allow the generation of sets of questions to be posed to students interactively#Web#JaviMaciasG
+Kahoot#Interactive web-based student-response system#Evaluation#feedback#evaluation###Freemium#https://kahoot.com/#UAH (Elisa, Soraya); UA (Romeu); UA (Paulo); HTW (Xenia, Frank); TUL (Gertruda, Monika); UAH (Rosa)#Allow the generation of sets of questions to be posed to students interactively. Note it has a limitation in the question length.#Web#ElisaRojas
+Wooclap#Interactive web-based student-response system#Feedback/Evaluation#feedback#evaluation###Freemium#https://www.wooclap.com/#UAH (Elisa)#Allow the generation of sets of questions to be posed to students interactively#Web#JaviMaciasG
+Mentimeter#Web based interactive presentations creator#Evaluation#evaluation####Freemium#https://www.mentimeter.com/#HTW (Xenia); TUL (Gertruda, Monika)##Web#ElisaRojas
+Quizlet#Website providing learning tools for students#Evaluation#evaluation####Freemium#https://quizlet.com/#...##Web#JaviMaciasG
+Xournal++#Powerfull and multiplatform whiteboard/blackboard & note taking app #Whiteboard/note taking)#whiteboard####Completely free GPL v2#https://github.com/xournalpp/xournalpp#UAH (Javi)#Hand note-taking software that is perfectly suited as a virtual blackboard, supporting drawing on top of pdf files. Simple and comfortable interface#GNU/Linux, MacOS, Windows#JaviMaciasG
+Quizizz##Evaluation#evaluation####Freemium#https://quizizz.com/#UAH (Rosa)##Web#ElisaRojas
+Pear Deck##Evaluation#evaluation####Trial#https://www.peardeck.com/#UAH (Rosa)###JaviMaciasG
+pigeonhole##Evaluation#evaluation####Free#https://pigeonholelive.com/#HTW (Xenia)###ElisaRojas
+answergarden##Evaluation#evaluation####Free#https://answergarden.ch/#HTW (Xenia)###JaviMaciasG
+sli.do##Evaluation#evaluation####Freemium#https://www.sli.do/#HTW (Xenia); UAH (Elisa)###ElisaRojas
+actionbound##Evaluation#evaluation####Freemium#https://en.actionbound.com/?setlang#...###JaviMaciasG
+H5P in Moodle##Evaluation#evaluation####Company account#https://docs.moodle.org/311/en/H5P#HTW (Xenia);TUL (Gertruda)###ElisaRojas
+tweedback##Evaluation#evaluation####Free#https://tweedback.de/?l=en#...###JaviMaciasG
+feedbackr##Evaluation#evaluation####Free#https://www.feedbackr.io/#...###ElisaRojas
+quizacademy##Evaluation#evaluation####Freemium#https://quizacademy.de/#...#Only in German##JaviMaciasG
+educaplay##Evaluation#evaluation####Free#https://www.educaplay.com/#...###ElisaRojas
+mobbyt##Evaluation#evaluation####Free#https://mobbyt.com/#UAH (Elisa)###JaviMaciasG
+pingo##Evaluation#evaluation####Free#https://trypingo.com/#HTW (Xenia)###ElisaRojas
+Voxvote##Evaluation#evaluation####Free for education#https://www.voxvote.com/ #UA (Margarida)###JaviMaciasG
+LearningApps##Evaluation#evaluation####Free#https://learningapps.org/#TUL (Gertruda)###ElisaRojas
+Microsoft Forms/Outlook Forms##Feedback#feedback####Company account (Microsoft/Outlook)#https://forms.office.com/#UAH (Elisa); UA (Romeu); UA (Paulo); HTW (Xenia); UA(Margarida); UAH (Javi)#Easy form generation, sharing and results collection#Web#JaviMaciasG
+Google Forms##Feedback#feedback####Company account (Google)#https://forms.google.com#UAH (Elisa); UA (Romeu); UA (Paulo); UAH (Javi)#UA: We have something similar https://forms.ua.pt/?lang=en, software LimeSurvey#Web#ElisaRojas
+Poll Everywhere##Feedback (live online polling, surveys, Q&As, quizzes, word clouds)#evaluation#feedback###Free/Paid#https://www.polleverywhere.com/#TUL (Gertruda)###JaviMaciasG
+Trello##Organization/Planning#organization####Freemium#https://trello.com/#TUL (Gertruda); UAH (Javi)#"Organizes ""anything"" in boards, lists and cards. Very easy user interface"#Web#ElisaRojas
+OneNote##Organization/Planning#organization#diagrams###Company account (Microsoft/Outlook)#https://onenote.office.com#UAH (Elisa); UA (Romeu); UA (Paulo); UA(Margarida)###JaviMaciasG
+Google Calendar##Organization/Planning#organization####Company account (Google)#https://calendar.google.com#UAH (Elisa); UAH (Javi)##Web#ElisaRojas
+Evernote##Organization/Planning (organizing of the notes)#organization####Free#https://play.google.com/store/apps/details?id=com.evernote&hl=pl&gl=US#TUL (Gertruda & Monika)###JaviMaciasG
+Linoit##Organization/Planning (organizing stickers, taking notes)#organization####Free/Paid#http://en.linoit.com/#TUL (Gertruda & Monika)###ElisaRojas
+dotstorming##Organization/Planning (collaborative brainstorming)#organization####Paid#https://dotstorming.com/#TUL (Gertruda)###JaviMaciasG
+Scrumblr##Organization/Planning (collaborative brainstorming)#organization####free#http://www.scrumblr.ca/#TUL (Gertruda)###ElisaRojas
+Slack##Student/professor interaction/discussions#communication####Freemium#https://slack.com/#UAH (Elisa); UAH (Javi)##Web#JaviMaciasG
+Microsoft Teams##Student/professor interaction/discussions, Meetups & Tutoring#communication####Company account (Microsoft/Outlook)#https://teams.microsoft.com#UAH (Elisa); UA (Romeu); UA (Paulo); HTW (Xenia); UA(Margarida); TUL (Gertruda); UAH (Javi)###ElisaRojas
+Google Meet/Hangouts##Meetups & Tutoring#communication####Company account (Google)#https://meet.google.com#UAH (Elisa); UA (Romeu); TUL (Gertruda)###JaviMaciasG
+Skype##Meetups & Tutoring#communication####Company account (Microsoft/Outlook)#https://www.skype.com#UAH (Elisa); UA (Romeu); TUL (Gertruda)###ElisaRojas
+WebEx, GoToMeeting,…##Meetups & Tutoring#communication####Only paid##UAH (Elisa); UA (Romeu)###JaviMaciasG
+wonderme##Meetups & Tutoring#communication####Free#https://www.wonder.me/#HTW (Xenia)###ElisaRojas
+gathertown##Meetups & Tutoring#communication####Freemium#https://gather.town/#HTW (Xenia)###JaviMaciasG
+WBS Learnspace 3D##Meetups & Tutoring#communication####Only paid#https://www.wbsakademie.de/wbs-learnspace-3d/#HTW (Xenia, Frank)###ElisaRojas
+Streamyard##Meetups & Tutoring#communication####Free/Paid#https://streamyard.com/broadcasts#TUL (Gertruda); UA (Romeu)#UA: Backoffice for Youtube streaming and lives##JaviMaciasG
+ClickMeeting##Meetups & Tutoring#communication####Only paid#https://clickmeeting.com/#TUL (Gertruda)###ElisaRojas
+GitHub##Project development#project####Freemium#https://github.com/#UAH (Elisa); UA (Paulo); UAH (Javi)#Web based source management (version control based on git & more)#Web (it supports remote access from any operating system, either gui or command line)#JaviMaciasG
+GitLab##Project development#project####Freemium#https://gitlab.com/ #UAH (Elisa)###ElisaRojas
+Creately##Diagrams, brainstorming, etc.#diagrams####Freemium#https://creately.com/#…###JaviMaciasG
+Padlet##Diagrams, brainstorming, etc.#diagrams####Freemium#https://padlet.com/#UAH (Elisa, Soraya); UA (Romeu); UA (Paulo); HTW (Xenia); UA(Margarida); TUL (Gertruda)###ElisaRojas
+Miro##Diagrams, brainstorming, etc.#diagrams####Freemium#https://miro.com/#UAH (Elisa); UA (Romeu); UA (Paulo); HTW (Xenia)###JaviMaciasG
+conceptboard##Diagrams, brainstorming, etc.#diagrams####Freemium#https://conceptboard.com/#HTW (Xenia)###ElisaRojas
+mindmeister##Diagrams, brainstorming, etc.#diagrams####Free#https://www.mindmeister.com/de#HTW (Xenia)###JaviMaciasG
+flinga##Diagrams, brainstorming, etc.#diagrams####Free#https://flinga.fi/#...###ElisaRojas
+mural##Diagrams, brainstorming, etc.#diagrams####Free for education#https://www.mural.co/#...###JaviMaciasG
+mindmanager##Diagrams, brainstorming, etc.#diagrams####Freemium#https://www.mindmanager.com/en/#HTW (Xenia)###ElisaRojas
+poplet##Diagrams, brainstorming, mindmaps, etc.#diagrams####Free/Paid#https://www.popplet.com/#TUL (Gertruda)###JaviMaciasG
+SimpleMind##Diagrams, mindmaps, etc.#diagrams####Free/Paid#https://simplemind.eu/#TUL (Gertruda & Monika)###ElisaRojas
+Flourish##Data visualization#visualization####Freemium#https://flourish.studio/#…###JaviMaciasG
+Datawrapper##Data visualization#visualization####Freemium#https://www.datawrapper.de/#…###ElisaRojas
+Twitter, Instagram, Facebook, TikTok, Blogger,…##Dissemination#communication####Free, Fremium, Company account##UAH (Elisa); UA (Romeu); UA (Paulo); HTW (Xenia)###JaviMaciasG
+Inkscape##Design (image)#design####Free#https://inkscape.org/#UAH (Elisa); UA (Paulo); UAH (Javi)#Vector graphic editor#GNU/Linux, MacOS, Windows#ElisaRojas
+Gimp##Design (image)#design####Free#http://www.gimp.org.es/#UAH (Elisa); UA (Paulo)#Image editor#GNU/Linux, MacOS, Windows#JaviMaciasG
+Draw.io##Design (image)#design####Company account (Google)##UAH (Elisa); UA (Paulo)###ElisaRojas
+infogram##Design (image+presentations)#design####Free#https://infogram.com#UAH (Soraya)#infographics, online reports, and interactive maps##JaviMaciasG
+Vcasmo##Design (presentations)#design####Free/Paid#https://www.vcasmo.com/#TUL (Gertruda)###ElisaRojas
+Canva##Design (image+video)#design####Freemium#https://www.canva.com/#UAH (Elisa, Soraya); HTW (Xenia)###JaviMaciasG
+Genially##Design (image+video)#design####Freemium#https://www.genial.ly/#UAH (Elisa); TUL (Gertruda); UAH (Rosa)###ElisaRojas
+Prezi##Design (image+video)#design####Free/Paid#https://prezi.com/#TUL (Gertruda); UA (Romeu); UAH (Elisa); UAH (Rosa)###JaviMaciasG
+Powtoon##Design (video)#design####Freemium#https://www.powtoon.com/#TUL (Gertruda & Monika)###ElisaRojas
+Doodly##Design (video)#design####Only paid#https://www.doodly.com/#UAH (Elisa); TUL (Gertruda)###JaviMaciasG
+CreateStudio##Design (video)#design####Only paid#https://createstudio.com/#UAH (Elisa)###ElisaRojas
+Toonly, Moovly,…##Design (video)#design####Only paid#https://www.toonly.com/#…###JaviMaciasG
+OpenShot##Design (video)#design####Free#https://www.openshot.org/#UAH (Elisa); UA (Paulo); UAH (Rosa)##GNU/Linux, MacOS, Windows#ElisaRojas
+Camtasia##Design (video)#design####Only paid#https://www.techsmith.es/editor-video.html#UAH (Elisa); HTW (Xenia); UAH (Javi)#Integrates screen recorder and powerful (yet simple) video editor#MacOS, Windows#JaviMaciasG
+MovieMaker##Design (video)#design####Free#https://www.microsoft.com/en-us/p/movie-maker-free/9mvfq4lmz6c9?activetab=pivot:overviewtab#TUL (Gertruda & Monika)###ElisaRojas
+ActivePresenter##Design (video)#design####Free#https://atomisystems.com/activepresenter/#UAH (Rosa)###JaviMaciasG
+The simple show##Design (video)#design####Free for education#https://videomaker.simpleshow.com/#...###ElisaRojas
+Animoto##Design (video)#design####Freemium#https://animoto.com/#...###JaviMaciasG
+Biteable##Design (video)#design####Free#https://biteable.com/#...###ElisaRojas
+Loom##Design (video)#design####Freemium#https://www.loom.com#UAH (Javi)#Web based, allows combining screen capture with webcam. Nice chrome extension. It automatically generates an URL to be easily shared anywere (e.g. https://www.loom.com/share/beace631cf81400991015e385463b13a). #Web#JaviMaciasG
+StoryboardThat##Design (video+animation)#design####Trial#https://www.storyboardthat.com/#UAH (Rosa)###ElisaRojas
+VideoScribe##Design (video+animation)#design####Trial#https://www.sparkol.com/en#UAH (Rosa)###JaviMaciasG
+WeVideo##Design (video+animation)#design####Trial#https://www.wevideo.com/#UAH (Rosa)###ElisaRojas
+Animaker##Design (video+animation)#design####Freemium#https://www.animaker.com/#UAH (Rosa)###JaviMaciasG
+edpuzzle##Design (video, lesson)#design####Free#https://edpuzzle.com/#TUL (Gertruda)###ElisaRojas
+PosterMyWall##Design (graphics, video)#design####Free/Paid#https://www.postermywall.com/index.php#TUL (Gertruda)###JaviMaciasG
+qr codes##Design (qr code)#design####Free#https://www.qr-code-generator.com/#TUL (Gertruda & Monika)###ElisaRojas
+PIKTOCHART##Design (presentations)#design####Free/Paid#https://piktochart.com/#TUL (Gertruda)###JaviMaciasG
+Headliner##Design (image+video for podcasts)#design####Freemium#https://www.headliner.app/#UAH (Elisa)###ElisaRojas
+Figma##Design (collaborative editing)#design####Freemium#https://www.figma.com/#UAH (Elisa)###JaviMaciasG
+OBS##Advanced Streaming#communication####Free#https://obsproject.com/#UAH (Elisa); UA (Romeu); UA (Paulo); HTW (Xenia); TUL (Gertruda)##GNU/Linux, MacOS, Windows#ElisaRojas
+Jupyter notebooks##Project development#project####Free#https://jupyter.org#UA (Paulo)###JaviMaciasG
+Bitpaper##Collaboration whiteboard#whiteboard####Free/Paid#https://www.bitpaper.io/#TUL (Gertruda)###ElisaRojas
+EclipseCrossword##Gamification (crosswords)#gamification####Free#https://www.eclipsecrossword.com/#TUL (Gertruda)###ElisaRojas
+ClassTools.net##Gamification (crosswords, games, random name pickers, venn diagrams, etc)#gamification####Free/Paid#https://www.classtools.net/#TUL (Gertruda)###JaviMaciasG
+Classroomscreen##Other (class breaks, etc.)#other####Free#https://classroomscreen.com/#UAH (Elisa); UAH (Javi)#Nice litte applets to use in class (stopwatch, timer, ...) that can be placed and distributed in the web page.#Web#ElisaRojas
+RPG Playground##Other (RPG editor)#other####Free#https://rpgplayground.com/#UAH (Elisa)###JaviMaciasG
+Whiteboard##Other (short test/observation of understanding small stages or others)#other####Free / Freemium#Whiteboard.fi - Free online whiteboard for teachers and classrooms#TUL (Gertruda); UA(Margarida)###ElisaRojas
+Vizia##Other (Interactive video)#other####Free#https://vizia.co/#UAH (Rosa)###JaviMaciasG
+Audacity##Other (Audio edition)#other####Free#https://www.audacityteam.org/#UAH (Rosa); UAH (Javi)#Very powerful audio editor with advanced effects capabilities#GNU/Linux, MacOS, Windows#ElisaRojas
+GeoGebra##Other (Math visualisation/calculation)#other####Free#https://www.geogebra.org/#TUL (Gertruda)###JaviMaciasG
+Sketchbook##Other (used as a whiteboard)#other####Free#https://www.autodesk.com/products/sketchbook/overview#UA (Paulo)###ElisaRojas
+Speech to Text##Other (Automated dictation)#other#####https://www.textfromtospeech.com#TUL (Gertruda)###JaviMaciasG
+Talk&Comment##Other (create voice notes)#other####Free#https://talkandcomment.com/#UAH (Javi)#Easily record voice notes while inside any web page (it has a nice chrome extension). After recording, it generates a url to be easily shared anywhere (e.g. https://talkandcomment.com/p/083ccd77bc2ae7c33015f0be)#Web#ElisaRojas
+Flipgrid##Video#communication####Free#https://flipgrid.com#UA (Paulo); TUL (Gertruda)###JaviMaciasG
+Glimpse##Speeddating#communication####Free#https://www.joinglimpse.com/post/how-to-do-speed-dating-on-zoom#HTW (Xenia)#For new classes, students can get to know each other, e.g. 5 sessions a 4min, host can set up ice breaker questions, mini-games possible#MacOS, Windows, iOS, Android#ElisaRojas
+wiki (moodle)##Design project#project####Free#https://docs.moodle.org/311/en/Wiki_activity#TUL (Gertruda & Monika)###JaviMaciasG
+############
+############
+############
+############
+############
+############
+############
+############
+###########GNU/Linux, MacOS, Windows#
+###########Web#
+###########Web#
