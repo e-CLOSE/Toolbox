@@ -3,9 +3,11 @@
 ## Brief description
 
 Here a brief description of the tool should be provided + Logo, so
-that save the logo to the images directory
+that save the logo with name `Socrative.png` to the images directory.
 
-![](images/<tool_logo>.png)
+__SHORT_DESC__
+
+![](images/Socrative.png)
 
 ## Links
 
@@ -36,6 +38,7 @@ related to (IMPORTANT: this must linked to the final list of
 categories, which may generate a synchronization problem, so check
 carefully that the links work).
 
-- [__TITLE__ categories](https://github.com/e-CLOSE/Toolbox/issues/9)
+- [Socrative categories](https://github.com/e-CLOSE/Toolbox/issues/9)
 - [Similar tools](https://github.com/e-CLOSE/Toolbox/issues?q=is%3Afeedback+is%3Aevaluation)
 
+[evaluation category](https://github.com/e-CLOSE/Toolbox/issues?q=is%3Afeedback+is%3Aevaluation)
