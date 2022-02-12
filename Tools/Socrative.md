@@ -1,17 +1,14 @@
-# Tool name
+# Socrative
 
 ## Brief description
 
-Here a brief description of the tool should be provided + Logo, so
-that save the logo with name `Socrative.png` to the images directory.
-
-__SHORT_DESC__
+Interactive web-based student-response system
 
 ![](images/Socrative.png)
 
 ## Links
 
-Here we should include links directly related to the tool (main web
+This section should include links directly related to the tool (main web
 site, download site, etc.)
 
 Website: [Socrative](https://www.socrative.com/)
@@ -28,7 +25,7 @@ understanding and using the tool.
 - Subscription mode: Freemium
 - Platform: Web
 - Tested by: UAH (Elisa); UAH (Javi); UAH (Rosa)
-- Comments: 
+- Comments: Allow the generation of sets of questions to be posed to students interactively
 
 
 ## See also...
@@ -38,7 +35,7 @@ related to (IMPORTANT: this must linked to the final list of
 categories, which may generate a synchronization problem, so check
 carefully that the links work).
 
-- [Socrative categories](https://github.com/e-CLOSE/Toolbox/issues/9)
+- [Socrative creation issue](https://github.com/e-CLOSE/Toolbox/issues/11)
 - [Similar tools](https://github.com/e-CLOSE/Toolbox/issues?q=is%3Afeedback+is%3Aevaluation)
 
 [evaluation category](https://github.com/e-CLOSE/Toolbox/issues?q=is%3Afeedback+is%3Aevaluation)
