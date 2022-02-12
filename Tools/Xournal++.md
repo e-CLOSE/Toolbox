@@ -34,7 +34,7 @@ understanding and using the tool.
 
 ## See also...
 
-- [Xournal++ creation issue](https://github.com/e-CLOSE/Toolbox/issues/39)
+- [Xournal++ creation issue](https://github.com/e-CLOSE/Toolbox/issues/46)
 - Links to similar tools:
   - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3ATOOL+label%3Awhiteboard)
 
