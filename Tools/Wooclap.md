@@ -1,8 +1,8 @@
-# [Socrative](https://www.socrative.com/)
+# [Wooclap](https://www.wooclap.com/)
 
 Interactive web-based student-response system
 
-![](images/Socrative.png)
+![](images/Wooclap.png)
 
 
 ## Detailed description
@@ -15,7 +15,7 @@ This section should include a detailed description of the tool.
 This section should include links directly related to the tool (main web
 site, download site, etc.)
 
-Website: [Socrative](https://www.socrative.com/)
+Website: [Wooclap](https://www.wooclap.com/)
 
 
 ## References (howtos, tutorials, bibliography, sites, etc.)
@@ -28,13 +28,13 @@ understanding and using the tool.
 
 - Subscription mode: Freemium
 - Platform: Web
-- Tested by: UAH (Elisa); UAH (Javi); UAH (Rosa)
+- Tested by: UAH (Elisa)
 - Comments: Allow the generation of sets of questions to be posed to students interactively
 
 
 ## See also...
 
-- [Socrative creation issue](https://github.com/e-CLOSE/Toolbox/issues/24)
+- [Wooclap creation issue](https://github.com/e-CLOSE/Toolbox/issues/24)
 - Links to similar tools:
   - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A*TOOL*+label%3Afeedback+label%3Aevaluation)
 

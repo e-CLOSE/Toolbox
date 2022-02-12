@@ -1,0 +1,1 @@
+  - [All tools in the whiteboard category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A*TOOL*+label%3Awhiteboard)

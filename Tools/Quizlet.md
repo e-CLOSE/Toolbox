@@ -1,0 +1,41 @@
+# [Quizlet](https://quizlet.com/)
+
+Website providing learning tools for students
+
+![](images/Quizlet.png)
+
+
+## Detailed description
+
+This section should include a detailed description of the tool.
+
+
+## Links
+
+This section should include links directly related to the tool (main web
+site, download site, etc.)
+
+Website: [Quizlet](https://quizlet.com/)
+
+
+## References (howtos, tutorials, bibliography, sites, etc.)
+
+This section should include additional references to help in
+understanding and using the tool.
+
+
+## Additional details
+
+- Subscription mode: Freemium
+- Platform: Web
+- Tested by: ...
+- Comments: 
+
+
+## See also...
+
+- [Quizlet creation issue](https://github.com/e-CLOSE/Toolbox/issues/24)
+- Links to similar tools:
+  - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A*TOOL*+label%3Aevaluation)
+
+  - [All tools in the evaluation category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A*TOOL*+label%3Aevaluation)

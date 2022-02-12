@@ -1,28 +1,42 @@
-# Kahoot
+# [Kahoot](https://kahoot.com/)
 
-## Brief description
-
-Kahoot! is a game-based learning platform that brings engagement and fun.
-The access code and questions are displayed on screen, students respond questions using smartphones, tablets or laptops and the results can be displayed on screen or collected in a spreadsheet.
-These activities by means of mobile devices encourage the participation of every student and allow students be active in their learning process and even can be useful to know which is students' understanding and to help decision- making and early action if required.
-The free version only allows 10 users.
+Kahoot! is a game-based learning platform that brings engagement and fun. The access code and questions are displayed on screen, students respond questions using smartphones, tablets or laptops and the results can be displayed on screen or collected in a spreadsheet. These activities by means of mobile devices encourage the participation of every student and allow students be active in their learning process and even can be useful to know which is students' understanding and to help decision- making and early action if required. The free version only allows 10 users.
 
 ![](images/Kahoot.png)
 
 
+## Detailed description
+
+This section should include a detailed description of the tool.
+
+
 ## Links
 
-Website:  [Kahoot](https://kahoot.com)
+This section should include links directly related to the tool (main web
+site, download site, etc.)
+
+Website: [Kahoot](https://kahoot.com/)
 
 
-## Additional references (bibliography, sites, etc.)
+## References (howtos, tutorials, bibliography, sites, etc.)
 
-+ Articles:
-    - [can-i-play-kahoot-with-others-remotely ](https://web.archive.org/web/20180612142456/https://kahoot.uservoice.com/knowledgebase/articles/827223-can-i-play-kahoot-with-others-remotely)
-    - [The effect of points and audio on concentration, engagement, enjoyment, learning, motivation, and classroom dynamics using Kahoot!](https://scholar.google.com/scholar?hl=en&as_sdt=1%2C5&q=%22The+effect+of+points+and+audio+on+concentration%2C+engagement%2C+enjoyment%2C+learning%2C+motivation%2C+and+classroom+dynamics+using+Kahoot%21%22&btnG=)
+This section should include additional references to help in
+understanding and using the tool.
+
+
+## Additional details
+
+- Subscription mode: Freemium
+- Platform: Web
+- Tested by: UAH (Elisa, Soraya); UA (Romeu); UA (Paulo); HTW (Xenia, Frank); TUL (Gertruda, Monika); UAH (Rosa)
+- Comments: Allow the generation of sets of questions to be posed to students interactively. Note it has a limitation in the question length.
 
 
 ## See also...
 
-+ Kahoot categories: https://github.com/e-CLOSE/Toolbox/issues/1
-+ Similar tools: https://github.com/e-CLOSE/Toolbox/issues?q=label%3A*TOOL*+label%3Aevaluation+label%3Afeedback+
+- [Kahoot creation issue](https://github.com/e-CLOSE/Toolbox/issues/24)
+- Links to similar tools:
+  - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A*TOOL*+label%3Afeedback+label%3Aevaluation)
+
+  - [All tools in the feedback category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A*TOOL*+label%3Afeedback)
+  - [All tools in the evaluation category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A*TOOL*+label%3Aevaluation)
