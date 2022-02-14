@@ -28,7 +28,7 @@ understanding and using the tool.
 
 - Subscription mode: Freemium
 - Platform: Web
-- Tested by: UAH (Elisa); UAH (Javi); UAH (Rosa)
+- Tested by: UAH (Elisa); UAH (Javi); UAH (Rosa); HTW (Xenia)
 - Comments: Allow the generation of sets of questions to be posed to students interactively
 
 
