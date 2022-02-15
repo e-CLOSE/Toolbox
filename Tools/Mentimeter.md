@@ -1,27 +1,11 @@
-# [Mentimeter](https://www.mentimeter.com/)
+# [Mentimeter](https://www.mentimeter.com/)  [<img src="images/evaluation.png">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
 Web based interactive presentations creator
 
-![](images/Mentimeter.png)
 
-
-## Detailed description
+## Detailed description & quick guide
 
 This section should include a detailed description of the tool.
-
-
-## Links
-
-This section should include links directly related to the tool (main web
-site, download site, etc.)
-
-Website: [Mentimeter](https://www.mentimeter.com/)
-
-
-## References (howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references to help in
-understanding and using the tool.
 
 
 ## Additional details
@@ -32,10 +16,18 @@ understanding and using the tool.
 - Comments: 
 
 
+## References (links, howtos, tutorials, bibliography, sites, etc.)
+
+This section should include additional references and links to help in
+understanding and using the tool.
+
+- Mentimeter website: [Mentimeter](https://www.mentimeter.com/)
+
+
 ## See also...
 
-- [Mentimeter creation issue](https://github.com/e-CLOSE/Toolbox/issues/46)
+- [Mentimeter creation issue](https://github.com/e-CLOSE/Toolbox/issues/58)
 - Links to similar tools:
-  - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3ATOOL+label%3Aevaluation)
+  - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
-  - [All tools in the evaluation category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3ATOOL+label%3Aevaluation)
+  - [All tools in the evaluation category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
