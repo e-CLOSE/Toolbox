@@ -23,23 +23,25 @@ This list should be concise and informative enough.
 
 This list should be wider...
 
-- streaming
-- visualization
+
+- audio
+- collaboration
+- communication
 - design
 - diagrams
+- dissemination
 - evaluation
 - feedback
 - gamification
+- graphics
 - meetups
 - organization
 - other
-- project
-- communication
-- audio
-- video
-- graphics
 - presentations
-- communication
+- project
+- streaming
+- video
+- visualization
 - whiteboard
 
 ## Initial list
