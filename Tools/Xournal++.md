@@ -1,27 +1,11 @@
-# [Xournal++](https://github.com/xournalpp/xournalpp)
+# [Xournal++](https://github.com/xournalpp/xournalpp)  [<img src="images/whiteboard.png">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Awhiteboard)
 
 Powerfull and multiplatform whiteboard/blackboard __SHORT_DESC__ note taking app 
 
-![](images/Xournal++.png)
 
-
-## Detailed description
+## Detailed description & quick guide
 
 This section should include a detailed description of the tool.
-
-
-## Links
-
-This section should include links directly related to the tool (main web
-site, download site, etc.)
-
-Website: [Xournal++](https://github.com/xournalpp/xournalpp)
-
-
-## References (howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references to help in
-understanding and using the tool.
 
 
 ## Additional details
@@ -32,10 +16,18 @@ understanding and using the tool.
 - Comments: Hand note-taking software that is perfectly suited as a virtual blackboard, supporting drawing on top of pdf files. Simple and comfortable interface
 
 
+## References (links, howtos, tutorials, bibliography, sites, etc.)
+
+This section should include additional references and links to help in
+understanding and using the tool.
+
+- Xournal++ website: [Xournal++](https://github.com/xournalpp/xournalpp)
+
+
 ## See also...
 
-- [Xournal++ creation issue](https://github.com/e-CLOSE/Toolbox/issues/46)
+- [Xournal++ creation issue](https://github.com/e-CLOSE/Toolbox/issues/58)
 - Links to similar tools:
-  - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3ATOOL+label%3Awhiteboard)
+  - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Awhiteboard)
 
-  - [All tools in the whiteboard category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3ATOOL+label%3Awhiteboard)
+  - [All tools in the whiteboard category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Awhiteboard)
