@@ -1,4 +1,4 @@
-# [Quizlet](https://quizlet.com/)  [<img src="images/evaluation.png">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
+# [Quizlet](https://quizlet.com/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
 Website providing learning tools for students
 
