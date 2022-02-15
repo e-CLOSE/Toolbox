@@ -2,26 +2,10 @@
 
 __SHORT_DESC__
 
-![](images/__TOOL_NAME__.png)
 
-
-## Detailed description
+## Detailed description & quick guide
 
 This section should include a detailed description of the tool.
-
-
-## Links
-
-This section should include links directly related to the tool (main web
-site, download site, etc.)
-
-Website: [__TOOL_NAME__](__TOOL_URL__)
-
-
-## References (howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references to help in
-understanding and using the tool.
 
 
 ## Additional details
@@ -30,6 +14,14 @@ understanding and using the tool.
 - Platform: __PLATFORM__
 - Tested by: __TESTED__
 - Comments: __COMMENTS__
+
+
+## References (links, howtos, tutorials, bibliography, sites, etc.)
+
+This section should include additional references and links to help in
+understanding and using the tool.
+
+- Website: [__TOOL_NAME__](__TOOL_URL__)
 
 
 ## See also...
