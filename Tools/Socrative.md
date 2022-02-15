@@ -21,12 +21,12 @@ This section should include a detailed description of the tool.
 This section should include additional references and links to help in
 understanding and using the tool.
 
-- Website: [Socrative](https://www.socrative.com/)
+- Socrative website: [Socrative](https://www.socrative.com/)
 
 
 ## See also...
 
-- [Socrative creation issue](https://github.com/e-CLOSE/Toolbox/issues/57)
+- [Socrative creation issue](https://github.com/e-CLOSE/Toolbox/issues/58)
 - Links to similar tools:
   - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
