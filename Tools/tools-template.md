@@ -1,4 +1,4 @@
-# [__TOOL_NAME__](__TOOL_URL__)
+# [__TOOL_NAME__](__TOOL_URL__) __TOOL_RELATED_LINKS__
 
 __SHORT_DESC__
 
@@ -13,7 +13,7 @@ This section should include a detailed description of the tool.
 - Subscription mode: __SUBSCRIPTION__
 - Platform: __PLATFORM__
 - Tested by: __TESTED__
-- Comments: __COMMENTS__
+__COMMENTS__
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
@@ -21,7 +21,7 @@ This section should include a detailed description of the tool.
 This section should include additional references and links to help in
 understanding and using the tool.
 
-- Website: [__TOOL_NAME__](__TOOL_URL__)
+- __TOOL_NAME__ website: [__TOOL_NAME__](__TOOL_URL__)
 
 
 ## See also...
