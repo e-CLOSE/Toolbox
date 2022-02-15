@@ -13,7 +13,7 @@ This section should include a detailed description of the tool.
 - Subscription mode: Freemium
 - Platform: Web
 - Tested by: UAH (Elisa); UAH (Javi); UAH (Rosa)
-Allow the generation of sets of questions to be posed to students interactively
+- Comments: Allow the generation of sets of questions to be posed to students interactively
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
