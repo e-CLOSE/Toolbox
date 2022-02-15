@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CAT_FILE="categories.list"
+CAT_FILE="categories+colors.txt"
 DELIMITER=" "
 
 while IFS=$DELIMITER read -r TOOL_NAME COLOR
