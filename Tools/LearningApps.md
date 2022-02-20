@@ -12,7 +12,7 @@ This section should include a detailed description of the tool.
 
 - Subscription mode: Freemium
 - Platform: Web
-- Tested by: HTW (Xenia); TUL (Gertruda, Monika)
+- Tested by: TUL (Gertruda, Monika)
 - Comments: 
 
 
@@ -21,7 +21,7 @@ This section should include a detailed description of the tool.
 This section should include additional references and links to help in
 understanding and using the tool.
 
-- Mentimeter website: [Mentimeter](https://www.mentimeter.com/)
+- LearningApps website: [LearningApps](https://learningapps.org/)
 
 
 ## See also...
