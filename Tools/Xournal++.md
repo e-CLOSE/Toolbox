@@ -2,7 +2,7 @@
 
 Powerfull and multiplatform whiteboard/blackboard note taking app 
 
-![Xournal++ logo](images/xournal++.svg)
+![Xournal++ logo](images/xournal++.png)
 
 
 ## Detailed description & quick guide
