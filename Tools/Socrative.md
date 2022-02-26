@@ -1,5 +1,7 @@
 # [Socrative](https://www.socrative.com/)  [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback) [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
+![](images/socrative.png)
+
 Interactive web-based student-response system (quizzes, polls, etc.).
 
 
@@ -21,7 +23,10 @@ This section should include a detailed description of the tool.
 This section should include additional references and links to help in
 understanding and using the tool.
 
-- Socrative website: [Socrative](https://www.socrative.com/)
++ Socrative website: [Socrative](https://www.socrative.com/)
++ Articles:
+    - [Using Socrative and Smartphones for the support of collaborative learning](https://arxiv.org/abs/1501.01276)
+
 
 
 ## See also...
