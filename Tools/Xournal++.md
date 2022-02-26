@@ -1,11 +1,12 @@
 # [Xournal++](https://github.com/xournalpp/xournalpp)  [<img src="images/whiteboard.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Awhiteboard)
 
-Powerfull and multiplatform whiteboard/blackboard __SHORT_DESC__ note taking app 
+Powerful and multiplatform whiteboard/blackboard note taking app 
 
+![Xournal++ logo](images/xournal++.png)
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+This section should include a detailed description of the tool. Details blah blah
 
 
 ## Additional details
