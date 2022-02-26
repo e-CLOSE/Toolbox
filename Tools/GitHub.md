@@ -1,29 +1,42 @@
 # [GitHub](https://github.com/)  [<img src="images/project.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aproject) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)
 
-Collaborative development platform that hosts projects using the git revision control system .
+![GitHub Logo](images/github.png)
+
+Collaborative development platform that hosts projects using the git revision control system.
 
 
-## Detailed description & quick guide
+## Detailed description
 
-This section should include a detailed description of the tool.
+As sated in their [web
+page](https://docs.github.com/en/get-started/quickstart/hello-worldhttps://docs.github.com/en/get-started/quickstart/hello-world),
+GitHub is a code hosting platform for version control and
+collaboration. It lets you and others work together on projects from
+anywhere.
 
+GitHub is a Web based version control hosting site, based on git &
+more. Free access allows unlimited public repositories with full
+features, and unlimited private repositories with a limited feature
+set.
 
 ## Additional details
 
 - Subscription mode: Freemium
 - Platform: Web (it supports remote access from any operating system, either gui or command line), iOS, Android, Windows, MacOS, Linux
 - Tested by: UAH (Elisa); UA (Paulo); UAH (Javi)
-- Comments: Web based source management (version control based on git __COMMENTS__ more). Free access allows unlimited public repositories with full features, and unlimited private repositories with a limited feature set.
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+
+## References
 
 This section should include additional references and links to help in
 understanding and using the tool.
 
 - GitHub website: [GitHub](https://github.com/)
-
-
+- [GitHub tutorial page](https://docs.github.com/en/get-started/quickstart/hello-worldhttps://docs.github.com/en/get-started/quickstart/hello-world)
+- [Git and GitHub for beginners - Crash
+  Course](https://www.youtube.com/watch?v=RGOj5yH7evk) in YouTube.
+  
+  
 ## See also...
 
 - [GitHub creation issue](https://github.com/e-CLOSE/Toolbox/issues/141)
