@@ -1,5 +1,7 @@
 # [Audacity](https://www.audacityteam.org/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/audio.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aaudio)
 
+![Audacity logo](images/audacity.png)
+
 Free, open source, multi-platform audio processing software.
 
 
@@ -24,13 +26,10 @@ systems, and its interface has been translated into many languages.
 - Subscription mode: Free
 - Platform: GNU/Linux, MacOS, Windows
 - Tested by: UAH (Rosa); UAH (Javi)
-- Comments: Very powerful audio editor with advanced effects capabilities
+- Comments: Very powerful audio editor with advanced effects
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - Audacity website: [Audacity](https://www.audacityteam.org/)
 - [Audacity tutorials in their Web page](https://manual.audacityteam.org/man/tutorials.html)
