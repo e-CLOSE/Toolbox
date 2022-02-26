@@ -5,7 +5,7 @@
 Open source and cross-platform powerful whiteboard/blackboard & note taking app.
 
 
-## Detailed description & quick guide
+## Detailed description
 
 Hand note-taking software that is perfectly suited as a virtual
 whiteboard/blackboard, supporting drawing on top of pdf files. The
