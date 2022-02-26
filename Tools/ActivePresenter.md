@@ -7,12 +7,13 @@ Record screen, create demos, tutorials, training videos, and interactive HTML5 e
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+ActivePresenter is one of the most powerful and easy to use screencasting and video editors. It can be used to create software demonstrations, software simulations, and quizzes. It allows exporting to a series of images, HTML slideshows, documents (PDF, Microsoft Word, Excel), Microsoft PowerPoint presentations, videos (AVI, MP4, WMV, WebM), Flash videos and interactive simulations (HTML5, Adobe Flash).
 
+ActivePresenter has been developed by Atomi Systems Inc. since 2007.
 
 ## Additional details
 
-- Subscription mode: Freemium
+- Subscription mode: Freemium. Three editions are available (Free, Standard and Pro)
 - Platform: Windows, MacOS
 - Tested by: UAH (Rosa)
 - Comments: Features: screem recording, audio and video editing, software simulation, eLearning games, Quiz Building, etc.
@@ -20,10 +21,10 @@ This section should include a detailed description of the tool.
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - ActivePresenter website: [ActivePresenter](https://atomisystems.com/activepresenter/)
+- ActivePresenter Tutorials: [Help & Tutorials](https://atomisystems.com/tutorials/)
+- ActivePresenter Manuals: [Getting Started with ActivePresenter 8](https://atomisystems.com/activepresenter/tutorials/)
+- Elearning examples: [Demos](https://atomisystems.com/activepresenter/demo/)
 
 
 ## See also...
