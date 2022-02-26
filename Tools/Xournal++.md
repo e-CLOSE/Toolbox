@@ -2,7 +2,7 @@
 
 ![Xournal++ Logo](images/xournal++.png)
 
-Open source and cross-platform powerful whiteboard/blackboard & note taking app.
+Powerful open source and cross-platform whiteboard/blackboard & note taking app.
 
 
 ## Detailed description
