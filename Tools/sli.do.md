@@ -1,41 +1,32 @@
-# [sli.do](https://www.sli.do/)
+# [sli.do](https://www.sli.do/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
-Web based voting application
-
-![](images/sli.do.png)
+Online tool for live polls, Q__SHORT_DESC__A, quizzes and word clouds.
 
 
-## Detailed description
+## Detailed description & quick guide
 
 This section should include a detailed description of the tool.
-
-
-## Links
-
-This section should include links directly related to the tool (main web
-site, download site, etc.)
-
-Website: [sli.do](https://www.sli.do/)
-
-
-## References (howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references to help in
-understanding and using the tool.
 
 
 ## Additional details
 
 - Subscription mode: Freemium
-- Platform: 
+- Platform: N/A
 - Tested by: HTW (Xenia); UAH (Elisa)
-- Comments: 
+- Comments: N/A
+
+
+## References (links, howtos, tutorials, bibliography, sites, etc.)
+
+This section should include additional references and links to help in
+understanding and using the tool.
+
+- sli.do website: [sli.do](https://www.sli.do/)
 
 
 ## See also...
 
-- [sli.do creation issue](https://github.com/e-CLOSE/Toolbox/issues/46)
+- [sli.do creation issue](https://github.com/e-CLOSE/Toolbox/issues/66)
 - Links to similar tools:
-  - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3ATOOL+label%3Aevaluation)
-
-  - [All tools in the evaluation category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3ATOOL+label%3Aevaluation)
+  - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
+  - [All tools in the 'evaluation' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
