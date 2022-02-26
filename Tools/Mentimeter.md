@@ -22,6 +22,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - Mentimeter website: [Mentimeter](https://www.mentimeter.com/)
+- Mentimeter website for students to enter quiz-code: [Menti](https://www.menti.com/)
 
 
 ## See also...
