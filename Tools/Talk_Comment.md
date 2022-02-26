@@ -31,6 +31,8 @@ comments, etc.).
 
 - Talk & Comment website: [Talk&Comment](https://talkandcomment.com/)
 - [Talk & Comment Chrome extension](https://chrome.google.com/webstore/detail/talk-and-comment-voice-no/djnhkfljnimcpelfndpcjcgngmefaobl?hl=es)
+- [Talk & Comment Tutorial](https://www.youtube.com/watch?v=Yad5IFtzxyk)
+
 
 ## See also...
 
