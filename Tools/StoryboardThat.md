@@ -1,5 +1,7 @@
 # [StoryboardThat](https://www.storyboardthat.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
+![StoryboardThat logo](images/storyboardthat.png)
+
 Storyboard creator for small projects to creante graphic content such as Graphic Novels, Comics, Posters, Video Planning, Projects, and Planning.
 
 
