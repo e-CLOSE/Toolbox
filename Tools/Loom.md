@@ -1,19 +1,35 @@
 # [Loom](https://www.loom.com)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo) [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback) [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication)
 
-Web based simple __SHORT_DESC__ fast screen+webcam recorder focused in easy __SHORT_DESC__ instant sharing.
+![Loom logo](images/Loom.png)
+
+Web based simple & fast screen+webcam recorder focused in easy & instant sharing.
 
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Loom is a web based application that allows you to easily record
+your screen, webcam or both, and easily send the recorded video.
 
+You log in their site and select "New Video", select the options (flip
+camera, recording countdown, etc.) and go. After the video creation,
+the system will automatically put the link to the video in your
+clipboard, for easy sharing
+(e.g. https://www.loom.com/share/beace631cf81400991015e385463b13a).
+
+It's a great tool to easily generate screencasts, or even provide
+video feedback to students while you are interacting with any material
+(recommendations, notes on assignments, comments, etc.).
+
+The free version has a video duration limited to 5 minutes, more than
+enough for a lot of uses.
+
+You can also use it from the Chrome extension.
 
 ## Additional details
 
 - Subscription mode: Freemium
 - Platform: Web
 - Tested by: UAH (Javi)
-- Comments: Web based, allows combining screen capture with webcam. Nice chrome extension. It automatically generates an URL to be easily shared anywere (e.g. https://www.loom.com/share/beace631cf81400991015e385463b13a). 
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
@@ -22,7 +38,8 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - Loom website: [Loom](https://www.loom.com)
-
+- [Loom tutorial in YouTube](https://www.youtube.com/watch?v=11pfvBNsXkA)
+- [Loom Chrome extension](https://chrome.google.com/webstore/detail/loom-%E2%80%93-free-screen-and-ca/liecbddmkiiihnedobmlmillhodjkdmb)
 
 ## See also...
 
