@@ -1,11 +1,14 @@
 # [Talk__TOOL_NAME__Comment](https://talkandcomment.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication) [<img src="images/dissemination.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adissemination) [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback) [<img src="images/audio.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aaudio)
 
-Web based simple voice notes creator focused in easy __SHORT_DESC__ instant sharing.
+Web based simple voice notes creator focused in easy & instant sharing.
 
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Talk & Comment is a chrome extension that allows to easily record and
+send voice notes in any web page. You simply record your voice by
+using a widget which is located in your browser and paste the
+generated voice link anyware you want.
 
 
 ## Additional details
@@ -21,8 +24,8 @@ This section should include a detailed description of the tool.
 This section should include additional references and links to help in
 understanding and using the tool.
 
-- Talk__TOOL_NAME__Comment website: [Talk__TOOL_NAME__Comment](https://talkandcomment.com/)
-
+- Talk & Comment website: [Talk&Comment](https://talkandcomment.com/)
+- [Talk & Comment Chrome extension](https://chrome.google.com/webstore/detail/talk-and-comment-voice-no/djnhkfljnimcpelfndpcjcgngmefaobl?hl=es)
 
 ## See also...
 
