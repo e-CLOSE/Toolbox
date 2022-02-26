@@ -2,6 +2,7 @@
 02_RESOURCE 0BC167
 03_METHODOLOGY 0BAAAA
 audio e99695
+cognitive 1d76db
 collaboration 0052cc
 communication 1d76db
 design d876e3
@@ -11,7 +12,6 @@ evaluation a2eeef
 feedback cfd3d7
 gamification 7057ff
 graphics fef2c0
-meetups d73a4a
 organization e4e669
 other D93F0B
 presentations 006b75
