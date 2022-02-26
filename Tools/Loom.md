@@ -14,7 +14,8 @@ You log in their site and select "New Video", select the options (flip
 camera, recording countdown, etc.) and go. After the video creation,
 the system will automatically put the link to the video in your
 clipboard, for easy sharing
-(e.g. https://www.loom.com/share/beace631cf81400991015e385463b13a).
+(e.g. https://www.loom.com/share/beace631cf81400991015e385463b13a). While
+recording, you can superimpose the "webcam view", and move it around.
 
 It's a great tool to easily generate screencasts, or even provide
 video feedback to students while you are interacting with any material
