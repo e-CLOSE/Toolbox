@@ -5,7 +5,7 @@
 Free, open source, multi-platform audio processing software.
 
 
-## Detailed description & quick guide
+## Detailed description 
 
 Audacity is a powerful multi-platform application that can be used fo
 the recording, edition and advanced processing of multi-track audio
@@ -26,7 +26,6 @@ systems, and its interface has been translated into many languages.
 - Subscription mode: Free
 - Platform: GNU/Linux, MacOS, Windows
 - Tested by: UAH (Rosa); UAH (Javi)
-- Comments: Very powerful audio editor with advanced effects
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
