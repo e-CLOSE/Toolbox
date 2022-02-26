@@ -28,7 +28,7 @@ systems, and its interface has been translated into many languages.
 - Tested by: UAH (Rosa); UAH (Javi)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Audacity website: [Audacity](https://www.audacityteam.org/)
 - [Audacity tutorials in their Web page](https://manual.audacityteam.org/man/tutorials.html)
