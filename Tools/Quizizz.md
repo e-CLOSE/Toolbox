@@ -1,27 +1,11 @@
-# [Quizizz](https://quizizz.com/)
+# [Quizizz](https://quizizz.com/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation) [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback)
 
-Web based interactive presentations creator
-
-![](images/Quizizz.png)
+Engagement platform based on gamified quizzes and interactive lessons.
 
 
-## Detailed description
+## Detailed description & quick guide
 
 This section should include a detailed description of the tool.
-
-
-## Links
-
-This section should include links directly related to the tool (main web
-site, download site, etc.)
-
-Website: [Quizizz](https://quizizz.com/)
-
-
-## References (howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references to help in
-understanding and using the tool.
 
 
 ## Additional details
@@ -29,13 +13,21 @@ understanding and using the tool.
 - Subscription mode: Freemium
 - Platform: Web
 - Tested by: UAH (Rosa)
-- Comments: 
+- Comments: Allow the generation of sets of questions to be posed to students interactively
+
+
+## References (links, howtos, tutorials, bibliography, sites, etc.)
+
+This section should include additional references and links to help in
+understanding and using the tool.
+
+- Quizizz website: [Quizizz](https://quizizz.com/)
 
 
 ## See also...
 
-- [Quizizz creation issue](https://github.com/e-CLOSE/Toolbox/issues/46)
+- [Quizizz creation issue](https://github.com/e-CLOSE/Toolbox/issues/66)
 - Links to similar tools:
-  - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3ATOOL+label%3Aevaluation)
-
-  - [All tools in the evaluation category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3ATOOL+label%3Aevaluation)
+  - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback)
+  - [All tools in the 'evaluation' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
+  - [All tools in the 'feedback' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback)
