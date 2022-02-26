@@ -26,7 +26,7 @@ understanding and using the tool.
 
 ## See also...
 
-- [Teachable creation issue](https://github.com/e-CLOSE/Toolbox/issues/66)
+- [Teachable creation issue](https://github.com/e-CLOSE/Toolbox/issues/116)
 - Links to similar tools:
   - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication)
   - [All tools in the 'other' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aother)

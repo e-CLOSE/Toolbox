@@ -26,7 +26,7 @@ understanding and using the tool.
 
 ## See also...
 
-- [ClassTools.net creation issue](https://github.com/e-CLOSE/Toolbox/issues/66)
+- [ClassTools.net creation issue](https://github.com/e-CLOSE/Toolbox/issues/112)
 - Links to similar tools:
   - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
   - [All tools in the 'gamification' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agamification)
