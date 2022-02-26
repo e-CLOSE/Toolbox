@@ -5,7 +5,18 @@ Free, open source, multi-platform audio processing software.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Audacity is a powerful multi-platform application that can be used fo
+the recording, edition and advanced processing of multi-track audio
+files. A concise list of its capabilities can be found in its [About
+page](https://www.audacityteam.org/about/)
+
+Audacity has a simple but complete user interface, that also fulfills
+the needs required by professional users. It has a wide set of
+features to generate different types of audio signal, apply effects
+and analyse any audio signal.
+
+It works perfectly under GNU/Linux, Windows and MacOS operating
+systems, and its interface has been translated into many languages. 
 
 
 ## Additional details
@@ -22,11 +33,12 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - Audacity website: [Audacity](https://www.audacityteam.org/)
-
+- [Audacity tutorials in their Web page](https://manual.audacityteam.org/man/tutorials.html)
+- [Beginners Tutorial: How to use Audacity to Record & Edit Audio](https://www.youtube.com/watch?v=yzJ2VyYkmaA)
 
 ## See also...
 
-- [Audacity creation issue](https://github.com/e-CLOSE/Toolbox/issues/66)
+- [Audacity creation issue](https://github.com/e-CLOSE/Toolbox/issues/117)
 - Links to similar tools:
   - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aaudio)
   - [All tools in the 'design' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign)
