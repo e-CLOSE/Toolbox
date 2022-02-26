@@ -26,7 +26,7 @@ understanding and using the tool.
 
 ## See also...
 
-- [LearningApps creation issue](https://github.com/e-CLOSE/Toolbox/issues/66)
+- [LearningApps creation issue](https://github.com/e-CLOSE/Toolbox/issues/85)
 - Links to similar tools:
   - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agamification)
   - [All tools in the 'evaluation' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
