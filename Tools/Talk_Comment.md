@@ -27,7 +27,7 @@ comments, etc.).
 - Tested by: UAH (Javi)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Talk & Comment website: [Talk&Comment](https://talkandcomment.com/)
 - [Talk & Comment Chrome extension](https://chrome.google.com/webstore/detail/talk-and-comment-voice-no/djnhkfljnimcpelfndpcjcgngmefaobl?hl=es)
