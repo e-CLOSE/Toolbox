@@ -1,6 +1,6 @@
 # [sli.do](https://www.sli.do/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
-Online tool for live polls, Q__SHORT_DESC__A, quizzes and word clouds.
+Online tool for live polls, Q&A, quizzes and word clouds.
 
 
 ## Detailed description & quick guide

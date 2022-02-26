@@ -1,6 +1,6 @@
 # [pigeonhole](https://pigeonholelive.com/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
-Mobile, real-time conference question and answer (Q__SHORT_DESC__A) tool.
+Mobile, real-time conference question and answer (Q&A) tool.
 
 
 ## Detailed description & quick guide

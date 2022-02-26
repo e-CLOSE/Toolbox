@@ -1,4 +1,4 @@
-# [Evernote](https://play.google.com/store/apps/details?id=com.evernote__TOOL_URL__hl=pl__TOOL_URL__gl=US)  [<img src="images/organization.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aorganization)
+# [Evernote](https://play.google.com/store/apps/details?id=com.evernote&hl=pl&gl=US)  [<img src="images/organization.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aorganization)
 
 Mobile app designed for note taking, organizing, task lists, and archiving.
 
@@ -12,7 +12,7 @@ This section should include a detailed description of the tool.
 
 - Subscription mode: Free
 - Platform: MacOS, Windows, iOS, Android
-- Tested by: TUL (Gertruda __TESTED__ Monika)
+- Tested by: TUL (Gertruda & Monika)
 - Comments: "The app allows users to create notes, which can be formatted text, web pages, photographs, voice memos, or ""ink"" notes."
 
 
@@ -21,7 +21,7 @@ This section should include a detailed description of the tool.
 This section should include additional references and links to help in
 understanding and using the tool.
 
-- Evernote website: [Evernote](https://play.google.com/store/apps/details?id=com.evernote__TOOL_URL__hl=pl__TOOL_URL__gl=US)
+- Evernote website: [Evernote](https://play.google.com/store/apps/details?id=com.evernote&hl=pl&gl=US)
 
 
 ## See also...

@@ -12,7 +12,7 @@ This section should include a detailed description of the tool.
 
 - Subscription mode: Free
 - Platform: Windows
-- Tested by: TUL (Gertruda __TESTED__ Monika)
+- Tested by: TUL (Gertruda & Monika)
 - Comments: You can create, edit, and share your home movies right on your computer
 
 

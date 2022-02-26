@@ -12,7 +12,7 @@ This section should include a detailed description of the tool.
 
 - Subscription mode: Free/Paid
 - Platform: Web, iOS, Android
-- Tested by: TUL (Gertruda __TESTED__ Monika)
+- Tested by: TUL (Gertruda & Monika)
 - Comments: You can post, see and peel off stickies on canvases
 
 

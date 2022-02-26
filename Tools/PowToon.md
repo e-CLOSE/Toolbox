@@ -12,7 +12,7 @@ This section should include a detailed description of the tool.
 
 - Subscription mode: Freemium
 - Platform: Web
-- Tested by: TUL (Gertruda __TESTED__ Monika)
+- Tested by: TUL (Gertruda & Monika)
 - Comments: Gives the freedom to create professional and fully customized videos
 
 

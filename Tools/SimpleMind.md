@@ -12,7 +12,7 @@ This section should include a detailed description of the tool.
 
 - Subscription mode: Free/Paid
 - Platform: Web
-- Tested by: TUL (Gertruda __TESTED__ Monika)
+- Tested by: TUL (Gertruda & Monika)
 - Comments: Allows you to analyze your thoughts and structure them
 
 

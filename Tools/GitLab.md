@@ -13,7 +13,7 @@ This section should include a detailed description of the tool.
 - Subscription mode: Freemium
 - Platform: Web
 - Tested by: UAH (Elisa)
-- Comments: Web based source management (version control based on git __COMMENTS__ more). Free access allows unlimited public repositories with full features, and unlimited private repositories with a limited feature set.
+- Comments: Web based source management (version control based on git & more). Free access allows unlimited public repositories with full features, and unlimited private repositories with a limited feature set.
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
