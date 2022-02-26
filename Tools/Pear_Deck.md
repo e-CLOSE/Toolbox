@@ -1,5 +1,7 @@
 # [Pear Deck](https://www.peardeck.com/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation) [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback)
 
+![Pear Deck logo](images/peardeck.png)
+
 Interactive web-based student-response system (quizzes, polls, etc.) with PowerPoint on-line and Google Slides integration.
 
 
