@@ -15,7 +15,7 @@ the needs required by professional users. It has a wide set of
 features to generate different types of audio signal, apply effects
 and analyse any audio signal.
 
-It works perfectly under GNU/Linux, Windows and MacOS operating
+It works under GNU/Linux, Windows and MacOS operating
 systems, and its interface has been translated into many languages. 
 
 
