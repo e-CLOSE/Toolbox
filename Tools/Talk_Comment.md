@@ -15,6 +15,9 @@ widget. After that Talk&Comment will generate an URL that you can
 paste anywhere you want
 (e.g. https://talkandcomment.com/p/083ccd77bc2ae7c33015f0be).
 
+It's a great tool to provide audio feedback to students while you are
+interacting with any material (recommendations, notes on assignments,
+comments, etc.).
 
 ## Additional details
 
