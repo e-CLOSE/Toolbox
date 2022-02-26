@@ -1,5 +1,7 @@
 # [WeVideo](https://www.wevideo.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
+![WeVideo logo](images/wevideo.png)
+
 YouTube, Instagram, Facebook and other social media channels.
 
 
