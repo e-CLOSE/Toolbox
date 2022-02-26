@@ -26,7 +26,7 @@ understanding and using the tool.
 
 ## See also...
 
-- [wiki (moodle) creation issue](https://github.com/e-CLOSE/Toolbox/issues/119)
+- [wiki (moodle) creation issue](https://github.com/e-CLOSE/Toolbox/issues/127)
 - Links to similar tools:
   - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adissemination)
   - [All tools in the 'project' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aproject)
