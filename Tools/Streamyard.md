@@ -26,7 +26,7 @@ understanding and using the tool.
 
 ## See also...
 
-- [Streamyard creation issue](https://github.com/e-CLOSE/Toolbox/issues/66)
+- [Streamyard creation issue](https://github.com/e-CLOSE/Toolbox/issues/161)
 - Links to similar tools:
   - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Astreaming)
   - [All tools in the 'communication' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication)

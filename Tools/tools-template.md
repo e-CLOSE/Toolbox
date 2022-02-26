@@ -29,4 +29,3 @@ understanding and using the tool.
 - [__TOOL_NAME__ creation issue](__ISSUE_URL__)
 - Links to similar tools:
   - [All tools with the same set of categories](__SIMILAR_URL__)
-
