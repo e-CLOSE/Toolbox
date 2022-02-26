@@ -1,6 +1,6 @@
 # [infogram](https://infogram.com)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/graphics.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agraphics) [<img src="images/presentations.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Apresentations) [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams)
 
-Intuitive visualization tool that empowers people and teams to create beautiful content.
+Intuitive visualization tool that empowers people and teams to create beautiful content. Blah blah...
 
 
 ## Detailed description & quick guide
