@@ -17,12 +17,18 @@ echo "Newly created issue will be [$LAST_ISSUE]"
 
 ###########################################################################
 INPUT_FILE="Scripts/tools-mini-v2.csv" # Careful: delimiter must be #
-INPUT_FILE="Scripts/IO2-tools-brainstorming+summertasks-v3-pending.csv"
+INPUT_FILE="Scripts/IO2-tools-brainstorming+summertasks-v3-paraCheckIssues.csv"
+#INPUT_FILE="Scripts/IO2-tools-brainstorming+summertasks-v3-mini.csv"
 DELIMITER='#'
 
-DO_NOTHING="DO_NOTHING"
-DO_NOTHING=""
+DO_GIT_NOTHING="DO_GIT_NOTHING"
+#DO_GIT_NOTHING=""
 
+DO_GH_NOTHING="DO_GH_NOTHING"
+DO_GH_NOTHING=""
+
+DO_README_NOTHING="DO_README_NOTHING"
+#DO_GH_NOTHING=""
 
 if [ ! -f $INPUT_FILE ]
 then
@@ -84,7 +90,10 @@ do
     
     TEMPLATE="$BASE_DIR/"`echo "$BASE_DIR"|tr [A-Z] [a-z]`"-template.md"
     echo "  TEMPLATE set to [$TEMPLATE]"
-    README="$BASE_DIR/$TOOL_NAME.md"
+    TOOL_NAME_FILE=`echo "$TOOL_NAME" | sed -e "s/[ [:punct:]]\+/_/g" `
+#    echo "[$TOOL_NAME_FILE]"
+#    exit
+    README="$BASE_DIR/$TOOL_NAME_FILE.md"
     README_URL="https://github.com/e-CLOSE/Toolbox/blob/main/$README"
     ISSUE_URL="https://github.com/e-CLOSE/Toolbox/issues/$LAST_ISSUE"
     
@@ -127,92 +136,99 @@ Details at $README_URL
     echo "  Issue body ends -----------------------------------------------------------"    
     
     echo "  gh issue create --title \"$TOOL_NAME\" --body \"$BODY\" $LABEL_CMD $ASIGNEE_CMD"
-    if [ "$DO_NOTHING" != "DO_NOTHING" ]
+    if [ "$DO_GH_NOTHING" != "DO_GH_NOTHING" ]
     then
 	gh issue create --title "$TOOL_NAME" --body "$BODY" $LABEL_CMD $ASIGNEE_CMD
+	emacs $README
     fi
 # Was --assignee $ASIGNEE
 
-    if [ -f PP$README ]
+    if [ "$DO_README_NOTHING" == "DO_README_NOTHING" ]
     then
-    	echo "  [$README] file already exists... not copying template to it!"
+	echo " *** Not doing anything related to README file generation..."
     else
-
-	if [ "$SHORT_DESC" == "" ]
+	if [ -f PP$README ]
 	then
-	    SHORT_DESC="Here you should write a brief description of the $ELEMENT_TYPE_LOWER should be provided + Logo, so that save the logo with name \`__TOOL_NAME__.png\` (or jpg) to the images directory."
+    	    echo "  [$README] file already exists... not copying template to it!"
 	else
-	    LAST_CHAR=${SHORT_DESC: -1}
-	    if [ "$LAST_CHAR" != "." ]
+
+	    if [ "$SHORT_DESC" == "" ]
 	    then
-		SHORT_DESC="$SHORT_DESC."
+		SHORT_DESC="Here you should write a brief description of the $ELEMENT_TYPE_LOWER should be provided + Logo, so that save the logo with name \`__TOOL_NAME__.png\` (or jpg) to the images directory."
+	    else
+		LAST_CHAR=${SHORT_DESC: -1}
+		if [ "$LAST_CHAR" != "." ]
+		then
+		    SHORT_DESC="$SHORT_DESC."
+		fi
+		
 	    fi
+
+	    # echo "s,__TOOL_NAME__,$TOOL_NAME,g" 
+    	    # echo "s,__TOOL_URL__,$URL,g" 
+	    # echo "s/__SHORT_DESC__/$SHORT_DESC/g" 
+    	    # echo "s/__SUBSCRIPTION__/$SUBSCRIPTION_MODE/g" 
+    	    # echo "s,__PLATFORM__,$PLATFORM,g" 
+    	    # echo "s,__TESTED__,$TESTED_BY,g" 
+    	    # echo "s,__ISSUE_URL__,$ISSUE_URL,g" 
+    	    # echo "s,__SIMILAR_URL__,$SIMILAR_URL,g" 
+    	    # echo "s#__COMMENTS__#$COMMENTS#g" 
+
+	    RELATED_LINKS=""
+	    for l in ${LABELS[@]:1}
+	    do
+		SIMILAR_URL_ARGS="?q=label%3A${LABELS[0]}"
+		SIMILAR_URL_ARGS="$SIMILAR_URL_ARGS+label%3A$l"
+		SIMILAR_URL="https://github.com/e-CLOSE/Toolbox/issues$SIMILAR_URL_ARGS"
+		RELATED_LINKS="$RELATED_LINKS [<img src=\"images/$l.png\" align=\"bottom\">]($SIMILAR_URL)"
+	    done
+
+	    echo    "  RELATED_LINKS=[$RELATED_LINKS]"
+	    echo    "  Copying [$TEMPLATE] to [$README] file"
+	    echo -n "  Populating [$README] file with data from excel file... "	
+    	    cat $TEMPLATE \
+		| sed "s,__TOOL_NAME__,$TOOL_NAME,g" \
+		| sed "s,__TOOL_RELATED_LINKS__,$RELATED_LINKS,g" \
+    		| sed "s,__TOOL_URL__,$URL,g" \
+		| sed "s#__SHORT_DESC__#$SHORT_DESC#g" \
+    		| sed "s#__SUBSCRIPTION__#$SUBSCRIPTION_MODE#g" \
+    		| sed "s#__PLATFORM__#$PLATFORM#g" \
+    		| sed "s#__TESTED__#$TESTED_BY#g" \
+    		| sed "s,__ISSUE_URL__,$ISSUE_URL,g" \
+    		| sed "s,__SIMILAR_URL__,$SIMILAR_URL,g" \
+    		| sed "s#__COMMENTS__#- Comments: $COMMENTS#g" > $README
+
+
+	    # Now add separate URLs for each category
+	    RELATED_LINKS=""
+	    for l in ${LABELS[@]:1}
+	    do
+		SIMILAR_URL_ARGS="?q=label%3A${LABELS[0]}"
+		SIMILAR_URL_ARGS="$SIMILAR_URL_ARGS+label%3A$l"
+		SIMILAR_URL="https://github.com/e-CLOSE/Toolbox/issues$SIMILAR_URL_ARGS"
+		RELATED_LINKS="[<img src=\"images/$l.png\">]($SIMILAR_URL)"	    
+		#	    echo "  - [All tools in the $l category]($SIMILAR_URL) $RELATED_LINKS" >> $README
+		echo "  - [All tools in the '$l' category]($SIMILAR_URL)" >> $README
+		#	    echo "  - [![$l](images/$l.png)]($SIMILAR_URL)" >> $README
+		#	    echo "  - [<img src=\"images/$l.png\">]($SIMILAR_URL)" >> $README	    	    	    
+	    done
+	    echo "Done!"	
+	    echo "  Git operations, adding and commiting... "
+	    echo "    git add $README"
+	    echo "    git commit -m \"First commit of $TOOL_NAME data\""
+	    if [ "$DO_GIT_NOTHING" != "DO_GIT_NOTHING" ]
+	    then
+		git add $README
+		git commit -m "First commit of $TOOL_NAME data"
+	    fi
+	    echo " Git operations done!"
 	    
+	    #    echo "- $TOOL_NAME categories: $ISSUE_URL" >> $README
+	    #    echo "- Similar tools: $SIMILAR_URL" >> $README
 	fi
 
-	# echo "s,__TOOL_NAME__,$TOOL_NAME,g" 
-    	# echo "s,__TOOL_URL__,$URL,g" 
-	# echo "s/__SHORT_DESC__/$SHORT_DESC/g" 
-    	# echo "s/__SUBSCRIPTION__/$SUBSCRIPTION_MODE/g" 
-    	# echo "s,__PLATFORM__,$PLATFORM,g" 
-    	# echo "s,__TESTED__,$TESTED_BY,g" 
-    	# echo "s,__ISSUE_URL__,$ISSUE_URL,g" 
-    	# echo "s,__SIMILAR_URL__,$SIMILAR_URL,g" 
-    	# echo "s#__COMMENTS__#$COMMENTS#g" 
-
-	RELATED_LINKS=""
-	for l in ${LABELS[@]:1}
-	do
-	    SIMILAR_URL_ARGS="?q=label%3A${LABELS[0]}"
-	    SIMILAR_URL_ARGS="$SIMILAR_URL_ARGS+label%3A$l"
-	    SIMILAR_URL="https://github.com/e-CLOSE/Toolbox/issues$SIMILAR_URL_ARGS"
-	    RELATED_LINKS="$RELATED_LINKS [<img src=\"images/$l.png\" align=\"bottom\">]($SIMILAR_URL)"
-	done
-
-	echo    "  RELATED_LINKS=[$RELATED_LINKS]"
-	echo    "  Copying [$TEMPLATE] to [$README] file"
-	echo -n "  Populating [$README] file with data from excel file... "	
-    	cat $TEMPLATE \
-	    | sed "s,__TOOL_NAME__,$TOOL_NAME,g" \
-	    | sed "s,__TOOL_RELATED_LINKS__,$RELATED_LINKS,g" \
-    	    | sed "s,__TOOL_URL__,$URL,g" \
-	    | sed "s#__SHORT_DESC__#$SHORT_DESC#g" \
-    	    | sed "s#__SUBSCRIPTION__#$SUBSCRIPTION_MODE#g" \
-    	    | sed "s#__PLATFORM__#$PLATFORM#g" \
-    	    | sed "s#__TESTED__#$TESTED_BY#g" \
-    	    | sed "s,__ISSUE_URL__,$ISSUE_URL,g" \
-    	    | sed "s,__SIMILAR_URL__,$SIMILAR_URL,g" \
-    	    | sed "s#__COMMENTS__#- Comments: $COMMENTS#g" > $README
-
-
-	# Now add separate URLs for each category
-	RELATED_LINKS=""
-	for l in ${LABELS[@]:1}
-	do
-	    SIMILAR_URL_ARGS="?q=label%3A${LABELS[0]}"
-	    SIMILAR_URL_ARGS="$SIMILAR_URL_ARGS+label%3A$l"
-	    SIMILAR_URL="https://github.com/e-CLOSE/Toolbox/issues$SIMILAR_URL_ARGS"
-	    RELATED_LINKS="[<img src=\"images/$l.png\">]($SIMILAR_URL)"	    
-	    #	    echo "  - [All tools in the $l category]($SIMILAR_URL) $RELATED_LINKS" >> $README
-	    echo "  - [All tools in the '$l' category]($SIMILAR_URL)" >> $README
-#	    echo "  - [![$l](images/$l.png)]($SIMILAR_URL)" >> $README
-#	    echo "  - [<img src=\"images/$l.png\">]($SIMILAR_URL)" >> $README	    	    	    
-	done
-	echo "Done!"	
-	echo "  Git operations, adding and commiting... "
-	echo "    git add $README"
-	echo "    git commit -m \"First commit of $TOOL_NAME data\""
-	if [ "$DO_NOTHING" != "DO_NOTHING" ]
-	then
-	    git add $README
-	    git commit -m "First commit of $TOOL_NAME data"
-	fi
-	echo " Git operations done!"
-	
-	#    echo "- $TOOL_NAME categories: $ISSUE_URL" >> $README
-	#    echo "- Similar tools: $SIMILAR_URL" >> $README
     fi
-
+    
     echo "[$TOOL_NAME] processing done!!"
     # echo "Remember to back link the issue from [$README], using [$ISSUE_URL], copying this text:"
     # echo "- $TOOL_NAME categories: $ISSUE_URL"
@@ -220,14 +236,14 @@ Details at $README_URL
     # echo "Remember to back link related tools from [$README], using [$URL], copying this text:"
     # echo "- Similar tools: $SIMILAR_URL"
 
-    exit
+#    exit
     
 done < <(cut -d $DELIMITER -f1,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20 $INPUT_FILE | tail -n +2)
 
-echo "    git push"
-if [ "$DO_NOTHING" != "DO_NOTHING" ]
+echo "  git push"
+if [ "$DO_GIT_NOTHING" != "DO_GIT_NOTHING" ]
 then
-    echo LO HARÍA DE VERDAD git push
+    git push
 fi
 
 
