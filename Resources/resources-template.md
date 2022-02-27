@@ -14,6 +14,7 @@ This section should include a detailed description of the resource.
 - Tested by: __TESTED__
 __COMMENTS__
 
+
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
 This section should include additional references and links to help in
@@ -26,4 +27,4 @@ understanding and using the resource.
 
 - [__RESOURCE_NAME__ creation issue](__ISSUE_URL__)
 - Links to similar resources:
-  - [All tools with the same set of categories](__SIMILAR_URL__)
+  - [All resources with the same set of categories](__SIMILAR_URL__)
