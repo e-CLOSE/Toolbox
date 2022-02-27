@@ -1,5 +1,8 @@
 # [ClassTools.net](https://www.classtools.net/)  [<img src="images/gamification.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agamification) [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
+
+![ClassTools.net Logo](images/logoClasstools.gif)
+
 Web-based application to create and share crosswords, games, quizzes, diagrams and others.
 
 
