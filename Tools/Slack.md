@@ -26,6 +26,7 @@ understanding and using the tool.
 - Slack website: [Slack](https://slack.com/)
 - [Tutorials](https://slack.com/intl/es-es/help/categories/360000049063)
 - [Help](https://slack.com/intl/es-es/help)
+- [Resource Library](https://slack.com/intl/es-es/resources)
 
 
 ## See also...
