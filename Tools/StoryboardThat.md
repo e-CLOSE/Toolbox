@@ -2,7 +2,7 @@
 
 ![StoryboardThat logo](images/storyboardthat.png)
 
-Storyboard creator for small projects to creante graphic content such as Graphic Novels, Comics, Posters, Video Planning, Projects, and Planning.
+Storyboard creator for small projects to create graphic content such as Graphic Novels, Comics, Posters, Video Planning, Projects, and Planning.
 
 
 ## Detailed description & quick guide
