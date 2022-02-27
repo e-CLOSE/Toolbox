@@ -23,12 +23,12 @@ This section should include a detailed description of the tool.
 This section should include additional references and links to help in
 understanding and using the tool.
 
-- wiki (moodle) website: [wiki (moodle)](https://slimwiki.com/)
+- Slimwiki website: [Slimwiki](https://slimwiki.com/)
 
 
 ## See also...
 
-- [wiki (moodle) creation issue](https://github.com/e-CLOSE/Toolbox/issues/127)
+- [Slimwiki creation issue](https://github.com/e-CLOSE/Toolbox/issues/127)
 - Links to similar tools:
   - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adissemination)
   - [All tools in the 'project' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aproject)
