@@ -1,5 +1,7 @@
 # [Trello](https://trello.com/)  [<img src="images/organization.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aorganization) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration) [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication) [<img src="images/project.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aproject)
 
+![Trello Logo](images/trello.png)
+
 Intuitively Simple Boards, Lists & Cards for task management and interaction.
 
 
