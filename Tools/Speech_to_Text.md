@@ -1,6 +1,6 @@
 # [Speech to Text](https://www.textfromtospeech.com)  [<img src="images/other.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aother)
 
-![Speech to Text Logo](images/Speech.PNG)
+![Speech to Text Logo](images/logoSpeech.PNG)
 
 Website that allows to transform text to speech and speech to text and Transcribe audio/video.
 
