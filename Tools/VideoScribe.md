@@ -7,7 +7,17 @@ Easy to use, affordable video software, whiteboard animation software, services,
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Easy animation software to make whiteboard videos fast. No animation, design or video editing skills are needed to get started!
+
+The process of building a short animation video on any subject encourages curiosity and cognitive processing of information.
+
+Some features: MOV and WMV file types. Quick start project templates. Free Library of over 8,000 images.
+You can choose from a diverse range of hands, pens, erasers and more, over 190 royalty-free music tracks, record a voiceover or import your own music, share to Vimeo and Powerpoint or download videos to your computer.
+
+Available for Windows and Mac.
+
+VideoScribe offers a 7-day free trial. You can download VideoScribe once you've signed up.
+
 
 
 ## Additional details
@@ -18,12 +28,11 @@ This section should include a detailed description of the tool.
 - Comments: From an idea to a full storyboard to create show-stopping 2D animations, video presentations and more without needing animation, design or video editing skills
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
+## References
 
 - VideoScribe website: [VideoScribe](https://www.sparkol.com/en)
+- [What is VideoScribe? A one-minute overview](https://www.youtube.com/watch?v=u30fTyXkOdo)
+- [Tutorials](https://support.sparkol.com/knowledge/videoscribe#tutorials) 
 
 
 ## See also...
