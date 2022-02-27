@@ -238,7 +238,7 @@ Details at $README_URL
     # echo "Remember to back link related tools from [$README], using [$URL], copying this text:"
     # echo "- Similar tools: $SIMILAR_URL"
 
-    exit
+
     
 done < <(cut -d $DELIMITER -f1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18 $INPUT_FILE | tail -n +2)
 
