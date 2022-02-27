@@ -7,7 +7,7 @@ Storyboard creator for small projects to creante graphic content such as Graphic
 
 ## Detailed description & quick guide
 
-StoryboardThat is a completely web-based platform for creation, a Powerful Visual Communication tool, easy to use.
+StoryboardThat is a completely web-based platform for creation, a powerful Visual Communication tool, easy to use.
 
 StoryboardThat is a fantastic tool to help create visuals and communicate ideas in the classroom. 
 Makes it easy to create posters, infographics, graphic organizers, and yes, storyboards for any subject! 
