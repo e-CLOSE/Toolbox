@@ -7,7 +7,13 @@ Interactive web-based student-response system (quizzes, polls, etc.) with PowerP
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Pear Deck is an educational web-based application that allows create interactive lessons, in the classroom or working from remote and hybrid learning environments.
+
+Pear Deck lets add interactive assessment questions of many types into the presentation. There's a ton of helpful templates to pick from. Students respond to these learning moments and receive feedback in real time.
+
+Pear Deck is designed to support proven strategies in daily classroom instruction, making it easy for teachers to follow the best practices that reduce achievement gaps and improve outcomes for all students, such as active learning, formative assessment or deeper learning.
+
+The basic free version offers limited features.
 
 
 ## Additional details
@@ -20,10 +26,10 @@ This section should include a detailed description of the tool.
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Pear Deck website: [Pear Deck](https://www.peardeck.com/)
+- [Templates](https://www.peardeck.com/templates)
+- [Help Videos](https://www.peardeck.com/help-videos)
+- [How-to Handbook](https://www.peardeck.com/how-to-handbook)
 
 
 ## See also...
