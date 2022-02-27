@@ -1,5 +1,7 @@
 # [ExplainEverything](https://explaineverything.com/)  [<img src="images/whiteboard.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Awhiteboard) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)
 
+![ExplainEverything Logo](images/explaineverything.png)
+
 Innovative online and mobile whiteboard for engaging collaboration and learning at a distance.
 
 
