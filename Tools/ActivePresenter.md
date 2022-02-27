@@ -19,7 +19,7 @@ ActivePresenter has been developed by Atomi Systems Inc. since 2007.
 - Comments: Features: screem recording, audio and video editing, software simulation, eLearning games, Quiz Building, etc.
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - ActivePresenter website: [ActivePresenter](https://atomisystems.com/activepresenter/)
 - ActivePresenter Tutorials: [Help & Tutorials](https://atomisystems.com/tutorials/)
