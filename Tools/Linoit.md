@@ -1,6 +1,6 @@
 # [Linoit](http://en.linoit.com/)  [<img src="images/organization.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aorganization) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration) [<img src="images/project.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aproject)
 
-![Liniit Logo](images/linoit.png)
+![Linoit Logo](images/linoit.png)
 
 Online stickies service that offers stickies and canvases.
 
