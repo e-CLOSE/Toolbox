@@ -1,5 +1,7 @@
 # [PowToon](https://www.powtoon.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
+![PowToon Logo](images/powtoon.png)
+
 Visual communication platform that has themes of animated characters, props and transitions.
 
 
