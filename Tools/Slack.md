@@ -1,11 +1,13 @@
 # [Slack](https://slack.com/)  [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication) [<img src="images/dissemination.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adissemination)
 
+![Slack logo](images/slack.png)
+
 Professional instant messaging application.
 
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Slack is an enterprise messaging app that makes it easy to connect with coworker inside or outside a given organization. Work is organized into channels, regardless of location, time zone or role, and you can access the information you need when it suits you best. You can ask questions, participate and share updates without having to coordinate agendas. In Slack, everyone in an organization has access to the same information, which is shared and searchable. When teams work together in channels, information can be shared with everyone at the same time, allowing teams to stay on top of things and make decisions faster. 
 
 
 ## Additional details
