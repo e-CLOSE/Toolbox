@@ -1,6 +1,6 @@
 # [Scrumblr](http://www.scrumblr.ca/)  [<img src="images/organization.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aorganization) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)
 
-![Scrumble Logo](images/logoScrumbl.PNG)
+![Scrumblr Logo](images/logoScrumblr.PNG)
 
 Collaborative online tool (whiteboard + kanban) .
 
