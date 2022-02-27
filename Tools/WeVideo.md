@@ -2,7 +2,7 @@
 
 ![WeVideo logo](images/wevideo.png)
 
-YouTube, Instagram, Facebook and other social media channels.
+An online, cloud-based video editing platform that works in web browsers and on mobile devices. YouTube, Instagram, Facebook and other social media channels.
 
 
 ## Detailed description & quick guide
