@@ -7,8 +7,13 @@ Storyboard creator for small projects to creante graphic content such as Graphic
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+StoryboardThat is a completely web-based platform for creation, a Powerful Visual Communication tool, easy to use.
 
+StoryboardThat is a fantastic tool to help create visuals and communicate ideas in the classroom. 
+Makes it easy to create posters, infographics, graphic organizers, and yes, storyboards for any subject! 
+Has thousands of customisable images: Scenes, characters, text, infographics. Characters can change pose, expression, change colours, etc. So it is very easy to create storyboards, convert to pdf, images or make cartoons and videos.
+
+StoryboardThat offers free 14-day trial for educators.
 
 ## Additional details
 
@@ -18,13 +23,11 @@ This section should include a detailed description of the tool.
 - Comments: Create plot diagrams, timelines, posters, and more. These teacher-created lesson plans and resources contain examples and templates that you can tailor and students can use for assignments and projects. 
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
+## References
 
 - StoryboardThat website: [StoryboardThat](https://www.storyboardthat.com/)
-
+- [Teacher Resources](https://www.storyboardthat.com/articles/education/teacher-resources)
+- [Other Helpful Resources](https://www.storyboardthat.com/articles/e/remote-learning#toc-4)
 
 ## See also...
 
