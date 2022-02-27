@@ -7,7 +7,7 @@ Professional instant messaging application.
 
 ## Detailed description & quick guide
 
-Slack is an enterprise messaging app that makes it easy to connect with coworker inside or outside a given organization. Work is organized into channels, regardless of location, time zone or role, and you can access the information you need when it suits you best. You can ask questions, participate and share updates without having to coordinate agendas. In Slack, everyone in an organization has access to the same information, which is shared and searchable. When teams work together in channels, information can be shared with everyone at the same time, allowing teams to stay on top of things and make decisions faster. 
+Slack is an enterprise messaging app that makes it easy to connect with coworkers inside or outside a given organization. Work is organized into channels, regardless of location, time zone or role, and you can access the information you need when it suits you best. You can ask questions, participate and share updates without having to coordinate agendas. In Slack, everyone in an organization has access to the same information, which is shared and searchable. When teams work together in channels, information can be shared with everyone at the same time, allowing teams to stay on top of things and make decisions faster. 
 
 
 ## Additional details
