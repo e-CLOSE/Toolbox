@@ -7,7 +7,12 @@ A platform for beginners, non-designers and professionals to create Animation an
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Animaker is a web platform to create Animation and Live-Action videos with awesome features for every video need. Animaker helps in Video Making, GIF & Short video making or Live video editing.
+
+Some Features: 100M+ Stock Videos and Photos; 1000+ Templates Upload and Edit Videos at 4K Video quality; Instant Resizing for social platforms. 
+You can create animations with the click of a button, choose backgrounds, characters (actions, expressions, settings, insert text, create, edit, and share content).
+
+Animaker offers different [plans and prices](https://app.animaker.com/pricing?language=en). The free option is very limited and with watermark.
 
 
 ## Additional details
@@ -18,12 +23,10 @@ This section should include a detailed description of the tool.
 - Comments: Both live action and animation videos  avialable
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
+## References 
 
 - Animaker website: [Animaker](https://www.animaker.com/)
+- [Tutorials](https://www.animaker.com/tutorials)
 
 
 ## See also...
