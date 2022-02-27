@@ -1,5 +1,7 @@
 # [EclipseCrossword](https://www.eclipsecrossword.com/)  [<img src="images/gamification.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agamification) [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
+![EclipseCrossword Logo](images/eclipsecrossword.png)
+
 Application for windowr to create and share crosswords.
 
 
