@@ -11,9 +11,6 @@ REPO_ROOT=""
 # next issue to create will be ISSUE_OFFSET+LAST_ISSUE
 
 ISSUE_OFFSET=0
-LAST_ISSUE=`gh issue list | sort -n | tail -1 | cut -f 1`
-let LAST_ISSUE=$LAST_ISSUE+$ISSUE_OFFSET+1
-echo "Newly created issue will be [$LAST_ISSUE]"
 
 ###########################################################################
 INPUT_FILE="Scripts/tools-mini-v2.csv" # Careful: delimiter must be #
@@ -92,7 +89,13 @@ do
     echo "  TEMPLATE set to [$TEMPLATE]"
     TOOL_NAME_FILE=`echo "$TOOL_NAME" | sed -e "s/[ [:punct:]]\+/_/g" `
 #    echo "[$TOOL_NAME_FILE]"
-#    exit
+    #    exit
+
+    LAST_ISSUE=`gh issue list | sort -n | tail -1 | cut -f 1`
+    let LAST_ISSUE=$LAST_ISSUE+$ISSUE_OFFSET+1
+    echo "Newly created issue will be [$LAST_ISSUE]"
+
+    
     README="$BASE_DIR/$TOOL_NAME_FILE.md"
     README_URL="https://github.com/e-CLOSE/Toolbox/blob/main/$README"
     ISSUE_URL="https://github.com/e-CLOSE/Toolbox/issues/$LAST_ISSUE"
