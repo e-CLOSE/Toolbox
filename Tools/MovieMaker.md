@@ -1,5 +1,7 @@
 # [MovieMaker](https://www.microsoft.com/en-us/p/movie-maker-free/9mvfq4lmz6c9?activetab=pivot:overviewtab)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
+![MovieMaker Logo](images/windows-movie-maker.png)
+
 Makes home movies amazingly fun.
 
 
