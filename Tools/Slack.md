@@ -24,6 +24,8 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - Slack website: [Slack](https://slack.com/)
+- Tutorials: [Tutorials](https://slack.com/intl/es-es/help/categories/360000049063)
+- Help center: [Help](https://slack.com/intl/es-es/help)
 
 
 ## See also...
