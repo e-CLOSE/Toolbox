@@ -7,8 +7,18 @@ YouTube, Instagram, Facebook and other social media channels.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+WeVideo is an online video editor with some powerful Tools:
+-	Online video editor
+-	Screen recorder
+-	Green screen
+-	Meme maker
+-	Video templates
 
+Make videos on any device, including Chromebook, Windows, Mac, and mobile. Edit on the go with mobile apps for Android and iOS devices. Cloud-based flexibility which means you get unlimited storage for your media and there’s no download or software to install. 
+
+WeVideo offers over 1 million pieces of stock media, including videos, images and music tracks.
+
+Different plans and features: The free WeVideo account has limited features allowing publish 5 min/month and 1 GB Cloud storage.
 
 ## Additional details
 
@@ -20,10 +30,11 @@ This section should include a detailed description of the tool.
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - WeVideo website: [WeVideo](https://www.wevideo.com/)
+- [Getting started with WeVideo](https://www.wevideo.com/support/getting-started-with-wevideo)
+- [For Teachers](https://www.wevideo.com/teachers)
+- [WeVideo Academy Inviting your students](https://www.wevideo.com/academy?wchannelid=hgs1pprp1a&wmediaid=58znlru9iq)
+
 
 
 ## See also...
