@@ -32,7 +32,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - GitHub website: [GitHub](https://github.com/)
-- [GitHub tutorial page](https://docs.github.com/en/get-started/quickstart/hello-worldhttps://docs.github.com/en/get-started/quickstart/hello-world)
+- [GitHub tutorial page](https://docs.github.com/en/get-started/quickstart/hello-world)
 - [Git and GitHub for beginners - Crash
   Course](https://www.youtube.com/watch?v=RGOj5yH7evk) in YouTube.
   
