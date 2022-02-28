@@ -13,7 +13,7 @@ Its most basic version includes a set of assets, but additional ones could be in
 
 Doodles could be black and white or colour ones, the speed of the animation and different parts of the clip can be edited as in other video edition frameworks. 
 Additionally, recorded voice, music, etc., could be included as well. 
-This edition follows a drag-and-drop (simple) approach.
+Video edition follows a drag-and-drop (simple) approach.
 
 Doodly includes continuous software updates.
 
