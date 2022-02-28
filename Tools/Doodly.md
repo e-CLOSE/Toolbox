@@ -1,11 +1,17 @@
 # [Doodly](https://www.doodly.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo) [<img src="images/whiteboard.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Awhiteboard)
 
+![Doodly Logo](images/doodly.png)
+
 It is a whiteboard animation software that allows to create professional and realistic whiteboard videos.
 
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Doodly is a video editor, focused on the creation of short clips and animations, and particularly in doodle-based ones. Several effects are included to animate a hand drawing the animations in different places (whiteboard, crystal, etc.).
+
+Its most basic version includes a set of assets, but additional ones could be included by users, who could only indicate the drawing path in a customized way. 
+
+Doodles could be black and white or colour ones, the speed of the animation and different parts of the clip can be edited as in other video edition frameworks.
 
 
 ## Additional details
