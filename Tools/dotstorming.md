@@ -10,8 +10,11 @@ A real-time group brainstorming and decision making app.
 Dotstorming is a collection of tools that enable collaborative brainstorming, planning and decision making. There are Voting boards - a quick and simple method for prioritizing a list of options and Walls - digital whiteboards that allow the capture, organization and prioritization of ideas through virtual stickies.
 
 Step 1. Create a Dotstorming board
+
 Step 2. Invite participants
+
 Step 3. Add your ideas
+
 Step 4. Vote on the ideas you like
 
 ## Additional details
