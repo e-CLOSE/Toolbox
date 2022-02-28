@@ -24,6 +24,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - Vcasmo website: [Vcasmo](https://www.vcasmo.com/)
+- Vcasmo help: [Vcasmo help](https://www.vcasmo.com/user/VCASMO)
 
 
 ## See also...
