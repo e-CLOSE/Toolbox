@@ -24,7 +24,9 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - Figma website: [Figma](https://www.figma.com/)
-
+- [Figma education programm](https://www.figma.com/education/)
+- [Figma community](https://www.figma.com/community)
+- 
 
 ## See also...
 
