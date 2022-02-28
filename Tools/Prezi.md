@@ -22,6 +22,9 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - Prezi website: [Prezi](https://prezi.com/)
+- [Prezi support](https://support.prezi.com/hc/en-us)
+- [Tips and Trics](https://www.hongkiat.com/blog/prezi-tips-tricks/)
+- [Prezi helpdesk](https://www.liveagent.com/directory/prezi-help-desk-contacts/)
 
 
 ## See also...

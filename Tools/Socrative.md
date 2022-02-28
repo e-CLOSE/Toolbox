@@ -7,7 +7,7 @@ Interactive web-based student-response system (quizzes, polls, etc.).
 
 ## Detailed description & quick guide
 
-Allow the generation of sets of questions to be posed to students
+Allows the generation of sets of questions to be posed to students
 interactively. You create the set, with the correct answers, and then
 can launch it, so that students can reply. Real time results are
 easily shown and, after the quizz/poll, you can send the results

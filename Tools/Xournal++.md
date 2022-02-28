@@ -8,13 +8,13 @@ Powerful open source and cross-platform whiteboard/blackboard & note taking app.
 ## Detailed description
 
 Hand note-taking software that is perfectly suited as a virtual
-whiteboard/blackboard, supporting drawing on top of pdf files. The
-interace is simple and comfortable interface, with plenty of
+whiteboard/blackboard, supporting drawing on top of \*.pdf files. The
+interface is simple and comfortable, with plenty of
 customization capabilities (including a lua based interface to allow
 macro definitions).
 
 It has full support of pressure-sensitive stylus and drawing tablets,
-layer support, image addition support, LaTeX based math equations,
+layer support, image addition support, LaTeX-based math equations,
 audio recording, etc.
 
 

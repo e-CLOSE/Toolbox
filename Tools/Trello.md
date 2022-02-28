@@ -24,6 +24,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - Trello website: [Trello](https://trello.com/)
+- Trello Help: [Trello Help](https://help.trello.com/)
 
 
 ## See also...
