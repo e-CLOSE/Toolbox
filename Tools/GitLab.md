@@ -2,10 +2,24 @@
 
 Collaborative development platform that hosts projects using the git revision control system .
 
+![GitLab logo](images/GitLab.png)
+
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+
+GitLab is The DevOps Platform that empowers organizations to maximize the overall return on software development by delivering software faster and efficiently, while strengthening security and compliance. With GitLab, every team in your organization can collaboratively plan, build, secure, and deploy software to drive business outcomes faster with complete transparency, consistency and traceability. Moreover, GitLab helps teams manage and optimize their software delivery lifecycle with metrics and value stream insight in order to streamline and increase their delivery velocity by providing different features:
+
+- Regardless of your process, GitLab provides powerful planning tools to keep everyone synchronized.
+- Create, view, and manage code and project data through powerful branching tools.
+- Verification by keeping strict quality standards for production code with automatic testing and reporting.
+- Create a consistent and dependable software supply chain with built-in package management.
+- Security capabilities, integrated into your development lifecycle.
+- GitLab's integrated CD solution allows you to ship code with zero-touch, be it on one or one thousand servers.
+- Configure your applications and infrastructure.
+- Help reduce the severity and frequency of incidents.
+- Protect your apps and infrastructure from security intrusions.
+
 
 
 ## Additional details
