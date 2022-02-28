@@ -7,7 +7,7 @@ It is a whiteboard animation software that allows to create professional and rea
 
 ## Detailed description & quick guide
 
-Doodly is a video editor, focused on the creation of short clips and animations, and particularly in doodle-based ones. Several effects are included to animate a hand drawing the animations in different places (whiteboard, crystal, etc.).
+Doodly is a video editor, focused on the creation of short clips and animations, and particularly on doodle-based ones. Several effects are included to animate a hand drawing the animations in different places (whiteboard, crystal, etc.).
 
 Its most basic version includes a set of assets, but additional ones could be included by users, who could only indicate the drawing path in a customized way. 
 
