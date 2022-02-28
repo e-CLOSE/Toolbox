@@ -38,7 +38,7 @@ understanding and using the tool.
 - dotstorming website: [dotstorming](https://dotstorming.com/)
 - Dotstorming Tutorial for Teachers: [Dotstorming Tutorial for Teachers](https://www.youtube.com/watch?v=5M2keRMCr_c)
 - Getting started with dotstorming: [Getting started with dotstorming](https://www.youtube.com/watch?v=5M2keRMCr_c)
-
+- How to host a brainstorming session on Dotstorming.com: [How to host a brainstorming session on Dotstorming.com](https://www.youtube.com/watch?v=eTDbzdIC0BM)
 
 ## See also...
 
