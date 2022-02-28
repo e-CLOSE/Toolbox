@@ -2,6 +2,7 @@
 
 Classroomscreen is an online tool that allows you to display the instructions for lesson and lectures in a clear and visual way.
 
+![Classroomscreen logo](images/Classroomscreen.png)
 
 ## Detailed description & quick guide
 
