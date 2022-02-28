@@ -1,11 +1,12 @@
 # [MindMup](https://www.mindmup.com/)  [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration) [<img src="images/organization.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aorganization) [<img src="images/project.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aproject)
 
-Create, share and publish simple mind maps.
+![Mindmup Logo](images/mindmup.png)
 
+Create, share and publish simple mind maps.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+MindMup is a mind-mapping tool that lets students create and share mind maps. Users can save or share their creations either on MindMup’s cloud or through Google Drive. Maps can be customized with branches called nodes (known as parents, children, and siblings); nodes can be color-coded, and images can be added near a node. A storyboard feature allows users to look at their mind map from a different view, but it's best used once the map has already been created. 
 
 
 ## Additional details
@@ -22,7 +23,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - MindMup website: [MindMup](https://www.mindmup.com/)
-
+- [Tutorials](https://www.mindmup.com/tutorials/index.html)
 
 ## See also...
 
