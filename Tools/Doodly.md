@@ -11,7 +11,11 @@ Doodly is a video editor, focused on the creation of short clips and animations,
 
 Its most basic version includes a set of assets, but additional ones could be included by users, who could only indicate the drawing path in a customized way. 
 
-Doodles could be black and white or colour ones, the speed of the animation and different parts of the clip can be edited as in other video edition frameworks.
+Doodles could be black and white or colour ones, the speed of the animation and different parts of the clip can be edited as in other video edition frameworks. 
+Additionally, recorded voice, music, etc., could be included as well. 
+This edition follows a drag-and-drop (simple) approach.
+
+Doodly includes continuous software updates.
 
 
 ## Additional details
