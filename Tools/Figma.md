@@ -1,11 +1,13 @@
 # [Figma](https://www.figma.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration) [<img src="images/cognitive.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acognitive) [<img src="images/whiteboard.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Awhiteboard)
 
+![Figma Logo](images/Figma.png)
+
 End-to-end collaboration by connecting teams in the design process by integrating diagram, sticky-note, workshop tools and online whiteboard .
 
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Figma is a collaborative graphics editor and prototyping tool. It is a web application that can be used in the Google Chrome browser or, also, can be downloaded to work with it on the computer.  The application is especially focused on wireframing websites, designing mobile app interfaces, prototyping designs, crafting social media posts , and everything in between. provides several tools for collaborative work since it works in the cloud. It enables real-time sharing on the same file.
 
 
 ## Additional details
