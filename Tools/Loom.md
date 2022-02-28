@@ -2,12 +2,12 @@
 
 ![Loom logo](images/Loom.png)
 
-Web based simple & fast screen+webcam recorder focused in easy & instant sharing.
+Web-based simple & fast screen+webcam recorder focused in easy & instant sharing.
 
 
 ## Detailed description & quick guide
 
-Loom is a web based application that allows you to easily record
+Loom is a web-based application that allows you to easily record
 your screen, webcam or both, and easily send the recorded video.
 
 You log in their site and select "New Video", select the options (flip
@@ -17,11 +17,11 @@ clipboard, for easy sharing
 (e.g. https://www.loom.com/share/beace631cf81400991015e385463b13a). While
 recording, you can superimpose the "webcam view", and move it around.
 
-It's a great tool to easily generate screencasts, or even provide
+It is a great tool to easily generate screencasts, or even provide
 video feedback to students while you are interacting with any material
 (recommendations, notes on assignments, comments, etc.).
 
-The free version has a video duration limited to 5 minutes, more than
+The free version has a video duration limited to 5 minutes, though more than
 enough for a lot of uses.
 
 You can also use it from the Chrome extension.
