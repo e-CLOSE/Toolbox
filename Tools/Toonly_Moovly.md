@@ -29,6 +29,8 @@ understanding and using the tool.
 
 - Toonly website: [Toonly](https://www.toonly.com/)
 - Moovly website: [Moovly](https://www.moovly.com/)
+- Toonly @YouTube: [Toonly Official @YouTube](https://www.youtube.com/channel/UCMwfRBNy1KM1rf2fBYbGSVg)
+- Moovly @YouTube: [Moovly @YouTube](https://www.youtube.com/c/Moovly)
 
 
 ## See also...
