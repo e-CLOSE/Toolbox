@@ -2,6 +2,7 @@
 
 Create online courses and coaching services. Transform your experience and know-how into a thriving knowledge business.
 
+![Teachable logo](images/Teachable.png)
 
 ## Detailed description & quick guide
 
