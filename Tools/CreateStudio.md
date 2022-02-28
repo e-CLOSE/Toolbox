@@ -9,7 +9,7 @@ Its most basic version includes a set of assets, but additional ones could be in
 The speed of the animation and different parts of the clip can be edited as in other video edition frameworks. 
 Additionally, recorded voice, music, etc., could be included as well. 
 It also includes a way to create voice from written text.
-This edition follows a drag-and-drop (simple) approach.
+Vieo edition follows a drag-and-drop (simple) approach.
 
 
 ## Detailed description & quick guide
