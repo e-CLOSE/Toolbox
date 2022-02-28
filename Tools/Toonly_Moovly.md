@@ -1,11 +1,14 @@
-# [Toonly Moovly](https://www.toonly.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
+# [Toonly, Moovly, etc.](https://www.toonly.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
+
+![Toonly Logo](images/toonly.png)
+![Moovly Logo](images/moovly.png)
 
 Drag and drop explainer video creator that generates cartoon videos to entertain,.
 
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Following the approach of [Doodly](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Doodly.md), many different video editors coexist with different functionalities. Some examples of these are Toonly and Moovly.
 
 
 ## Additional details
@@ -21,7 +24,8 @@ This section should include a detailed description of the tool.
 This section should include additional references and links to help in
 understanding and using the tool.
 
-- Toonly Moovly website: [Toonly Moovly](https://www.toonly.com/)
+- Toonly website: [Toonly](https://www.toonly.com/)
+- Moovly website: [Moovly](https://www.moovly.com/)
 
 
 ## See also...
