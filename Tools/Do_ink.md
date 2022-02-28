@@ -2,11 +2,14 @@
 
 Drawing editor to create vector artwork and frame-by-frame (flip book) animations. and composition editor to combine your artwork into more complex and sophisticated scenes with Green screen support.
 
+![Do_ink Logo](images/Do_ink.png)
+
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Animation & Drawing by Do Ink is the fun, creative way to make animations on your iPad. The app was designed to be easy for beginners and young animators, but with powerful tools for creating advanced animations. Use the drawing editor to create vector artwork and frame-by-frame (flip book) animations. Use the composition editor to combine your artwork – along with props from the Do Ink prop library – into more complex and sophisticated scenes. Save to the camera roll, then share your creations with friends, classmates, or the world.
 
+Green Screen by Do Ink makes it easy to create incredible green screen videos and images right on your iPad or iPhone. The app lets you combine photos and videos from the camera roll with live images from your iPad or iPhone's camera. Featured in "Best New Apps in Education" in iTunes and classroom-tested by kids and teachers, this app emphasizes ease-of-use and simplicity while still enabling you to get fantastic results. With Green Screen by Do Ink, you can tell a story, explain an idea, and express yourself in truly creative and unique ways.
 
 ## Additional details
 
