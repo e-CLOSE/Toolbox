@@ -2,6 +2,7 @@
 
 Data visualization tool capable of showing data in beautiful charts, maps or tables with a few clicks.
 
+![Datawrapper logo](images/datawrapper.png)
 
 ## Detailed description & quick guide
 
