@@ -24,6 +24,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - Streamyard website: [Streamyard](https://streamyard.com/broadcasts)
+- Streamyard help: [Streamyard help](https://support.streamyard.com/hc/en-us)
 
 
 ## See also...
