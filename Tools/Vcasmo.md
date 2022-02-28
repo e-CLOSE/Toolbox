@@ -7,8 +7,12 @@ Platform to share and create presentations with expressions, voice and slides.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+VCASMO is a multimedia presentation solution for photo and video slide shows, business presentations, training, academic teaching, sales pitches, and seminars.
 
+The pronunciation of VCASMO is V-CAS-MO.
+VCASMO is an acronym of video broadcast promotion.
+
+No limitations on presentation quantity per month, storage space is limited. You can create unlimited presentations even with a free account. 
 
 ## Additional details
 
@@ -24,7 +28,6 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - Vcasmo website: [Vcasmo](https://www.vcasmo.com/)
-- Vcasmo help: [Vcasmo help](https://www.vcasmo.com/user/VCASMO)
 
 
 ## See also...
