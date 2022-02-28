@@ -7,7 +7,7 @@ A real-time group brainstorming and decision making app.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Dotstorming is a collection of tools that enable collaborative brainstorming, planning and decision making. There are Voting boards - a quick and simple method for prioritizing a list of options and Walls - digital whiteboards that allow the capture, organization and prioritization of ideas through virtual stickies.
 
 
 ## Additional details
