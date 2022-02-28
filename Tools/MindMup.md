@@ -1,6 +1,6 @@
 # [MindMup](https://www.mindmup.com/)  [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration) [<img src="images/organization.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aorganization) [<img src="images/project.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aproject)
 
-![Mindmup Logo](images/mindmup.png)
+![Mindmup Logo](images/Mindmup.png)
 
 Create, share and publish simple mind maps.
 
