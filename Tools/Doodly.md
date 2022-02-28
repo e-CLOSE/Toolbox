@@ -28,6 +28,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - Doodly website: [Doodly](https://www.doodly.com/)
+- Official Doodly tutorials: [Doodly Official @YouTube](https://www.youtube.com/channel/UC0naFmQzU8GtFEZiTkBqaSg)
 
 
 ## See also...
