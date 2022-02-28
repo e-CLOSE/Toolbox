@@ -24,6 +24,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - SimpleMind website: [SimpleMind](https://simplemind.eu/)
+- SimpleMind help: [SimpleMind help](https://simplemind.eu/support/)
 
 
 ## See also...
