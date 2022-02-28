@@ -7,13 +7,13 @@ Collaborative development platform that hosts projects using the git revision co
 
 ## Detailed description
 
-As sated in their [web
+As stated in their [web
 page](https://docs.github.com/en/get-started/quickstart/hello-worldhttps://docs.github.com/en/get-started/quickstart/hello-world),
 GitHub is a code hosting platform for version control and
 collaboration. It lets you and others work together on projects from
 anywhere.
 
-GitHub is a Web based version control hosting site, based on git &
+GitHub is a web-based version control hosting site, based on *git* &
 more. Free access allows unlimited public repositories with full
 features, and unlimited private repositories with a limited feature
 set.
