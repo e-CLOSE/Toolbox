@@ -7,7 +7,7 @@ End-to-end collaboration by connecting teams in the design process by integratin
 
 ## Detailed description & quick guide
 
-Figma is a collaborative graphics editor and prototyping tool. It is a web application that can be used in the Google Chrome browser or, also, can be downloaded to work with it on the computer.  The application is especially focused on wireframing websites, designing mobile app interfaces, prototyping designs, crafting social media posts , and everything in between. provides several tools for collaborative work since it works in the cloud. It enables real-time sharing on the same file.
+Figma is a collaborative graphics editor and prototyping tool. It is a web application that can be used in the Google Chrome browser or, also, can be downloaded to work with it on the computer.  The application is especially focused on wireframing websites, designing mobile app interfaces, prototyping designs and crafting social media posts. It provides several tools for collaborative work and enables real-time sharing on the same file.
 
 
 ## Additional details
