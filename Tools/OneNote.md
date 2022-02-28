@@ -2,11 +2,24 @@
 
 OneNote for Education allows a personal workspace for every student, a content library for handouts, and a collaboration space for lessons and creative activities  allowing the tracking of any activity or assignment.
 
+![OneNote logo](images/onenote.png)
+
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+The ultimate tool for classroom organization, OneNote enables you to organize your lesson plans and course content in your own digital notebook ensuring you keep track of every assignment or a flash of inspiration.
 
+### Characteristics:
+
+- Keep everything in OneNote and use its powerful search to find what you're looking for.
+- Access and edit your OneNote notebooks from anywhere, across devices.
+- With digital ink, handwritten notes, sketch diagrams, videos, and pictures, OneNote turns notes into living documents.
+- Organise your course content.
+- Create and deliver interactive lessons.
+- Collaborate and provide feedback.
+- Different profiles: students, teachers, staff.
+
+Students and educators are eligible for Office 365 Education for free, including OneNote, Word, Excel, PowerPoint, and now Microsoft Teams. All you need is a valid school email address. It’s not a trial.
 
 ## Additional details
 
