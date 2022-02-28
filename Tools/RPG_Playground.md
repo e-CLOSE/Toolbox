@@ -3,6 +3,8 @@
 Create your game by dragging and dropping items into your world. It is ideal for hobby games, personal projects, school assignments, etc.
 
 
+![RPGPlayground logo](images/RPGPlayground.png)
+
 ## Detailed description & quick guide
 
 This section should include a detailed description of the tool.
