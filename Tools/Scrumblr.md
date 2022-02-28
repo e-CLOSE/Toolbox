@@ -24,8 +24,8 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - Scrumblr website: [Scrumblr](http://www.scrumblr.ca/)
-- Scrumblr help: [Scrumblr help](https://scrumblr.tawk.help/)
-- Introduction to scrumblr: [Introduction to scrumblr](https://www.tvagile.com/2011/10/10/introduction-to-scrumblr/)
+- [Scrumblr help](https://scrumblr.tawk.help/)
+- [Introduction to scrumblr](https://www.tvagile.com/2011/10/10/introduction-to-scrumblr/)
 
 
 ## See also...
