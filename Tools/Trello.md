@@ -7,7 +7,9 @@ Intuitively Simple Boards, Lists & Cards for task management and interaction.
 
 ## Detailed description & quick guide
 
-Trello means boards, lists and cards. You can customize and expand with more features as your team grows. You can manage projects, organize tasks and build team spirit. You can use task assignment, timelines, efficiency indicators, calendars, and more.
+Trello means boards, lists and cards. You can customize and expand with more features as your team grows. You can manage projects, organize tasks and build team spirit. You can use task assignment, timelines, efficiency indicators, calendars, and more. Using cards every part of the task can be managed, tracked and shared with team members. There are available lists of tasks, deadlines, attachments and conversations.
+
+
 
 ## Additional details
 
