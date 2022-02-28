@@ -29,6 +29,8 @@ All of these types of questions can be intertwined with slides (e.g., PowerPoint
 
 Wooclap allows setting different parameters, such as: the duration of questions, how to share them, an indicator for students to click if they feel lost, or even the competition mode to show a podium with a score board.
 
+Participants can simply join with a **code** and presenters can later on **export all results** to an \*.xslx file, for example.
+
 ## Additional details
 
 - Subscription mode: Freemium
