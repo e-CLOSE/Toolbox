@@ -7,6 +7,8 @@ Live streaming studio in your browser.
 
 ## Detailed description & quick guide
 
+Streamyard is a trusted microphone, a stable podium, an elevated stage - built to provide you with the easiest way to reach your audience.
+
 Streamyard makes possible:
 - easy live streaming and recording
 - multistreaming to many platforms at once
