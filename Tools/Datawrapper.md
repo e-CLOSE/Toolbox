@@ -4,7 +4,7 @@ Data visualization tool capable of showing data in beautiful charts, maps or tab
 
 ![Datawrapper logo](images/Datawrapper.png)
 
-## Detailed description & quick guide
+# Detailed description & quick guide
 
 Datawrapper lets you show your data as charts, maps or tables with a few clicks. Find out more about all the available visualization types.
 
