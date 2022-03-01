@@ -24,6 +24,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - GeoGebra website: [GeoGebra](https://www.geogebra.org/)
+- [GeoGebra Manual](https://wiki.geogebra.org/?do=lastcomments)
 
 
 ## See also...
