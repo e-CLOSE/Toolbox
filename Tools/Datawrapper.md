@@ -8,7 +8,7 @@ Data visualization tool capable of showing data in beautiful charts, maps or tab
 
 Datawrapper lets you show your data as charts, maps or tables with a few clicks. Find out more about all the available visualization types.
 
-Characteristics:
+## Characteristics:
 
 Charts: Use one of 20 interactive and responsive chart types ranging from simple bars and lines to arrow, range and scatter plots.
 
