@@ -9,6 +9,7 @@
 This database is divided into three main categories:
 - [Methodologies](https://github.com/e-CLOSE/Toolbox/tree/main/Methodologies) :book: 
 - [Resources](https://github.com/e-CLOSE/Toolbox/blob/main/Resources) :paperclip:
+
   [<img src="Resources/images/resource-audio.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aaudio)
   [<img src="Resources/images/resource-design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Adesign)
   [<img src="Resources/images/resource-icon.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aicon) 
@@ -19,6 +20,7 @@ This database is divided into three main categories:
   [<img src="Resources/images/resource-video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Avideo)
   
 - [Tools](https://github.com/e-CLOSE/Toolbox/tree/main/Tools) :hammer_and_wrench:
+
   [<img src="Tools/images/audio.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aaudio)
   [<img src="Tools/images/cognitive.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acognitive)
   [<img src="Tools/images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)
