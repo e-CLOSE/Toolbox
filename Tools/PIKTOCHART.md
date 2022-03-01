@@ -25,6 +25,7 @@ understanding and using the tool.
 
 - PIKTOCHART website: [PIKTOCHART](https://piktochart.com/)
 - [Piktochart Tutorial](https://guides.library.ucsc.edu/DS/Resources/Piktochart)
+- [Piktochart manual](https://www.atu.edu/assessment/documents/Piktochart-e-book-2-Create-Your-First-Infographic-In-15-Minutes.pdf)
 
 
 ## See also...
