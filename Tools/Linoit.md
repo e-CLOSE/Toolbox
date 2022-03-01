@@ -24,6 +24,8 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - Linoit website: [Linoit](http://en.linoit.com/)
+- [How to use lino](http://linoit.com/users/linoit-com/canvases/How%20to%20lino)
+- [Linoit Tutorial](https://www.youtube.com/watch?v=xWS28cb4CK0)
 
 
 ## See also...
