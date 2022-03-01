@@ -26,5 +26,5 @@ understanding and using the resource.
 ## See also...
 
 - [__RESOURCE_NAME__ creation issue](__ISSUE_URL__)
-- Links to similar resources:
+- Links to related resources:
 
