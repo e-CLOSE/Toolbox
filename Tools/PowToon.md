@@ -24,6 +24,8 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - PowToon website: [PowToon](https://www.powtoon.com/)
+- [PowToon support](https://support.powtoon.com/en/)
+- [How to use PowToon](https://www.youtube.com/watch?v=AFv8L0z-72c)
 
 
 ## See also...
