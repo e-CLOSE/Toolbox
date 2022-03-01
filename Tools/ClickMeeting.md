@@ -17,7 +17,9 @@ A live webinar has several opportunities for lead generation and nurturing. Gath
 
 **Collect data** with live surveys and use it for the verification of your idea afterwards.
 
-**Get instant feedback**0 by running a Q&A session. Let people discuss your topic in real-time.
+**Get instant feedback** by running a Q&A session. Let people discuss your topic in real-time.
+
+**Share your webinars live** with live streaming on YT and FB
 
 
 ## Additional details
