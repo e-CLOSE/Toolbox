@@ -7,7 +7,12 @@ Live streaming studio in your browser.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Streamyard makes possible:
+- easy live streaming and recording
+- multistreaming to many platforms at once
+- easy bringing in guests
+- on-brand and professional streams
+- interacting with viewers and show comments on screen
 
 
 ## Additional details
