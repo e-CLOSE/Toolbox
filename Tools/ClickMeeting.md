@@ -24,6 +24,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - ClickMeeting website: [ClickMeeting](https://clickmeeting.com/)
+- [Video-tutorials](https://knowledge.clickmeeting.com/video/)
 
 
 ## See also...
