@@ -5,7 +5,7 @@
 This folder is meant to keep information on each of the tools suggested
 within the e-CLOSE project, under the IO2 working group.
 
-There is a single `md` file for each of the collected tools. Indexing is done from the [issues section](https://github.com/e-CLOSE/Toolbox/issues), and you can also access related tools by following the labels next to the titles in each tool description file.
+There is a single `md` file for each of the collected tools. Indexing is done from the [issues section](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL), and you can also access related tools by following the labels next to the titles in each tool description file.
 
 Here you are the full list of tool categories that are linked to their
 corresponding list of tools:
