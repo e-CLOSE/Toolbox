@@ -14,7 +14,7 @@ This section should include a detailed description of the tool.
 
 - Subscription mode: Freemium
 - Platform: N/A
-- Tested by: ...
+- Tested by: TUL (Gertruda)
 - Comments: Tool that lets you annotate, animate, narrate, import, and export
 
 
@@ -24,6 +24,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - ExplainEverything website: [ExplainEverything](https://explaineverything.com/)
+- [ExplainEverything manual](https://explaineverything.com/brand-new-multi-touch-explain-everything-user-manual/)
 
 
 ## See also...
