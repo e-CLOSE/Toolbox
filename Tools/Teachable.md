@@ -22,7 +22,7 @@ Teachable is a tool to share their knowledge. It permits us to easily create an 
 ## Additional details
 
 - Subscription mode: Company account (Teachable)
-- Platform: Web, Ios, 
+- Platform: Web, iOS
 - Tested by: UAH (Amelio); UAH (Rosa)
 - Comments: Online platform that helps to build online courses and monetize courses
 
