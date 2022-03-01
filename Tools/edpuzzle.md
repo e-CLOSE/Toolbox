@@ -24,6 +24,8 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - edpuzzle website: [edpuzzle](https://edpuzzle.com/)
+- [edpuzzle support](https://support.edpuzzle.com/hc/en-us/sections/360001671011-Getting-Started)
+- Edpuzzle Help](https://www.youtube.com/watch?v=MzG597ojhgE)
 
 
 ## See also...
