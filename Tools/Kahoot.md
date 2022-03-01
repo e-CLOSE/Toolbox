@@ -1,6 +1,6 @@
 # [Kahoot](https://kahoot.com/)  [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback) [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation) [<img src="images/gamification.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agamification)
 
-![](images/Kahoot.png)
+![Kahoot logo](images/Kahoot.png)
 
 Interactive web-based student-response system (quizzes, polls, etc.).
 
@@ -40,7 +40,6 @@ understanding and using the tool.
 
 - [Kahoot creation issue](https://github.com/e-CLOSE/Toolbox/issues/66)
 - Links to similar tools:
-  - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agamification)
   - [All tools in the 'feedback' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback)
   - [All tools in the 'evaluation' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
   - [All tools in the 'gamification' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agamification)

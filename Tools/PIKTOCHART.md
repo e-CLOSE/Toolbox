@@ -32,7 +32,6 @@ understanding and using the tool.
 
 - [PIKTOCHART creation issue](https://github.com/e-CLOSE/Toolbox/issues/104)
 - Links to similar tools:
-  - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avisualization)
   - [All tools in the 'design' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign)
   - [All tools in the 'presentations' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Apresentations)
   - [All tools in the 'visualization' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avisualization)
