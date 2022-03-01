@@ -25,7 +25,7 @@ No coding required!
 
 - Subscription mode: Freemium
 - Platform: Web
-- Tested by: UAH (Elisa)
+- Tested by: UAH (Amelio) UAH (Elisa)
 - Comments:  No programming or artistic skills required. It’s a freemium rpg maker. Games can be shared with the community.
 
 
