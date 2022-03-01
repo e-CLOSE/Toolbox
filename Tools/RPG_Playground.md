@@ -15,7 +15,7 @@ It is Ideal for the development of your first game, since it is possible to crea
 
 Likewise, it permits you to write your story, create fantasy worlds and tell stories. Focus on the plot, atmosphere and player choices.
 
-Exist an important community around this application, in it, multiples Multiple games are shared every day. Some games are small, some are big, some are finished, some are still in development. Decide if and when you want to share your game, and let others experience your world and story.
+Exists an important community around this application, in it, multiples Multiple games are shared every day. Some games are small, some are big, some are finished, some are still in development. Decide if and when you want to share your game, and let others experience your world and story.
 
 Plus, you can register for free, so there is nothing stopping you from using it.
 No coding required!
