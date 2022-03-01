@@ -2,8 +2,7 @@
 
 Drawing editor to create vector artwork and frame-by-frame (flip book) animations. and composition editor to combine your artwork into more complex and sophisticated scenes with Green screen support.
 
-![Do_ink Logo](images/Do_ink.png)
-
+[<img src="images/Do_ink.png" align="bottom" height="100" alt="Do_ink">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Do_ink.md)
 
 ## Detailed description & quick guide
 
