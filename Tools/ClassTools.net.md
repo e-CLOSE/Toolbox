@@ -11,7 +11,7 @@ Website containing of applications for creating and sharing crosswords, games, q
 This section should include a detailed description of the tool.
 ClassTools.net includes planty of free quizzes, games, activitiesand diagrams which can be use as templates to create ones own activities.
 Each template can be saved as a stand-alone HTML file or as a Widget that can be embedded into a blog or wiki - as long as it is non-commercial (commerical use is allowed via a premium subscription). However, downloaded HTML files still need to communicate with the ClassTools server and therefore require a computer to have an internet connection.
-The templates changed stay at the server permanently. The only exception is for files which are not accessed even once during a 12-month period. At this point they are considered to be dormant and may be removed from the server to clear space.
+The saved templates stay on the server permanently. The only exception is for files which are not accessed even once during a 12-month period. At this point they are considered to be dormant and may be removed from the server to clear space.
 
 ## Additional details
 
