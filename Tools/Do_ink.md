@@ -14,7 +14,7 @@ Green Screen by Do Ink makes it easy to create incredible green screen videos an
 
 - Subscription mode: Free
 - Platform: iOS 
-- Tested by: ...
+- Tested by: UAH(Amelio)
 - Comments: Simple tool for Apple devices
 
 
