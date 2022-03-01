@@ -2,8 +2,7 @@
 
 Google Calendar quickly allows the schedule of meetings and events and getting reminders about upcoming activities. 
 
-![Google_Calendar logo](images/Google_Calendar.png)
-
+[<img src="images/Google_Calendar.png" align="bottom" height="100" alt="Google_Calendar">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Google_Calendar.md)
 
 ## Detailed description & quick guide
 
