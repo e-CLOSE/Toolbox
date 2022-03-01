@@ -24,6 +24,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - PIKTOCHART website: [PIKTOCHART](https://piktochart.com/)
+- [Piktochart Tutorial](https://guides.library.ucsc.edu/DS/Resources/Piktochart)
 
 
 ## See also...
