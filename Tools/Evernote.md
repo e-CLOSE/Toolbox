@@ -24,6 +24,8 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - Evernote website: [Evernote](https://play.google.com/store/apps/details?id=com.evernote&hl=pl&gl=US)
+- [Evernote help](https://help.evernote.com/hc/en-us/categories/10681-Using-Evernote)
+- [Evernote for Beginners Tutorial](https://www.youtube.com/watch?v=6z4plcBQsow)
 
 
 ## See also...
