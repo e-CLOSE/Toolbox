@@ -27,4 +27,4 @@ understanding and using the resource.
 
 - [__RESOURCE_NAME__ creation issue](__ISSUE_URL__)
 - Links to similar resources:
-  - [All resources with the same set of categories](__SIMILAR_URL__)
+
