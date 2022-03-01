@@ -24,6 +24,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - Poll Everywhere website: [Poll Everywhere](https://www.polleverywhere.com/)
+- [Poll Everywhere support](https://support.polleverywhere.com/hc/en-us)
 
 
 ## See also...
