@@ -3,7 +3,7 @@
 ![Toonly Logo](images/toonly.png)
 ![Moovly Logo](images/moovly.png)
 
-Drag and drop explainer video creator that generates cartoon videos to entertain,.
+Drag and drop explainer video creator that generates cartoon videos to entertain.
 
 
 ## Detailed description & quick guide

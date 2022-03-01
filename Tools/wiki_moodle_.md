@@ -24,6 +24,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - Slimwiki website: [Slimwiki](https://slimwiki.com/)
+- [Slimwiki help](https://slimwiki.com/help)
 
 
 ## See also...

@@ -2,8 +2,7 @@
 
 Collaborative development platform that hosts projects using the git revision control system .
 
-![GitLab logo](images/GitLab.png)
-
+[<img src="images/GitLab.png" align="bottom" height="100" alt="GitLab logo">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/GitLab.md)
 
 ## Detailed description & quick guide
 

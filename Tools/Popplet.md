@@ -24,6 +24,8 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - Popplet website: [Popplet](https://www.popplet.com/)
+- [Popplet Tutorial](https://www.youtube.com/watch?v=HdGbELqaIYk)
+- [Popplet support](https://www.popplet.com/support/)
 
 
 ## See also...

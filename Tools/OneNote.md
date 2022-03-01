@@ -2,8 +2,7 @@
 
 OneNote for Education allows a personal workspace for every student, a content library for handouts, and a collaboration space for lessons and creative activities  allowing the tracking of any activity or assignment.
 
-![OneNote logo](images/onenote.png)
-
+[<img src="images/onenote.png" align="bottom" height="100" alt="OneNote">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/OneNote.md)
 
 ## Detailed description & quick guide
 

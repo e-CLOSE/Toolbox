@@ -3,16 +3,29 @@
 Create your game by dragging and dropping items into your world. It is ideal for hobby games, personal projects, school assignments, etc.
 
 
+![RPGPlayground logo](images/RPGPlayground.png)
+
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+RPG Playground is a free web game creation tool that permits the easiest way to design your own Role Playing Games. No programming or artistic skills required. It’s a freemium rpg maker. Games can be shared with the community.
+
+# Characteristics
+
+It is Ideal for the development of your first game, since it is possible to create your game by dragging and dropping items into your world. It is ideal for hobby games, personal projects, school assignments, etc.
+
+Likewise, it permits you to write your story, create fantasy worlds and tell stories. Focus on the plot, atmosphere and player choices.
+
+Exists an important community around this application, in it, multiples Multiple games are shared every day. Some games are small, some are big, some are finished, some are still in development. Decide if and when you want to share your game, and let others experience your world and story.
+
+Plus, you can register for free, so there is nothing stopping you from using it.
+No coding required!
 
 
 ## Additional details
 
-- Subscription mode: Free
+- Subscription mode: Freemium
 - Platform: Web
-- Tested by: UAH (Elisa)
+- Tested by: UAH (Amelio) UAH (Elisa)
 - Comments:  No programming or artistic skills required. It’s a freemium rpg maker. Games can be shared with the community.
 
 
@@ -22,6 +35,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - RPG Playground website: [RPG Playground](https://rpgplayground.com/)
+- RPG Playground forum: [RPG Playground](https://rpgplayground.com/forum-index/)
 
 
 ## See also...

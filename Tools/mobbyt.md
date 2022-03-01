@@ -2,8 +2,7 @@
 
 Mobbyt is an online platform that combines an educational video game portal with a tool that allows users to create video games in a very simple way. In this way, it is possible to create games and share them immediately with everyone on the Internet so that the community can learn and have fun at the same time.
 
-![mobbyt logo](images/mobbyt.png)
-
+[<img src="images/mobbyt.png" align="bottom" height="100" alt="mobbyt">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/mobbyt.md)
 
 ## Detailed description & quick guide
 
