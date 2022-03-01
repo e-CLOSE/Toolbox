@@ -24,6 +24,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - QR Code Generator website: [QR Code Generator](https://www.qr-code-generator.com/)
+- [QR Code Generator help](https://help.qr-code-generator.com/en/)
 
 
 ## See also...
