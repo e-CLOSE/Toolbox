@@ -12,7 +12,7 @@ Streamyard makes possible:
 - multistreaming to many platforms at once
 - easy bringing in guests
 - on-brand and professional streams
-- interacting with viewers and show comments on screen
+- interacting with viewers and showing comments on screen
 
 
 ## Additional details
