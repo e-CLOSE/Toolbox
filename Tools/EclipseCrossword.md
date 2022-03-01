@@ -24,6 +24,8 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - EclipseCrossword website: [EclipseCrossword](https://www.eclipsecrossword.com/)
+- [EclipseCrossword tutorial](https://www.eclipsecrossword.com/help/getting-started)
+- [EclipseCrossword help](https://www.eclipsecrossword.com/help/)
 
 
 ## See also...
