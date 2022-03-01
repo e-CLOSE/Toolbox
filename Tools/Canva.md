@@ -28,7 +28,6 @@ understanding and using the tool.
 
 - [Canva creation issue](https://github.com/e-CLOSE/Toolbox/issues/129)
 - Links to similar tools:
-  - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
   - [All tools in the 'design' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign)
   - [All tools in the 'graphics' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agraphics)
   - [All tools in the 'video' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)

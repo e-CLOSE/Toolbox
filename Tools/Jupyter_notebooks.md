@@ -28,7 +28,6 @@ understanding and using the tool.
 
 - [Jupyter notebooks creation issue](https://github.com/e-CLOSE/Toolbox/issues/108)
 - Links to similar tools:
-  - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
   - [All tools in the 'project' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aproject)
   - [All tools in the 'cognitive' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acognitive)
   - [All tools in the 'evaluation' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)

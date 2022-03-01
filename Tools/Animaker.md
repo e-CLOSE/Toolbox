@@ -33,6 +33,5 @@ Animaker offers different [plans and prices](https://app.animaker.com/pricing?la
 
 - [Animaker creation issue](https://github.com/e-CLOSE/Toolbox/issues/99)
 - Links to similar tools:
-  - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
   - [All tools in the 'design' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign)
   - [All tools in the 'video' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)

@@ -28,5 +28,4 @@ understanding and using the tool.
 
 - [WBS Learnspace 3D creation issue](https://github.com/e-CLOSE/Toolbox/issues/125)
 - Links to similar tools:
-  - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication)
   - [All tools in the 'communication' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication)

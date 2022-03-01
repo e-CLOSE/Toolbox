@@ -45,6 +45,5 @@ understanding and using the tool.
 
 - [Socrative creation issue](https://github.com/e-CLOSE/Toolbox/issues/65)
 - Links to similar tools:
-  - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
   - [All tools in the 'feedback' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback)
   - [All tools in the 'evaluation' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)

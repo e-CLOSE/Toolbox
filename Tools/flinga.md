@@ -28,6 +28,5 @@ understanding and using the tool.
 
 - [flinga creation issue](https://github.com/e-CLOSE/Toolbox/issues/170)
 - Links to similar tools:
-  - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)
   - [All tools in the 'whiteboard' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Awhiteboard)
   - [All tools in the 'collaboration' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)

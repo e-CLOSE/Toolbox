@@ -39,6 +39,5 @@ VideoScribe offers a 7-day free trial. You can download VideoScribe once you've 
 
 - [VideoScribe creation issue](https://github.com/e-CLOSE/Toolbox/issues/97)
 - Links to similar tools:
-  - [All tools with the same set of categories](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
   - [All tools in the 'design' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign)
   - [All tools in the 'video' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
