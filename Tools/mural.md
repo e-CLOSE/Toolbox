@@ -5,14 +5,15 @@ Collaborative white board.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+MURAL is space for your team to collaborate visually and problem-solve faster with an easy-to-use digital canvas. No ordinary online whiteboard, MURAL has powerful facilitation features, guided methods, and the deep expertise organizations need to transform teamwork.
+
+300+ templates
 
 
 ## Additional details
 
 - Subscription mode: Free for education
-- Platform: N/A
-- Tested by: ...
+- Tested by: Xenia (HTW)
 - Comments: N/A
 
 
@@ -22,6 +23,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - mural website: [mural](https://www.mural.co/)
+- tutorials: [mural tutorials](https://www.youtube.com/c/MURALtv/videos)
 
 
 ## See also...
