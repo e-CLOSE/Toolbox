@@ -1,12 +1,25 @@
 # [Flaticon](https://www.flaticon.es/)  [<img src="images/resource-icon.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aicon)
 
-A million of vectorial icons and stickers.
+Download free icons and stickers for your projects. Resources made by and for designers. PNG (free), SVG, EPS, PSD and BASE 64 formats.
+
+[<img src="images/Flaticon.svg" align="bottom" height="100" alt="Flaticon">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Flaticon.md)
 
 
 ## Detailed description
 
-This section should include a detailed description of the resource.
+Icon Fonts for any project, big or small. +5,100 SVG and web font-optimal vector-based icons for web, iOS, and Android applications.
 
+### Featured content:
+
+- **Icons**: The largest database of free icons for any project.
+- **Stickers**: Stickers for WhatsApp, Instagram and Facebook.
+- **Interface icons**: Icons specially designed for your interfaces.
+- **Animated icons**: Moving icons for your most stunning projects.
+
+### Featured tools:
+
+- **Editor**: Edit the color of your icons, change the size and download them in all formats, SVG, PNG, EPS.
+- **Collections**:Create multiple collections to have your icons organized and download them in the format you want.
 
 ## Additional details
 
