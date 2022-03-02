@@ -14,10 +14,9 @@ Wonder is perfect for networking, exhibitions, workshops and social events.
 
 ## Additional details
 
-- Subscription mode: N/A
-- Platform: N/A
+- Subscription mode: Free
 - Tested by: Xenia (HTW)
-- Comments: N/A
+- Comments: easy to set up, great for networking events
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
