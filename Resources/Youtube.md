@@ -2,6 +2,7 @@
 
 YouTube is an American online video sharing and social media platform owned by Google. It was launched on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim. It is the second most visited website, right after Google itself.
 
+[<img src="images/Youtube.png" align="bottom" height="100">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Youtube.md)
 
 ## Detailed description
 
