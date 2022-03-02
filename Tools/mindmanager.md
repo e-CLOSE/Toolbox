@@ -5,7 +5,10 @@ Visual productivity tools and mind mapping software.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Bring clarity and structure to plans, projects, and processes.
+Visual productivity tools and mind mapping software that take you and your organization to where you want to be.
+![Learning Tools for MindManager](https://user-images.githubusercontent.com/96419022/156324527-0ab656ba-9b69-424e-9bee-ae880e3f0c87.png)
+
 
 
 ## Additional details
@@ -22,6 +25,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - mindmanager website: [mindmanager](https://www.mindmanager.com/en/)
+- tutorials: [mindmanager tutorials](https://www.youtube.com/c/MindManager/videos)
 
 
 ## See also...
