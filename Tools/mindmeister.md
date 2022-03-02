@@ -5,15 +5,14 @@ Online mind map collaborative designer.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+From your first brainstorming session to your final presentation, MindMeister’s extensive feature set fuels your creativity every step of the way. Learn more about mind mapping essentials, features for collaboration and sharing, team management functionality and possibilities for mapping on mobile.
 
 
 ## Additional details
 
-- Subscription mode: Free
-- Platform: N/A
+- Subscription mode: Freemium
 - Tested by: HTW (Xenia)
-- Comments: N/A
+- Comments: German Company (follows EU General Data Processing Regulation (GDPR))
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
@@ -22,6 +21,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - mindmeister website: [mindmeister](https://www.mindmeister.com)
+- tutorials: [mindmeister tutorials](https://www.youtube.com/c/mindmeister/videos)
 
 
 ## See also...
