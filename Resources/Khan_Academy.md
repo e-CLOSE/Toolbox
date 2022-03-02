@@ -2,6 +2,7 @@
 
 Our mission is to provide a free, world-class education to anyone, anywhere.
 
+[<img src="images/khanacademy.png" align="bottom" height="100">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Khan_Academy.md)
 
 ## Detailed description
 
