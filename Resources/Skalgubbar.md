@@ -2,11 +2,15 @@
 
 A steadily growing and carefully curated collection of cut out people by Teodor Javanaud Emdén and all the fantastic people he knows. Made to bring visualizations of unbuilt architecture to life. It’s a personal project that follows his everyday life. Yes, he knows all of the people and call them friends.
 
+[<img src="images/Skalgubbar.png" align="bottom" height="100" alt="Skalgubbar">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Skalgubbar.md)
 
 ## Detailed description
 
-This section should include a detailed description of the resource.
+Skalgubbar is free to use for anyone who wants to bring their visualizations of unbuilt architecture to life. For students as well as for commercial use.
 
+**Main guideline**: Your architecture project should be in focus. Skalgubbar is not to be used as free standing pictures or for product advertisements. Have a look at these projects to see some good examples of usage.
+
+If Skalgubbar is part of your architectural academic publication (e.g. master thesis) or other publication where sources are being mentioned, you should also credit Skalgubbar with a link to www.skalgubbar.se
 
 ## Additional details
 
