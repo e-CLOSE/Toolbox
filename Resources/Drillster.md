@@ -1,6 +1,6 @@
 # [Drillster](https://drillster.com/)  [<img src="images/resource-learning_platform.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Alearning_platform)
 
-![Drillster Logo](images/drillster-png)
+![Drillster Logo](images/drillster.png)
 
 Learn, reinforce and retain. The right demonstrable proficiency levels and up-to-date knowledge levels year-round. Learn, retain and reinforce your need-to-know knowledge, both now and in the future. Reach your full potential. Get started with Drillster!.
 
