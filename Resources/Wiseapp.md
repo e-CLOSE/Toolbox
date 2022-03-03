@@ -1,11 +1,15 @@
 # [Wiseapp](https://www.wiseapp.live/)  [<img src="images/resource-learning_platform.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Alearning_platform)
 
-Teaching online can be difficult. That's why we made WISE. So that you can focus on your craft while we take care of the rest.
+![WISEapp Logo](images/wise.png)
+
+WISE app is a platform that provides teachers and coaches with tools necessary for them to manage and automate operations such as scheduling, attendance, assessments, resource sharing, etc. 
 
 
 ## Detailed description
 
-This section should include a detailed description of the resource.
+The application makes it easy to deliver high-quality, seamless live classes, easily share assignments and resources with your students, and have engaging discussions by sharing personalized feedback. It generates an automated attendance report after each class, enables automatic grading of homework and exams in seconds and secure cloud storage for all your notes, documents and files.
+
+For educational institutions, it allows tracking of daily attendance of all teachers and students, automatic creation of a library of digital resources, visiting live classes as a guest teacher, and downloading of student and teacher activity reports.
 
 
 ## Additional details
