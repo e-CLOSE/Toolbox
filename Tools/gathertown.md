@@ -7,10 +7,13 @@ Web-conferencing software with visualization and interaction within a virtual ro
 
 Gather for education
 - create a virtual school experience  that rivals any in-person class
+
 Gather for remote work
 - Whether you're a team of 20 or 2000, Gather makes it easy to create an engaging space where you can collaborate and connect with your team.
+
 Gather for conferences
 - Gather transforms your event into an immersive experience that captivates attendees from start to finish.
+
 Gather for socials
 - Celebrate with friends and family in Gather for holidays, birthdays, and every special moment in between.
 
