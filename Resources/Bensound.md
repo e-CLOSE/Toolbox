@@ -1,6 +1,6 @@
 # [Bensound](https://www.bensound.com/royalty-free-music)  [<img src="images/resource-music.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Amusic)
 
-[Bensound Logo](images/bendsound.png]
+![Bensound Logo](images/bendsound.png)
 
 Royalty free music.
 
