@@ -30,6 +30,11 @@ This section should include additional references and links to help in
 understanding and using the resource.
 
 - TED website: [TED](https://www.ted.com/)
+- [TED & TEDx Explained](https://www.youtube.com/watch?v=d0NHOpeczUU)
+- TED-Ed website: [TED-Ed](https://ed.ted.com/educator)
+- [About TED-Ed](https://ed.ted.com/about)
+
+
 
 
 ## See also...
