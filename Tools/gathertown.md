@@ -1,4 +1,5 @@
 # [gathertown](https://gather.town/)  [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication)
+![logo gathertown](https://user-images.githubusercontent.com/96419022/157189278-6e005115-de15-4d37-bf90-4a12a99247ff.png)
 
 Web-conferencing software with visualization and interaction within a virtual room.
 
@@ -32,6 +33,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - gathertown website: [gathertown](https://gather.town/)
+- tutorials: [gathertown tutorials](https://www.youtube.com/channel/UCd4uhlois5n9k6fRuVwSCuA/videos)
 
 
 ## See also...
