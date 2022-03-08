@@ -7,7 +7,14 @@ Online stickies service that offers stickies and canvases.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Lino is a sticky and canvas service that requires nothing but a Web browser.
+
+- Take a note right away wherever you are.
+- Reminders on your special days or deadlines.
+- Free layout of your pictures and videos.
+- Share your ideas with your group members.
+- Use stickes to share files among friends and colleagus.
+- Use from smartphones
 
 
 ## Additional details
@@ -23,7 +30,7 @@ This section should include a detailed description of the tool.
 This section should include additional references and links to help in
 understanding and using the tool.
 
-- Linoit website: [Linoit](http://en.linoit.com/)
+- Linoit website: [Linoit](http://en.linoit.com/)   
 - [How to use lino](http://linoit.com/users/linoit-com/canvases/How%20to%20lino)
 - [Linoit Tutorial](https://www.youtube.com/watch?v=xWS28cb4CK0)
 
