@@ -7,7 +7,16 @@ Visual communication platform that has themes of animated characters, props and 
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+With Powtoon, making your own videos requires no design or tech skills to start making a deeper impact at work. Use animated characters, templates, video backgrounds, soundtracks.
+
+Create unique 
+- Videos 
+- Whiteboard Doodling 
+- Animated Videos 
+- Screen Recordings 
+- Presentations
+- Custom Characters
+- animated characters, templates, video backgrounds, soundtracks
 
 
 ## Additional details
