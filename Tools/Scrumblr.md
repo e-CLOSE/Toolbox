@@ -7,8 +7,14 @@ Collaborative online tool (whiteboard + kanban) .
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+A tool to create an online whiteboard with columns and sticky notecards, that you can place on the board. Just type information on a new card and drag it into place.
 
+- No sign up needed.
+- Enter a title for your board.
+- Add new notecards to your board using the plus sign at lower left.
+- By dragging one of the colored dots color notecards into groups.
+- Anyone who has the link will be able to edit the whiteboard.
+- Copy the url for your board before you close it. Paste it somewhere not to lose it.
 
 ## Additional details
 
