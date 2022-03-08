@@ -7,8 +7,13 @@ All-in-one online tool to create presentations, interactive images, infographics
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
-
+- Create a presentation, report, dossier, or business proposal and let interactivity work its magic.
+- Create vertical, horizontal, and diagram-based infographics.
+- Create an interactive game such as a quiz or escape room.
+- Transform an image into interactive content. Enrich the information in your image by including videos, audios, external links, and more.
+- Create video presentations so your content plays on its own.
+- Organize your content into highly intuitive interactive guides. 
+- Create learning modules and training resources that consistently motivate your students.
 
 ## Additional details
 
