@@ -1,12 +1,24 @@
 # [Camtasia](https://www.techsmith.es/editor-video.html)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
+![logo Camtasia](https://user-images.githubusercontent.com/96419022/157250278-62c78553-2162-4be7-980f-f713ab490562.png)
 
 Powerful screen recorder + video editor.
 
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Tutorials, software demos, training videos, and more. Made by you!
 
+Start Fast
+
+Camtasia is quick to learn. You don’t need a big budget or fancy video editing skills. Start with a template or just record your screen and add a few effects.
+
+Feel Confident
+
+Whether you have experience or this is your first time making a video, we’ll give you everything you need to make a high-quality video.
+
+Engage Viewers
+
+Create content your viewers actually watch. A video will give you more interaction and help your audience to learn more than with text alone.
 
 ## Additional details
 
@@ -22,6 +34,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - Camtasia website: [Camtasia](https://www.techsmith.es/editor-video.html)
+- Tutorials [Camtasia tutorials](https://www.youtube.com/watch?v=bS6pRt_R0m8&list=PLDyDYqoIde4Bd1dAXoF0sfxiI8zpBryqy)
 
 
 ## See also...
