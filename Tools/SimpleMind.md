@@ -13,8 +13,10 @@ SimpleMind helps you organize your thoughts, remember information and generate n
 - Or use one of the various auto layouts - great for brainstorming.
 - Block out distractions with autofocus.
 
+
 - Add color, images and photos
 - Customize topics and lines, add notes, links, checkboxes and much more.
+
 
 - Store all your information in one beautiful Mind Map.
 - Share your ideas, for example as a .pdf.
