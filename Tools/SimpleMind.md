@@ -7,7 +7,11 @@ Mind Mapper with focus on simplicity and ease of use.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+SimpleMind helps you organize your thoughts, remember information and generate new ideas.
+
+- Place topics anywhere you want in the free-form layout.
+- Or use one of the various auto layouts - great for brainstorming.
+- Block out distractions with autofocus.
 
 
 ## Additional details
