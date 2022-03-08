@@ -15,6 +15,8 @@ Natural communication and agile collaboration. Benefit from further training wit
 interactive.
 As if you were there live. Communicate additionally with facial expressions and gestures via your personal avatar. Experience training in a new way.
 
+![House](https://user-images.githubusercontent.com/96419022/157196938-b590571c-893e-42f3-833d-ce8be108c0d4.png)
+
 
 ## Additional details
 
