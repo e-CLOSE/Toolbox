@@ -7,8 +7,13 @@ Platform to visualize ideas.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+A simple, flexible, scalable solution to work on and share your ideas. Think Visually Quickly. Brainstorm Collaboratively.
 
+- Click to create and color code.
+- Drag and drop to add, recognize and reshape or resize.
+- Add images.
+- Add videos.
+- Draw.
 
 ## Additional details
 
