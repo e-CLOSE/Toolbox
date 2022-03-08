@@ -1,11 +1,17 @@
 # [Creately](https://creately.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)
+![logo creately](https://user-images.githubusercontent.com/96419022/157195030-6270677f-090a-42ea-bb6b-7af7c72a8f1a.png)
 
 Online diagramming and collaboration tool.
 
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+The Simplest way to work visually and collaborate with your team.
+From sketching out concepts, analysing processes to brainstorming plans, use Creately Diagrams to think and collaborate visually.
+
+Drawing, collaborating.
+e.g. Flowcharts, Org Charts, Wireframes, Diagrams, Sitemaps
+templates e.g. SWOT Charts, Mind Maps, Fishbone Diagrams, Story Boards, Concept Map, Block Diagrams
 
 
 ## Additional details
@@ -22,6 +28,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - Creately website: [Creately](https://creately.com/)
+- Creately tutorials: [Creately tutorials](https://www.youtube.com/c/CreatelyApp/videos)
 
 
 ## See also...
