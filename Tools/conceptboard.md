@@ -1,11 +1,18 @@
 # [conceptboard](https://conceptboard.com/)  [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration) [<img src="images/cognitive.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acognitive) [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams)
+![logo concenptboard](https://user-images.githubusercontent.com/96419022/157191080-c79b2c39-76ec-4fdf-8f9a-af873446c6e1.png)
 
 Online visual workspace to brainstorm and collaborate on projects.
+
+Conceptboard’s collaborative online whiteboard provides an infinite canvas for teams to work together, visually.
 
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Conceptboard is a visual workspace where teams come together to brainstorm ideas, collaborate on projects & centralize documentation. Discover a better way to collaborate with our feature packed online whiteboard!
+
+Features: live cursors, infinite canvas, content upload, drawing tools, comments & sticky notes, easy board sharing
+
+Collaboration: audio & video calls, real time feedback and presentation mode
 
 
 ## Additional details
@@ -13,7 +20,7 @@ This section should include a detailed description of the tool.
 - Subscription mode: Freemium
 - Platform: N/A
 - Tested by: HTW (Xenia)
-- Comments: N/A
+- Comments: German company, GDPR compliant
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
@@ -22,6 +29,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - conceptboard website: [conceptboard](https://conceptboard.com/)
+- tutorial: [conceptboard tutorial](https://www.youtube.com/c/Conceptboard/featured)
 
 
 ## See also...
