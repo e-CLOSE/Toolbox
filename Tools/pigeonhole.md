@@ -1,16 +1,22 @@
 # [pigeonhole](https://pigeonholelive.com/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
+![logo pigeonhole](https://user-images.githubusercontent.com/96419022/157421315-6c7086af-1309-4471-adc1-1c5c6b38a619.png)
 
 Mobile, real-time conference question and answer (Q&A) tool.
 
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Give your audiences a voice, wherever they are.
+Engage your audiences with Pigeonhole Live — whether online, in-person, or in-between.
+
+Features: Q&A, polls, quiz, chat, reactions, analytics
+
+Use Cases: Hybrid Events, Virtual Team Meetings, Hybrid All-hands Meetings
 
 
 ## Additional details
 
-- Subscription mode: Free
+- Subscription mode: Free (up to 500 participants)
 - Platform: N/A
 - Tested by: HTW (Xenia)
 - Comments: N/A
@@ -22,6 +28,8 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - pigeonhole website: [pigeonhole](https://pigeonholelive.com/)
+- how it works: [pigeonhole starting steps](https://pigeonholelive.com/how-it-works/#how=audience)
+- tutorials: [pigeonhole tutorials](https://www.youtube.com/channel/UC0iZFo0150xwRGWNioXwCEA/videos)
 
 
 ## See also...
