@@ -7,7 +7,12 @@ Website that allows students to create and edit website content.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+To have rich and useful content, simple drag/drop placement and layout of images and files.
+
+- Every change made is stored so it is easy to compare pages, quickly see who made which changes and revert changes.
+- Your data is secure, backed up and exportable at all times.
+- Content can be visible to your whole company, restricted to a specific Team of people or visible only to the content creator.
+- Fully responsive design adjusts to fit all your devices: desktops, tablets and phones.
 
 
 ## Additional details
