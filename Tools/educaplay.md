@@ -1,11 +1,13 @@
 # [educaplay](https://www.educaplay.com/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation) [<img src="images/gamification.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agamification)
+![logo educaplay](https://user-images.githubusercontent.com/96419022/157409508-a2413070-ba83-4934-91f1-6c685879645f.png)
 
 Platform to allow teachers to create their own multimedia teaching activities.
 
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+![types of activities](https://user-images.githubusercontent.com/96419022/157409452-1ad948e2-3bcd-4dfc-9ede-a81cb087e7dc.png)
+
 
 
 ## Additional details
@@ -22,6 +24,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - educaplay website: [educaplay](https://www.educaplay.com/)
+- Tutorials: [Educaplay tutorials](https://www.youtube.com/channel/UCNqcPGJ4rL2lfchSRw1tX6w/videos)
 
 
 ## See also...
