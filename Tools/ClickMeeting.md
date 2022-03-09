@@ -7,8 +7,6 @@ Platform for video conferencing and webinars.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
-
 A live webinar has several opportunities for lead generation and nurturing. Gather your audience in real-time and confront your product or idea.
 
 **Share your knowledge** with a live presentation, files and video sharing. Attract people to your idea or product.
