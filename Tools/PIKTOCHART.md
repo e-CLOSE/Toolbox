@@ -1,6 +1,6 @@
 # [PIKTOCHART](https://piktochart.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/presentations.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Apresentations) [<img src="images/visualization.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avisualization)
 
-![Piktochart Logo](images/piktochart2.png)
+![Piktochart Logo](images/piktochart_logo.png)
 
 Web-based application to create presentations, posters, infographics, reports and posts/grapghics for social media.
 
