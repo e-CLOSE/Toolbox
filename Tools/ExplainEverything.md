@@ -7,8 +7,11 @@ Innovative online and mobile whiteboard for engaging collaboration and learning 
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Record tutorials, create interactive presentations and assignments.
 
+- Record editable whiteboard video lectures for easy blended learning.
+- Unlock your students’ creativity with multiple content formats and an infinite canvas.
+- Easily create and digitize teaching materials for videos and live presentations.
 
 ## Additional details
 
