@@ -4,11 +4,12 @@
 
 Website that allows to transform text to speech and speech to text and Transcribe audio/video.
 
-
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
-
+- Transform Speech to text
+- Trensform Text to speech
+- Get your Audio Transcription
+- Get your Video Transcription
 
 ## Additional details
 
