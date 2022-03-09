@@ -1,11 +1,12 @@
 # [quizacademy](https://quizacademy.de/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
+![logo quizacademy](https://user-images.githubusercontent.com/96419022/157411677-3adc9ac8-adb3-4216-9d3b-5a30b5687d64.png)
 
 Interactive web-based student-response system (quizzes, polls, etc.).
 
 
 ## Detailed description & quick guide
-
-This section should include a detailed description of the tool.
+University edition
+courses, quiz, index cards, exams and competition, live-quiz, survey, analysis
 
 
 ## Additional details
@@ -22,6 +23,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - quizacademy website: [quizacademy](https://quizacademy.de/)
+- Tutorials: [quizacademy tutorials](https://www.youtube.com/channel/UCNbQj5eCxaeEJltBB9dIsXg/videos)
 
 
 ## See also...
