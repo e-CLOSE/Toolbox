@@ -7,7 +7,18 @@ Free, open source, application for visualisation and calculations.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+GeoGebra is a dynamic mathematics software for all levels of education that brings together geometry, algebra, spreadsheets, graphing, statistics and calculus in one engine. 
+
+GeoGebra offers an online platform with over 1 million free classroom resources created by our multilingual community.
+GeoGebra resources can be easily shared through our collaboration platform GeoGebra Classroom.
+
+- Calculator Suite: Explore functions, solve equations, construct geometric shapes and 3D objects.
+- Graphing Calculator: Graph functions, investigate equations, and plot data with our free graphing app.
+- 3D Calculator: Graph 3D functions, plot surfaces and do 3D geometry with our free 3D Grapher.
+- Geometry: Construct circles, angles, transformations and more with our free geometry tool.
+- GeoGebra Classic 6: Apps bundle including free tools for geometry, spreadsheet, probability, and CAS.
+- CAS Calculator: Solve equations, expand and factor expressions, find derivatives and integrals.
+
 
 
 ## Additional details
