@@ -7,8 +7,6 @@ Web-based application to colaborate.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
-
 Bitpaper is accessible through desktops, laptops and tablets (but not smartphones). Bitpaper is available through different internet browsers (e.g. Safari and Firefox), but it is optimized to work through Chrome, and the developers strongly recommend using Chrome to work with Bitpaper.
 
 
