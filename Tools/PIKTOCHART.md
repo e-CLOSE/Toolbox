@@ -1,14 +1,18 @@
 # [PIKTOCHART](https://piktochart.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/presentations.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Apresentations) [<img src="images/visualization.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avisualization)
 
-![Piktochart Logo](images/piktochart.png)
+![Piktochart Logo](images/piktochart2.png)
 
 Web-based application to create presentations, posters, infographics, reports and posts/grapghics for social media.
 
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
-
+- Online infographic maker to create your own infographic.
+- Online poster maker to create posters fast.
+- Online presentation maker to create engaging presentations.
+- Online flyer maker to create printable flyers.
+- Online report maker to create professional reports.
+- Create Stunning Social Media Graphics Online.
 
 ## Additional details
 
