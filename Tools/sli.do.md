@@ -1,19 +1,40 @@
 # [sli.do](https://www.sli.do/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
+![logo slido](https://user-images.githubusercontent.com/96419022/157391538-bb8af663-b402-4d1f-953b-12eca9b7cdf3.png)
 
 Online tool for live polls, Q&A, quizzes and word clouds.
 
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Your go-to interaction app for hybrid meetings
+Engage your participants with live polls, Q&A, quizzes and word clouds — whether you meet in the office, online or in-between.
 
+Live Polls
+
+Make your meetings and events more interactive by polling your audience in real time. Live polls are an easy way to kick-start the conversation, check knowledge or get instant feedback.
+
+Live Q&A
+
+Let everyone in the audience ask their questions and vote for the ones they like the most. Slido will help you prioritize the discussion topics for all-hands meetings, Ask Me Anything sessions or Q&As after presentations.
+
+Quizzes
+
+Design a fun quiz that fits your presentation, training or class theme. You can use it to break the ice, recap the content, entertain or test the attendees.
+
+Analytics
+
+Discover what topics resonate with your audience and use it to fuel your decisions. Slido Analytics lets you view, analyze and export all the interaction data from your event.
+
+Ideas
+
+Collect and curate the best ideas from your participants, whether you’re deciding on team projects or summarizing the key learnings from your workshop.
 
 ## Additional details
 
-- Subscription mode: Freemium
+- Subscription mode: Freemium (Free: only 100 participants)
 - Platform: N/A
 - Tested by: HTW (Xenia); UAH (Elisa)
-- Comments: N/A
+- Comments: easy to use, perfect for activate students during lectures
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
@@ -22,6 +43,7 @@ This section should include additional references and links to help in
 understanding and using the tool.
 
 - sli.do website: [sli.do](https://www.sli.do/)
+- Tutorials: [slido tutorials](https://www.youtube.com/c/Slido/videos)
 
 
 ## See also...
