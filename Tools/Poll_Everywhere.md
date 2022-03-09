@@ -10,10 +10,9 @@ Poll Everywhere provides a platform for students to ask questions, participate i
 Engage audiences across hybrid workspaces through live online polling, surveys, Q&As, quizzes, word clouds.
 
 - Create engaging activities that let to visualize responses in real time, like open-ended Q&As, multiple choice, and word clouds.
+- Identify knowledge gaps or areas of particular interest as the group’s responses appear on the screen.
 - Build activities with the refreshed organization system: a brand new navigation and folders that can contain other folders within them.
 - Present your activities from the web or by adding them to your slides in PowerPoint, Keynote, or Google Slides with the Poll Everywhere app.
-- Identify knowledge gaps or areas of particular interest as the group’s responses appear on the screen.
-
 
 ## Additional details
 
