@@ -2,12 +2,14 @@
 
 ![EclipseCrossword Logo](images/eclipsecrossword.png)
 
-Application for windowr to create and share crosswords.
+Application for Windows to create and share crosswords.
 
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+- Come up with the words and clues. 
+- In seconds, EclipseCrossword turns them into a custom crossword puzzle. 
+- Print it out, or share it online. 
 
 
 ## Additional details
