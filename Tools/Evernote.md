@@ -7,8 +7,11 @@ Mobile app designed for note taking, organizing, task lists, and archiving.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
-
+- Create and assign tasks inside your notes with due dates, flags, and reminders.
+- Scan important documents and keep them handy on all your devices.
+- Save web pages (without the ads) and mark them up with arrows, highlights, and text.
+- Connect your Google Calendar.
+- Free version allows to sync up to 2 devices, 60 MB monthly uploads, 25 MB max. note size.
 
 ## Additional details
 
