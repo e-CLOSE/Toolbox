@@ -7,7 +7,12 @@ Online graphic design tool.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Templates for Flyers, Posters, Instagram Posts, Facebook Posts, Digital Display (16:9). 
+Different themes: Events, Small business, Concerts, Church Educational, and more.
+
+- Browse templates and choose.
+- Customize it
+- Download it.
 
 
 ## Additional details
@@ -15,7 +20,7 @@ This section should include a detailed description of the tool.
 - Subscription mode: Free/Paid
 - Platform: Web
 - Tested by: TUL (Gertruda)
-- Comments: Choose the type of design, customize it and download it
+- Comments: Choose the type of design, customize it and download it.
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
