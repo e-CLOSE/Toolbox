@@ -7,7 +7,21 @@ LearningApps.org is a web application, to support learning and teaching processe
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+LearningApps is an application with many Apps from different categories: Arts, English, Mathematics, Physics and many more. 
+
+Create a customized Apps.
+- Have an idea.
+- Pick a template.
+- Fill in content.
+- Save your App.
+- Share it.
+
+Create collections of Apps.
+- Collect Apps.
+- Select Apps.
+- Add a description.
+- Save your collection.
+- Share it.
 
 
 ## Additional details
