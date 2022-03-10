@@ -7,15 +7,14 @@ Makes home movies amazingly fun.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
-
+Windows Movie Maker is a video editing program that allows users to create, edit & share videos.
 
 ## Additional details
 
 - Subscription mode: Free
 - Platform: Windows
 - Tested by: TUL (Gertruda & Monika)
-- Comments: You can create, edit, and share your home movies right on your computer
+- Comments: You can create, edit, and share your home movies right on your computer.
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
