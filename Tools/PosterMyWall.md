@@ -10,7 +10,7 @@ Online graphic design tool.
 Templates for Flyers, Posters, Instagram Posts, Facebook Posts, Digital Display (16:9). 
 Different themes: Events, Small business, Concerts, Church Educational, and more.
 
-- Browse templates and choose.
+- Browse templates and choose one.
 - Customize it
 - Download it.
 
