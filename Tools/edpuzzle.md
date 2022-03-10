@@ -7,7 +7,10 @@ Web based platform to organize students work, give tasks and grade.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+- Choose a video, give it your magic touch and track your students' comprehension.
+- Check if students are watching your videos, how many times they're watching each section, and if they're understanding the content.
+- Introduce students to self-paced learning with interactive video lessons. It's easy to add your own voice narration and questions!
+- Use videos from YouTube, Khan Academy, Crash Course and more. If you'd rather record and upload your own video, go for it!
 
 
 ## Additional details
