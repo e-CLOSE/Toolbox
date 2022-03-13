@@ -21,6 +21,7 @@ SimpleMind helps you organize your thoughts, remember information and generate n
 - Store all your information in one beautiful Mind Map.
 - Share your ideas, for example as a .pdf.
 
+Free Edition is available for iPad & iPhone and Android.
 
 ## Additional details
 
