@@ -12,8 +12,7 @@ The Plickers platform has been designed with accessibility as a top priority, me
 
 - Subscription mode: Freemium
 - Platform: iOS, Android, Printed
-- Tested by: ...
-- Comments: Plickers is designed for in-classroom teaching using our standard Plickers Cards but it  also offers an E-Learning feature that allows students to participate securely at home and answer Questions in real-time.
+- Comments: Plickers is designed for in-classroom teaching using standard Plickers Cards but it also offers an E-Learning feature that allows students to participate securely at home and answer Questions in real-time.
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
