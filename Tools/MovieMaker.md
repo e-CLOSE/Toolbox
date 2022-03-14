@@ -19,9 +19,6 @@ Windows Movie Maker is a video editing program that allows users to create, edit
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - MovieMaker website: [MovieMaker](https://www.microsoft.com/en-us/p/movie-maker-free/9mvfq4lmz6c9?activetab=pivot:overviewtab)
 
 

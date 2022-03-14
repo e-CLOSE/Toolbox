@@ -36,9 +36,6 @@ Moreover, users can work collaboratively in a project, and measure metrics.
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - infogram website: [infogram](https://infogram.com)
 
 

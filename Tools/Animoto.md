@@ -11,9 +11,15 @@ This section should include a detailed description of the tool.
 ## Additional details
 
 - Subscription mode: Freemium
+- Platform: N/A
+- Tested by: ...
+- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
+
+This section should include additional references and links to help in
+understanding and using the tool.
 
 - Animoto website: [Animoto](https://animoto.com/)
 

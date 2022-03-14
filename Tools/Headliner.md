@@ -27,9 +27,6 @@ The Headliner is a video editor helps you quickly and easily create audiograms a
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Headliner website: [Headliner](https://www.headliner.app/)
 
 

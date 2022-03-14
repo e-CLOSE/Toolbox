@@ -14,13 +14,9 @@ MURAL is space for your team to collaborate visually and problem-solve faster wi
 
 - Subscription mode: Free for education
 - Tested by: Xenia (HTW)
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - mural website: [mural](https://www.mural.co/)
 - tutorials: [mural tutorials](https://www.youtube.com/c/MURALtv/videos)

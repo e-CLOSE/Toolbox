@@ -20,6 +20,7 @@ The ultimate tool for classroom organization, OneNote enables you to organize yo
 
 Students and educators are eligible for Office 365 Education for free, including OneNote, Word, Excel, PowerPoint, and now Microsoft Teams. All you need is a valid school email address. It’s not a trial.
 
+
 ## Additional details
 
 - Subscription mode: Company account (Microsoft/Outlook)
@@ -29,9 +30,6 @@ Students and educators are eligible for Office 365 Education for free, including
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - OneNote website: [OneNote](https://onenote.office.com)
 

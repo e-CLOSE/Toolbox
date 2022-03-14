@@ -13,7 +13,6 @@ This section should include a detailed description of the tool.
 - Subscription mode: Free
 - Platform: GNU/Linux, MacOS, Windows
 - Tested by: UAH (Elisa); UA (Romeu); UA (Paulo); HTW (Xenia); TUL (Gertruda)
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)

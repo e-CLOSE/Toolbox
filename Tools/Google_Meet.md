@@ -13,7 +13,6 @@ This section should include a detailed description of the tool.
 - Subscription mode: Company account (Google)
 - Platform: Web, iOS, Android
 - Tested by: UAH (Elisa); UA (Romeu); TUL (Gertruda)
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)

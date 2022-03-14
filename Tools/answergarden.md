@@ -18,6 +18,7 @@ Benefits of AnswerGarden.
 
 AnswerGarden fits educational, professional and creative purposes, is standalone and embeddable, and shows thousands of answers in a glance!
 
+
 ## Additional details
 
 - Subscription mode: Free

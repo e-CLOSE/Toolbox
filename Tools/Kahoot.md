@@ -13,8 +13,6 @@ These activities by means of mobile devices encourage the participation of every
 
 The free version only allows 10 users.
 
-This section should include a detailed description of the tool.
-
 
 ## Additional details
 
@@ -25,9 +23,6 @@ This section should include a detailed description of the tool.
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 + Kahoot website: [Kahoot](https://kahoot.com/)
 + Articles:

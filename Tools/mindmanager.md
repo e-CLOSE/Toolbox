@@ -21,9 +21,6 @@ Visual productivity tools and mind mapping software that take you and your organ
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - mindmanager website: [mindmanager](https://www.mindmanager.com/en/)
 - tutorials: [mindmanager tutorials](https://www.youtube.com/c/MindManager/videos)
 

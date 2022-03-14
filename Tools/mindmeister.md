@@ -17,9 +17,6 @@ From your first brainstorming session to your final presentation, MindMeister’
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - mindmeister website: [mindmeister](https://www.mindmeister.com)
 - tutorials: [mindmeister tutorials](https://www.youtube.com/c/mindmeister/videos)
 

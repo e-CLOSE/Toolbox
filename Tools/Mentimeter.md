@@ -46,9 +46,6 @@ Enter the **code** and **submit your answer** to experience the ease and fun of 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Mentimeter website: [Mentimeter](https://www.mentimeter.com/)
 - Mentimeter website for students to enter quiz-code: [Menti](https://www.menti.com/)
 

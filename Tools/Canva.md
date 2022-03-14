@@ -11,10 +11,14 @@ This section should include a detailed description of the tool.
 ## Additional details
 
 - Subscription mode: Freemium
+- Platform: N/A
 - Tested by: UAH (Elisa, Soraya); HTW (Xenia)
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
+
+This section should include additional references and links to help in
+understanding and using the tool.
 
 - Canva website: [Canva](https://www.canva.com/)
 

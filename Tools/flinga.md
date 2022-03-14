@@ -14,6 +14,7 @@ Flinga Wall
 
 Flinga is simple to use and has only a few functions. For a fast, easy and mostly barrier-free collection of ideas it is perfect.
 
+
 ## Additional details
 
 - Subscription mode: Free

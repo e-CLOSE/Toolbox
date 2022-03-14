@@ -29,13 +29,9 @@ Creating collections of Apps is available.
 - Subscription mode: Free
 - Platform: Web
 - Tested by: TUL (Gertruda)
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - LearningApps website: [LearningApps](https://learningapps.org/)
 

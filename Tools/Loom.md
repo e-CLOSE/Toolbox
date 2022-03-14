@@ -26,6 +26,7 @@ enough for a lot of uses.
 
 You can also use it from the Chrome extension.
 
+
 ## Additional details
 
 - Subscription mode: Freemium
@@ -34,9 +35,6 @@ You can also use it from the Chrome extension.
 
 
 ## References
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - Loom website: [Loom](https://www.loom.com)
 - [Loom tutorial in YouTube](https://www.youtube.com/watch?v=11pfvBNsXkA)

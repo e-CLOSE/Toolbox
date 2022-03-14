@@ -31,9 +31,6 @@ Mobbyt is an online platform that combines an educational video game portal with
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - mobbyt website: [mobbyt](https://mobbyt.com/)
 
 
