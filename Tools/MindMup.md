@@ -2,7 +2,7 @@
 
 ![Mindmup Logo](images/Mindmup.png)
 
-Create, share and publish simple mind maps.
+Web based application to create, share and publish simple mind maps.
 
 ## Detailed description & quick guide
 
@@ -14,13 +14,9 @@ MindMup is a mind-mapping tool that lets students create and share mind maps. Us
 - Subscription mode: Fremium
 - Platform: Web
 - Tested by: UAH (Elisa)
-- Comments: Web based application to create simple mind maps
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - MindMup website: [MindMup](https://www.mindmup.com/)
 - [Tutorials](https://www.mindmup.com/tutorials/index.html)
