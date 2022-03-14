@@ -2,7 +2,7 @@
 
 ![Figma Logo](images/Figma.png)
 
-End-to-end collaboration by connecting teams in the design process by integrating diagram, sticky-note, workshop tools and online whiteboard .
+End-to-end collaboration by connecting teams in the design process by integrating diagram, sticky-notes, workshop tools and online whiteboard.
 
 
 ## Detailed description & quick guide
@@ -19,9 +19,6 @@ Figma is a collaborative graphics editor and prototyping tool. It is a web appli
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - Figma website: [Figma](https://www.figma.com/)
 - [Figma education programm](https://www.figma.com/education/)
