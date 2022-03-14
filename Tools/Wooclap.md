@@ -41,10 +41,8 @@ Participants can simply join with a **code** and presenters can later on **expor
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Wooclap website: [Wooclap](https://www.wooclap.com/)
+- [Wooclap guides](https://www.wooclap.com/blog/en-gb/guide)
 
 
 ## See also...
