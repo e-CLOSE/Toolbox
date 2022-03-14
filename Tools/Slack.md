@@ -19,9 +19,6 @@ Slack is an enterprise messaging app that makes it easy to connect with coworker
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Slack website: [Slack](https://slack.com/)
 - [Tutorials](https://slack.com/intl/es-es/help/categories/360000049063)
 - [Help](https://slack.com/intl/es-es/help)
