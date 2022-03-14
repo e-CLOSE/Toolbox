@@ -18,6 +18,9 @@ This section should include a detailed description of the tool.
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
+This section should include additional references and links to help in
+understanding and using the tool.
+
 - Google Forms website: [Google Forms](https://forms.google.com)
 
 
