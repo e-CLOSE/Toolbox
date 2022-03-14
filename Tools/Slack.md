@@ -15,7 +15,6 @@ Slack is an enterprise messaging app that makes it easy to connect with coworker
 - Subscription mode: Freemium
 - Platform: Web
 - Tested by: UAH (Elisa); UAH (Javi)
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
