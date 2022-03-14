@@ -17,9 +17,6 @@ The Plickers platform has been designed with accessibility as a top priority, me
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Plickers website: [Plickers](https://get.plickers.com/)
 - [How-to guides](https://help.plickers.com/hc/en-us/categories/360000845853-How-to-Guides)
 - [Getting started](https://help.plickers.com/hc/en-us/categories/1260801472210-Getting-Started)
