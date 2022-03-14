@@ -12,13 +12,9 @@ Freeicons is a platform for designers and developers for a wide variety of high-
 
 - Licensing scheme(s): Free without attribution, CC
 - Tested by: UAH (Elisa)
-- Comments: N/A
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the resource.
+## References
 
 - Freeicons website: [Freeicons](https://freeicons.io/)
 
@@ -27,5 +23,4 @@ understanding and using the resource.
 
 - [Freeicons creation issue](https://github.com/e-CLOSE/Toolbox/issues/179)
 - Links to related resources:
-
-  - [All tools in the 'icon' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aicon)
+  - [All resources in the 'icon' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aicon)

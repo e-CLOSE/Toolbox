@@ -11,17 +11,14 @@ Over 2 million free high-resolution images brought to you by the world’s most 
 
 Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service.
 
+
 ## Additional details
 
 - Licensing scheme(s): Free without attribution, CC
 - Tested by: UAH (Elisa)
-- Comments: N/A
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the resource.
+## References
 
 - Unsplashed website: [Unsplashed](https://unsplash.com/)
 
@@ -30,6 +27,5 @@ understanding and using the resource.
 
 - [Unsplashed creation issue](https://github.com/e-CLOSE/Toolbox/issues/183)
 - Links to related resources:
-
-  - [All tools in the 'image' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aimage)
-  - [All tools in the 'design' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Adesign)
+  - [All resources in the 'image' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aimage)
+  - [All resources in the 'design' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Adesign)

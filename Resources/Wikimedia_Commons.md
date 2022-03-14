@@ -17,13 +17,9 @@ Unlike traditional media repositories, Wikimedia Commons is free. Everyone is al
 
 - Licensing scheme(s): Free without attribution, CC
 - Tested by: UAH (Elisa)
-- Comments: N/A
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the resource.
+## References
 
 - Wikimedia Commons website: [Wikimedia Commons](https://commons.wikimedia.org/)
 
@@ -32,8 +28,7 @@ understanding and using the resource.
 
 - [Wikimedia Commons creation issue](https://github.com/e-CLOSE/Toolbox/issues/180)
 - Links to related resources:
-
-  - [All tools in the 'icon' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aicon)
-  - [All tools in the 'image' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aimage)
-  - [All tools in the 'video' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Avideo)
-  - [All tools in the 'audio' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aaudio)
+  - [All resources in the 'icon' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aicon)
+  - [All resources in the 'image' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aimage)
+  - [All resources in the 'video' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Avideo)
+  - [All resources in the 'audio' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aaudio)

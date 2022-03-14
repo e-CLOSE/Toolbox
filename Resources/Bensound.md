@@ -18,13 +18,9 @@ There are two ways to license music from Bensound: by paying an annual subscript
 
 - Licensing scheme(s): Free/Paid
 - Tested by: UAH (Elisa)
-- Comments: N/A
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the resource.
+## References
 
 - Bensound website: [Bensound](https://www.bensound.com/royalty-free-music)
 - [Licensing](https://www.bensound.com/licensing)
@@ -35,5 +31,4 @@ understanding and using the resource.
 
 - [Bensound creation issue](https://github.com/e-CLOSE/Toolbox/issues/186)
 - Links to related resources:
-
-  - [All tools in the 'music' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Amusic)
+  - [All resources in the 'music' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Amusic)

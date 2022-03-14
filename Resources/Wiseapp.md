@@ -15,14 +15,10 @@ For educational institutions, it allows tracking of daily attendance of all teac
 ## Additional details
 
 - Licensing scheme(s): Free/Paid
-- Tested by: TUL (Gertruda __TESTED__ Monika)
-- Comments: N/A
+- Tested by: TUL (Gertruda and Monika)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the resource.
+## References
 
 - Wiseapp website: [Wiseapp](https://www.wiseapp.live/)
 
@@ -31,5 +27,4 @@ understanding and using the resource.
 
 - [Wiseapp creation issue](https://github.com/e-CLOSE/Toolbox/issues/193)
 - Links to related resources:
-
-  - [All tools in the 'learning_platform' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Alearning_platform)
+  - [All resources in the 'learning_platform' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Alearning_platform)

@@ -19,14 +19,10 @@ Content within YouTube EDU is produced by PBS, Khan Academy, Steve Spangler Scie
 ## Additional details
 
 - Licensing scheme(s): Free, CC
-- Tested by: UA (Joaquim __TESTED__ Margarida)
-- Comments: N/A
+- Tested by: UA (Joaquim and Margarida)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the resource.
+## References
 
 - Youtube website: [Youtube](https://youtube.com/ )
 - YouTube EDU: [Google for Education](https://www.youtube.com/channel/UCt84aUC9OG6di8kSdKzEHTQ)
@@ -37,7 +33,7 @@ understanding and using the resource.
 - [Youtube creation issue](https://github.com/e-CLOSE/Toolbox/issues/177)
 - Links to related resources:
 
-  - [All tools in the 'video' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Avideo)
-  - [All tools in the 'podcast' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Apodcast)
-  - [All tools in the 'music' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Amusic)
-  - [All tools in the 'audio' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aaudio)
+  - [All resources in the 'video' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Avideo)
+  - [All resources in the 'podcast' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Apodcast)
+  - [All resources in the 'music' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Amusic)
+  - [All resources in the 'audio' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aaudio)

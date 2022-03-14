@@ -4,6 +4,7 @@ A steadily growing and carefully curated collection of cut out people by Teodor 
 
 [<img src="images/Skalgubbar.png" align="bottom" height="100" alt="Skalgubbar">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Skalgubbar.md)
 
+
 ## Detailed description
 
 Skalgubbar is free to use for anyone who wants to bring their visualizations of unbuilt architecture to life. For students as well as for commercial use.
@@ -12,17 +13,13 @@ Skalgubbar is free to use for anyone who wants to bring their visualizations of 
 
 If Skalgubbar is part of your architectural academic publication (e.g. master thesis) or other publication where sources are being mentioned, you should also credit Skalgubbar with a link to www.skalgubbar.se
 
+
 ## Additional details
 
 - Licensing scheme(s): CC only for architecture projects  (email the author for other types of projects)
-- Tested by: …
-- Comments: N/A
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the resource.
+## References
 
 - Skalgubbar website: [Skalgubbar](https://skalgubbar.se/)
 
@@ -31,6 +28,5 @@ understanding and using the resource.
 
 - [Skalgubbar creation issue](https://github.com/e-CLOSE/Toolbox/issues/184)
 - Links to related resources:
-
-  - [All tools in the 'image' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aimage)
-  - [All tools in the 'design' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Adesign)
+  - [All resources in the 'image' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aimage)
+  - [All resources in the 'design' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Adesign)

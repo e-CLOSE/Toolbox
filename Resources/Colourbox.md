@@ -18,14 +18,9 @@ Great students do great work. But even the best projects can fall short, if the 
 ## Additional details
 
 - Licensing scheme(s): Paid
-- Tested by: ...
-- Comments: N/A
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the resource.
+## References
 
 - Colourbox website: [Colourbox](https://www.colourbox.com/)
 
@@ -34,6 +29,5 @@ understanding and using the resource.
 
 - [Colourbox creation issue](https://github.com/e-CLOSE/Toolbox/issues/185)
 - Links to related resources:
-
-  - [All tools in the 'image' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aimage)
-  - [All tools in the 'design' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Adesign)
+  - [All resources in the 'image' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aimage)
+  - [All resources in the 'design' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Adesign)

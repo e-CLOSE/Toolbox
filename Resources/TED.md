@@ -21,13 +21,9 @@ TED-Ed Originals are short, award-winning animated videos about ideas and resear
 
 - Licensing scheme(s): Free
 - Tested by: UAH (Rosa)
-- Comments: N/A
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the resource.
+## References
 
 - TED website: [TED](https://www.ted.com/)
 - [TED & TEDx Explained](https://www.youtube.com/watch?v=d0NHOpeczUU)
@@ -35,12 +31,9 @@ understanding and using the resource.
 - [About TED-Ed](https://ed.ted.com/about)
 
 
-
-
 ## See also...
 
 - [TED creation issue](https://github.com/e-CLOSE/Toolbox/issues/189)
 - Links to related resources:
-
-  - [All tools in the 'video' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Avideo)
-  - [All tools in the 'podcast' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Apodcast)
+  - [All resources in the 'video' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Avideo)
+  - [All resources in the 'podcast' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Apodcast)

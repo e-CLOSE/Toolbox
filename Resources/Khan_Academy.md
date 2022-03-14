@@ -18,17 +18,14 @@ Created by experts, Khan Academy’s library of trusted practice and lessons cov
 
 With Khan Academy, teachers can identify gaps in their students’ understanding, tailor instruction, and meet the needs of every student.
 
+
 ## Additional details
 
 - Licensing scheme(s): Free
 - Tested by: TUL (Gertruda)
-- Comments: N/A
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the resource.
+## References
 
 - Khan Academy website: [Khan Academy](https://www.khanacademy.org/)
 - [Salman Khan TED Talk 2011 (from ted.com)](https://www.youtube.com/watch?v=gM95HHI4gLk)
@@ -38,5 +35,4 @@ understanding and using the resource.
 
 - [Khan Academy creation issue](https://github.com/e-CLOSE/Toolbox/issues/190)
 - Links to related resources:
-
-  - [All tools in the 'video' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Avideo)
+  - [All resources in the 'video' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Avideo)

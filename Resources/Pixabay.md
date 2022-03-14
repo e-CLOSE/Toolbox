@@ -14,13 +14,9 @@ Pixabay contents are free to use for commercial and non-commercial purposes. How
 
 - Licensing scheme(s): Free without attribution, CC
 - Tested by: UAH (Elisa), HTW (Xenia)
-- Comments: N/A
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the resource.
+## References
 
 - Pixabay website: [Pixabay](https://pixabay.com/)
 
@@ -29,6 +25,5 @@ understanding and using the resource.
 
 - [Pixabay creation issue](https://github.com/e-CLOSE/Toolbox/issues/182)
 - Links to related resources:
-
-  - [All tools in the 'image' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aimage)
-  - [All tools in the 'design' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Adesign)
+  - [All resources in the 'image' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aimage)
+  - [All resources in the 'design' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Adesign)

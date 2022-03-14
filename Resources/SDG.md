@@ -24,13 +24,9 @@ Features:
 
 - Licensing scheme(s): Free
 - Tested by: UAH (Soraya)
-- Comments: N/A
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the resource.
+## References
 
 - SDG website: [SDG](https://www.globalgoals.org/resources)
 
@@ -39,6 +35,5 @@ understanding and using the resource.
 
 - [SDG creation issue](https://github.com/e-CLOSE/Toolbox/issues/196)
 - Links to related resources:
-
-  - [All tools in the 'image' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aimage)
-  - [All tools in the 'video' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Avideo)
+  - [All resources in the 'image' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aimage)
+  - [All resources in the 'video' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Avideo)

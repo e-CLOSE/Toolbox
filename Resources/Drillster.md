@@ -15,14 +15,10 @@ Drillster is a new way of learning: technology, science, data, and, a smart algo
 ## Additional details
 
 - Licensing scheme(s): Paid
-- Tested by: TUL (Gertruda __TESTED__ Monika)
-- Comments: N/A
+- Tested by: TUL (Gertruda and Monika)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the resource.
+## References
 
 - Drillster website: [Drillster](https://drillster.com/)
 - [A quick start](https://drillster.com/implementation/)
@@ -32,5 +28,4 @@ understanding and using the resource.
 
 - [Drillster creation issue](https://github.com/e-CLOSE/Toolbox/issues/194)
 - Links to related resources:
-
-  - [All tools in the 'learning_platform' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Alearning_platform)
+  - [All resources in the 'learning_platform' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Alearning_platform)

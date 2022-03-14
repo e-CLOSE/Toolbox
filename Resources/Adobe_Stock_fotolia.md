@@ -4,6 +4,7 @@ Image database by Adobe.
 
 [<img src="images/Stock.svg" align="bottom" height="100" alt="Stock">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Adobe_Stock_fotolia.md)
 
+
 ## Detailed description
 
 Diverse collections of most incredible high-resolution, royalty-free, stock assets.
@@ -21,13 +22,9 @@ Diverse collections of most incredible high-resolution, royalty-free, stock asse
 
 - Licensing scheme(s): Paid
 - Tested by: HTW (Xenia)
-- Comments: N/A
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the resource.
+## References
 
 - Adobe Stock / fotolia website: [Adobe Stock / fotolia](https://stock.adobe.com/)
 
@@ -36,5 +33,4 @@ understanding and using the resource.
 
 - [Adobe Stock / fotolia creation issue](https://github.com/e-CLOSE/Toolbox/issues/195)
 - Links to related resources:
-
-  - [All tools in the 'image' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aimage)
+  - [All resources in the 'image' category](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aimage)
