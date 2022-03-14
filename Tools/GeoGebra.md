@@ -26,13 +26,8 @@ GeoGebra resources can be easily shared through our collaboration platform GeoGe
 - Subscription mode: Free
 - Platform: Web
 - Tested by: TUL (Gertruda)
-- Comments: N/A
-
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - GeoGebra website: [GeoGebra](https://www.geogebra.org/)
 - [GeoGebra Manual/Tutorials](https://wiki.geogebra.org/?do=lastcomments)

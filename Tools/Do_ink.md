@@ -20,9 +20,6 @@ Green Screen by Do Ink makes it easy to create incredible green screen videos an
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Do ink website: [Do ink](http://www.doink.com/)
 
 

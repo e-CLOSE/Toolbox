@@ -17,15 +17,9 @@ templates e.g. SWOT Charts, Mind Maps, Fishbone Diagrams, Story Boards, Concept 
 ## Additional details
 
 - Subscription mode: Freemium
-- Platform: N/A
-- Tested by: …
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - Creately website: [Creately](https://creately.com/)
 - Creately tutorials: [Creately tutorials](https://www.youtube.com/c/CreatelyApp/videos)

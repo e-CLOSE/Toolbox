@@ -20,9 +20,6 @@ Classroomscreen has the most widgets that are commonly needed by teachers to tea
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Classroomscreen website: [Classroomscreen](https://classroomscreen.com/)
 
 

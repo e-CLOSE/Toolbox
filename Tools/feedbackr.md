@@ -27,15 +27,9 @@ Usually there is a lot of group dynamics going on during presentations or events
 ## Additional details
 
 - Subscription mode: Free
-- Platform: N/A
-- Tested by: ...
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - feedbackr website: [feedbackr](https://www.feedbackr.io/)
 - Tutorials: [tutorials feedbackr](https://www.youtube.com/c/FeedbackrIoc_n_c/videos)

@@ -30,9 +30,6 @@ A live webinar has several opportunities for lead generation and nurturing. Gath
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - ClickMeeting website: [ClickMeeting](https://clickmeeting.com/)
 - [Video-tutorials](https://knowledge.clickmeeting.com/video/)
 

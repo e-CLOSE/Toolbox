@@ -22,15 +22,10 @@ Gather for socials
 ## Additional details
 
 - Subscription mode: Freemium
-- Platform: N/A
 - Tested by: HTW (Xenia)
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - gathertown website: [gathertown](https://gather.town/)
 - tutorials: [gathertown tutorials](https://www.youtube.com/channel/UCd4uhlois5n9k6fRuVwSCuA/videos)

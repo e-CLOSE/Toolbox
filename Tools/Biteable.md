@@ -22,15 +22,10 @@ Quick and easy to customize. No experience required.
 ## Additional details
 
 - Subscription mode: Free
-- Platform: N/A
 - Tested by: ...
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - Biteable website: [Biteable](https://biteable.com/)
 - Tutorials: [biteable tutorial](https://www.youtube.com/c/BiteableVideoMaker/videos)

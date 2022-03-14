@@ -16,14 +16,14 @@ ISSUE_OFFSET=0
 INPUT_FILE="Scripts/tools-mini-v2.csv" # Careful: delimiter must be #
 INPUT_FILE="Scripts/IO2-tools-brainstorming+summertasks-v3-paraCheckIssues.csv"
 #INPUT_FILE="Scripts/IO2-tools-brainstorming+summertasks-v3-mini.csv"
-INPUT_FILE="Scripts/IO2-tools-brainstorming+summertasks-v5-resources.csv"
+INPUT_FILE="Scripts/IO2-tools-brainstorming+summertasks-v6-resources-pending.csv"
 DELIMITER='#'
 
 DO_GIT_NOTHING="DO_GIT_NOTHING"
-#DO_GIT_NOTHING=""
+DO_GIT_NOTHING=""
 
 DO_GH_NOTHING="DO_GH_NOTHING"
-#DO_GH_NOTHING=""
+DO_GH_NOTHING=""
 
 DO_README_NOTHING="DO_README_NOTHING"
 DO_README_NOTHING=""
@@ -238,7 +238,7 @@ Details at $README_URL
     # echo "Remember to back link related tools from [$README], using [$URL], copying this text:"
     # echo "- Similar tools: $SIMILAR_URL"
 
-
+#exit
     
 done < <(cut -d $DELIMITER -f1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18 $INPUT_FILE | tail -n +2)
 

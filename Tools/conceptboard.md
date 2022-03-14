@@ -18,15 +18,11 @@ Collaboration: audio & video calls, real time feedback and presentation mode
 ## Additional details
 
 - Subscription mode: Freemium
-- Platform: N/A
 - Tested by: HTW (Xenia)
 - Comments: German company, GDPR compliant
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - conceptboard website: [conceptboard](https://conceptboard.com/)
 - tutorial: [conceptboard tutorial](https://www.youtube.com/c/Conceptboard/featured)

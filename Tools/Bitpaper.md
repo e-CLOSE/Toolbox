@@ -20,9 +20,6 @@ Bitpaper is accessible through desktops, laptops and tablets (but not smartphone
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Bitpaper website: [Bitpaper](https://www.bitpaper.io/)
 - [Bitpaper manual](https://bitpaper.io/guide)
 - [Introduction to Bitpaper](https://www.youtube.com/watch?app=desktop&v=X1-N_GVrR9g)

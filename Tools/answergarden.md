@@ -21,15 +21,10 @@ AnswerGarden fits educational, professional and creative purposes, is standalone
 ## Additional details
 
 - Subscription mode: Free
-- Platform: N/A
 - Tested by: HTW (Xenia)
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - answergarden website: [answergarden](https://answergarden.ch/)
 

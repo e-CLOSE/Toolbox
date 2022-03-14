@@ -28,9 +28,6 @@ set.
 
 ## References
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - GitHub website: [GitHub](https://github.com/)
 - [GitHub tutorial page](https://docs.github.com/en/get-started/quickstart/hello-world)
 - [Git and GitHub for beginners - Crash

@@ -42,9 +42,6 @@ CreateStudio is a video editor, focused on the creation of short clips and anima
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - CreateStudio website: [CreateStudio](https://createstudio.com/)
 - CreateStudio tutorials: [CreateStudio Software Review @YouTube](https://www.youtube.com/channel/UCkSAgkdgN1TzLpQY_jbmQLA)
 

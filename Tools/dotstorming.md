@@ -32,9 +32,6 @@ On the free-to-use platform the number of boards/topics is restricted to one.
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - dotstorming website: [dotstorming](https://dotstorming.com/)
 - Dotstorming Tutorial for Teachers: [Dotstorming Tutorial for Teachers](https://www.youtube.com/watch?v=5M2keRMCr_c)
 - Getting started with dotstorming: [Getting started with dotstorming](https://www.youtube.com/watch?v=5M2keRMCr_c)

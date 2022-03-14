@@ -16,15 +16,11 @@ Record tutorials, create interactive presentations and assignments.
 ## Additional details
 
 - Subscription mode: Freemium
-- Platform: N/A
 - Tested by: TUL (Gertruda)
 - Comments: Tool that lets you annotate, animate, narrate, import, and export
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - ExplainEverything website: [ExplainEverything](https://explaineverything.com/)
 - [ExplainEverything manual](https://explaineverything.com/brand-new-multi-touch-explain-everything-user-manual/)

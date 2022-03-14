@@ -17,15 +17,11 @@ Flinga is simple to use and has only a few functions. For a fast, easy and mostl
 ## Additional details
 
 - Subscription mode: Free
-- Platform: N/A
 - Tested by: Xenia (HTW)
 - Comments: Finnish Platform
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - flinga website: [flinga](https://flinga.fi/)
 

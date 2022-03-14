@@ -23,9 +23,6 @@ twine is easy to use, simple to setup, and can be used to power impactful conver
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Glimpse original website: [Glimpse](https://www.joinglimpse.com/post/how-to-do-speed-dating-on-zoom)
 - Glimpse tutorials: [Glimpse tutorials](https://www.youtube.com/channel/UC2kSnGYiZ6uCOBdzwSdXOyw/featured)
 - twine website: [twine](https://try.twine.nyc/)

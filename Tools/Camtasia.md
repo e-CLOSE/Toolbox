@@ -30,9 +30,6 @@ Create content your viewers actually watch. A video will give you more interacti
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Camtasia website: [Camtasia](https://www.techsmith.es/editor-video.html)
 - Tutorials [Camtasia tutorials](https://www.youtube.com/watch?v=bS6pRt_R0m8&list=PLDyDYqoIde4Bd1dAXoF0sfxiI8zpBryqy)
 

@@ -18,13 +18,9 @@ The saved templates stay on the server permanently. The only exception is for fi
 - Subscription mode: Free/Paid
 - Platform: Web
 - Tested by: TUL (Gertruda)
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - ClassTools.net website: [ClassTools.net](https://www.classtools.net/)
 

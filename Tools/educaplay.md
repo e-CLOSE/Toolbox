@@ -13,15 +13,9 @@ Platform to allow teachers to create their own multimedia teaching activities.
 ## Additional details
 
 - Subscription mode: Free
-- Platform: N/A
-- Tested by: ...
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - educaplay website: [educaplay](https://www.educaplay.com/)
 - Tutorials: [Educaplay tutorials](https://www.youtube.com/channel/UCNqcPGJ4rL2lfchSRw1tX6w/videos)

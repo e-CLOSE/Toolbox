@@ -14,14 +14,10 @@ Flourish is a powerful online data visualization tool. This software can be used
 
 - Subscription mode: Freemium
 - Platform: Web
-- Tested by: …
 - Comments: Web based application to create high-quality data graphics and animations from raw data files.
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - Flourish website: [Flourish](https://flourish.studio/)
 - [Examples](https://flourish.studio/examples/)

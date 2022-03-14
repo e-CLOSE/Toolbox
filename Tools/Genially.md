@@ -25,9 +25,6 @@ All-in-one online tool to create presentations, interactive images, infographics
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Genially website: [Genially](https://www.genial.ly/)
 - [Genially support](https://support.genial.ly/en/support/home)
 - [Tutorial and first steps for beginners](https://www.youtube.com/watch?v=JxeJow3ujag)

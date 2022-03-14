@@ -31,9 +31,6 @@ GitLab is The DevOps Platform that empowers organizations to maximize the overal
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - GitLab website: [GitLab](https://gitlab.com/ )
 
 

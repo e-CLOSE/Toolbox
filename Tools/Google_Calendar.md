@@ -22,13 +22,10 @@ With Google Calendar, you can quickly schedule meetings and events and get remin
 - Subscription mode: Company account (Google)
 - Platform: Web, iOS, Android
 - Tested by: UAH (Elisa); UAH (Javi)
-- Comments: Google Calendar allows users to create and edit events. Reminders can be enabled for events, with options available for type and time. Event locations can also be added, and other users can be invited to events. 
+- Comments: Google Calendar allows users to create and edit events. Reminders can be enabled for events, with options available for type and time. Event locations can also be added, and other users can be invited to events.
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - Google Calendar website: [Google Calendar](https://calendar.google.com)
 

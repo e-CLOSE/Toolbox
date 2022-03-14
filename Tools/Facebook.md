@@ -13,13 +13,9 @@ This section should include a detailed description of the tool.
 - Subscription mode: Free, Fremium, Company account
 - Platform: Web, iOS, Android
 - Tested by: UAH (Elisa); UA (Romeu); UA (Paulo); HTW (Xenia)
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - Facebook website: [Facebook](https://www.facebook.com)
 

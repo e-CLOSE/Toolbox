@@ -13,13 +13,9 @@ This section should include a detailed description of the tool.
 - Subscription mode: Free
 - Platform: GNU/Linux, MacOS, Windows
 - Tested by: UAH (Elisa); UA (Paulo)
-- Comments: Image editor
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - Gimp website: [Gimp](http://www.gimp.org.es/)
 

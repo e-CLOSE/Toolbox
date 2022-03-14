@@ -17,13 +17,9 @@ Application for Windows to create and share crosswords.
 - Subscription mode: Free
 - Platform: Windows
 - Tested by: TUL (Gertruda)
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - EclipseCrossword website: [EclipseCrossword](https://www.eclipsecrossword.com/)
 - [EclipseCrossword tutorial](https://www.eclipsecrossword.com/help/getting-started)
