@@ -20,15 +20,9 @@ Publish your amazing race to others and let them play it in the app with a mobil
 ## Additional details
 
 - Subscription mode: Freemium
-- Platform: N/A
-- Tested by: ...
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - actionbound website: [actionbound](https://en.actionbound.com/?setlang)
 - Tutorials (only German): [actionbound tutorial](https://www.youtube.com/channel/UChwtmdusgG7z6MoQTWoDXMA/videos)
