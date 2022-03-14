@@ -8,7 +8,7 @@ Website containing of applications for creating and sharing crosswords, games, q
 
 ## Detailed description & quick guide
 
-ClassTools.net includes planty of free quizzes, games, activitiesand
+ClassTools.net includes planty of free quizzes, games, activities and
 diagrams which can be use as templates to create ones own activities.
 
 Each template can be saved as a stand-alone HTML file or as a Widget that can be embedded into a blog or wiki - as long as it is non-commercial (commerical use is allowed via a premium subscription). However, downloaded HTML files still need to communicate with the ClassTools server and therefore require a computer to have an internet connection.
