@@ -4,6 +4,7 @@ Our mission is to provide a free, world-class education to anyone, anywhere.
 
 [<img src="images/khanacademy.png" align="bottom" height="100">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Khan_Academy.md)
 
+
 ## Detailed description
 
 Khan Academy is a non-profit educational organization created in 2008 by Sal Khan. Khan Academy's website aims to provide a free personalized learning experience, that are built on the videos, hosted on YouTube. 

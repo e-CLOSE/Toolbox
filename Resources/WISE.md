@@ -11,6 +11,7 @@ In these challenging times, teachers are doing innovative work to ensure that th
 
 The Web-based Inquiry Science Environment (WISE) provides standards-aligned online inquiry science units. The WISE team now works directly with teachers to implement, customize, and create web-based distance learning curricula for their students. They are organizing weekly office hours, facilitating teacher collaboration on strategies for customizing WISE and creating their own instruction, and supporting students and families. WISE is free and available worldwide.
 
+
 ## Additional details
 
 - Licensing scheme(s): Free

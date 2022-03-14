@@ -4,11 +4,13 @@ Image and photo data base, many works can be used without attribution.
 
 [<img src="images/Pixabay.png" align="bottom" height="100" alt="Pixabay">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Pixabay.md)
 
+
 ## Detailed description
 
 Pixabay is a vibrant community of creatives, sharing copyright free images, illustrations, videos and music. All contents are released under the Pixabay License, which makes them safe to use without asking for permission or giving credit to the artist - even for commercial purposes.
 
 Pixabay contents are free to use for commercial and non-commercial purposes. However, depicted content may still be protected by trademarks, publicity or privacy rights. While no payment is needed to use the media, it is always appreciated when you credit the contributor as it provides exposure to their work and encourages them to continue sharing. While not required, we also allow users to make donations to contributors.
+
 
 ## Additional details
 

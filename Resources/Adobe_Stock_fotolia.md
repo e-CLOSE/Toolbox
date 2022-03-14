@@ -9,6 +9,7 @@ Image database by Adobe.
 
 Diverse collections of most incredible high-resolution, royalty-free, stock assets.
 
+
 ### Features:
 
 - **Stock photos**: Beautiful and inspiring royalty-free stock images.
@@ -17,6 +18,7 @@ Diverse collections of most incredible high-resolution, royalty-free, stock asse
 - **Royalty-free templates**: Made for Adobe InDesign, Photoshop, Illustrator, and more.
 - **Vector art and Illustrations**: Royalty-free stock illustrations and vector art.
 - **Stock music and audio**: Discover a wide range of amazing royalty-free music.
+
 
 ## Additional details
 

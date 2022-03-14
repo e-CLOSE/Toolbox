@@ -4,6 +4,7 @@ All photos, vectors and videos for one price.
 
 [<img src="images/Colourbox.svg" align="bottom" height="100" alt="Colourbox">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Colourbox.md)
 
+
 ## Detailed description
 
 Campus-wide access to 25,756,847 images, illustrations and videos.
@@ -14,6 +15,7 @@ Great students do great work. But even the best projects can fall short, if the 
 - Register an unlimited amount of students and staff members to your account.
 - Students set up their own accounts and individually accept our Terms & Conditions
 - Get unrestricted access to all images, illustrations and videos in our image bank.
+
 
 ## Additional details
 

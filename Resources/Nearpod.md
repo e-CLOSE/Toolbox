@@ -4,6 +4,7 @@
 
 Real-time insights into student understanding through interactive lessons, interactive videos, gamification, and activities — all in a single platform.
 
+
 ## Detailed description
 
 Nearpod helps educators make any lesson interactive whether in the classroom or virtual. The concept is simple. A teacher can create interactive presentations that can contain Quiz’s, Polls, Videos, Collaborate Boards, and more. Thousands of pre-built K-12 standards-aligned lessons are accessible and teachers can also upload their existing lessons and make them interactive.

@@ -4,6 +4,7 @@ Resources related with the global goals (Sustainable Development Goals).
 
 [<img src="images/SDG.svg" align="bottom" height="100" alt="SDG">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/SDG.md)
 
+
 ## Detailed description
 
 Here you can find media content and graphical assets for communicating the Global Goals from the United Nations.

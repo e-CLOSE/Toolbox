@@ -21,6 +21,7 @@ Icon Fonts for any project, big or small. +5,100 SVG and web font-optimal vector
 - **Editor**: Edit the color of your icons, change the size and download them in all formats, SVG, PNG, EPS.
 - **Collections**:Create multiple collections to have your icons organized and download them in the format you want.
 
+
 ## Additional details
 
 - Licensing scheme(s): Free without attribution, CC, premium
