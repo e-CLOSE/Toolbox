@@ -10,8 +10,8 @@ Storyboard creator for small projects to create graphic content such as Graphic 
 StoryboardThat is a completely web-based platform for creation, a powerful Visual Communication tool, easy to use.
 
 StoryboardThat is a fantastic tool to help create visuals and communicate ideas in the classroom. 
-Makes it easy to create posters, infographics, graphic organizers, and yes, storyboards for any subject! 
-Has thousands of customisable images: Scenes, characters, text, infographics. Characters can change pose, expression, change colours, etc. So it is very easy to create storyboards, convert to pdf, images or make cartoons and videos.
+It makes easy to create posters, infographics, graphic organizers, and yes, storyboards for any subject! 
+It has thousands of customisable images: scenes, characters, text, infographics. Characters can change pose, expression, change colours, etc. So it is very easy to create storyboards, convert to pdf, images or make cartoons and videos.
 
 StoryboardThat offers free 14-day trial for educators.
 
