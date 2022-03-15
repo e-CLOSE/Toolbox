@@ -2,7 +2,7 @@
 
 Easy-to-use video podcast generator from audio and video raw files with multiple features.
 
-![Headliner logo](images/Headliner.png)
+![Headliner logo](images/headliner.png)
 
 ## Detailed description & quick guide
 
