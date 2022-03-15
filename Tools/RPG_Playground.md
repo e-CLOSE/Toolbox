@@ -9,9 +9,9 @@ Create your game by dragging and dropping items into your world. It is ideal for
 
 RPG Playground is a free web game creation tool that permits the easiest way to design your own Role Playing Games. No programming or artistic skills required. It’s a freemium rpg maker. Games can be shared with the community.
 
-# Characteristics
+## Characteristics
 
-It is Ideal for the development of your first game, since it is possible to create your game by dragging and dropping items into your world. It is ideal for hobby games, personal projects, school assignments, etc.
+It is ideal for the development of your first game, since it is possible to create your game by dragging and dropping items into your world. It is ideal for hobby games, personal projects, school assignments, etc.
 
 Likewise, it permits you to write your story, create fantasy worlds and tell stories. Focus on the plot, atmosphere and player choices.
 
