@@ -8,7 +8,7 @@ Create online courses and coaching services. Transform your experience and know-
 
 Teachable is a tool to share their knowledge. It permits us to easily create an online course or coaching business with our powerful yet simple all-in-one platform.
 
-## Characteristics:
+## Characteristics
 
 - It permits you to teach the way you want to learn, bringing your online courses and coaching services to life with student side features.
 - Teachable provides unlimited video bandwidth, unlimited courses and coaching services, and unlimited students on all paid plans.
