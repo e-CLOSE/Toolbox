@@ -7,7 +7,7 @@ Raster graphics editor.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+GIMP is a free and open-source raster graphics editor used for image manipulation (retouching) and image editing, free-form drawing, transcoding between different image file formats, and more specialized tasks. It is not designed to be used for drawing. GIMP is released under GPL-3.0-or-later license and is available for Linux, macOS, and Microsoft Windows. Tools used to perform image editing can be accessed via the toolbox, through menus and dialogue windows. They include filters and brushes, as well as transformation, selection, layer and masking tools.
 
 
 ## Additional details
