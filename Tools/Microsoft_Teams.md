@@ -5,11 +5,12 @@ Platform for instant messaging, audio and video calls, online meetings, collabor
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Microsoft Teams is a collaboration and video conferencing platform that helps people communicate effectively across a number of different mediums. The service allows users to communicate via text chat, voice or video call and also benefits from synergies with various other Microsoft 365 services, such as OneDrive and PowerPoint.
 
 
 ## Additional details
 
+- Microsoft Teams offers all the core collaboration features, from high-quality video conferencing to phone calls, text chat and group messaging.
 - Subscription mode: Company account (Microsoft/Outlook)
 - Platform: Web, GNU/Linux, MacOS, Windows, iOS, Android
 - Tested by: UAH (Elisa); UA (Romeu); UA (Paulo); HTW (Xenia); UA(Margarida); TUL (Gertruda); UAH (Javi)
