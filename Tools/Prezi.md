@@ -7,7 +7,7 @@ Web-based tool that allows users to create a presentation using a map layout.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Prezi is a Hungarian video and visual communications software company. The word "Prezi" is the short form of "presentation" in Hungarian. It is a visual storytelling software alternative to traditional slide-based presentation formats. Prezi presentations feature a map-like overview that lets users pan between topics, zoom in on details, and pull back to reveal context. Prezi Video is integrated with popular video chat platforms and communication tools; it can be used in Zoom, Microsoft Teams, Google Hangouts, Slack, Facebook, GoToWebinar and Webex.
 
 
 ## Additional details
