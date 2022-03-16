@@ -7,7 +7,9 @@ Diagramming application that allows users to create and share diagrams within a 
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+diagrams.net (previously draw.io) is a free and open source cross-platform graph drawing software developed in HTML5 and JavaScript. Its interface can be used to create diagrams such as flowcharts, wireframes, UML diagrams, organizational charts, and network diagrams.
+diagrams.net is available as online as cross-browser web app, and as offline desktop application for Linux, macOS, and Windows. Its offline application is built using the Electron framework. The web app does not require online login or registration, and can open from and save to the local hard drive. Supported storage and export formats to download include PNG, JPEG, SVG, and PDF. It also integrates with cloud services for storage including Dropbox, OneDrive, Google Drive, GitHub, and GitLab.com. 
+
 
 
 ## Additional details
