@@ -1,11 +1,13 @@
 # [Whiteboard.fi](https://www.whiteboard.fi/)  [<img src="images/whiteboard.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Awhiteboard) [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration) [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign)
 
+![logo_whiteboard](images/whiteboard.png)
+
 Whiteboard tool for teachers and classrooms.
 
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Whiteboard.fi is a simple tool that can be used instantly. A class can be created and the students join, using a link, room code or QR code. Everyone will get an individual digital whiteboard, where they can draw, write text, make notations on images, add math equations, and more. As a teacher you can see all your students' whiteboards in real time, so you can follow their progress, while the students only see their own whiteboard and the teacher's. Whiteboard.fi is an instant formative assessment tool for the classroom, providing live feedback and immediate overview over the students.
 
 
 ## Additional details
