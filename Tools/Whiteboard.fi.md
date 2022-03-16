@@ -1,6 +1,6 @@
 # [Whiteboard.fi](https://www.whiteboard.fi/)  [<img src="images/whiteboard.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Awhiteboard) [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration) [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign)
 
-![logo_whiteboard](images/whiteboard.png)
+![logo_whiteboard](images/Whiteboard.png)
 
 Whiteboard tool for teachers and classrooms.
 
