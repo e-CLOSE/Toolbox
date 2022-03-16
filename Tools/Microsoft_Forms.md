@@ -1,12 +1,14 @@
 # [Microsoft Forms](https://forms.office.com/)  [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback) [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation) [<img src="images/gamification.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agamification) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)
 
+![Microsoft forms logo](images/logo_microsoftforms.png)
+
 Application for creating shareable surveys, quizzes and polls.
 
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
-
+Microsoft Forms is a powerful business tool that allows you to easily create forms and collect real-time responses from collaborators and colleagues.
+Once you begin using Microsoft Forms, you’ll find it easy to visualize data through the automatic charting function. There are many great uses for this innovative tool such as gauging satisfaction, gathering feedback, and making better decisions based on actual data.
 
 ## Additional details
 
