@@ -7,7 +7,7 @@ Social network for sharing photos, videos and posts between its users.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Facebook is a website which allows users, who sign-up for free profiles, to connect with friends, work colleagues or people they don't know, online. It allows users to share pictures, music, videos, and articles, as well as their own thoughts and opinions with however many people they like.
 
 
 ## Additional details
