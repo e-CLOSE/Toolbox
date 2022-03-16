@@ -11,6 +11,9 @@ Vote is a cloud-based mobile voting solution which allows to create custom quizz
 
 ## Additional details
 
+- The VoxVote platform offers a range of features to aid with audience response gathering and data analysis including custom questions with options for multiple      choice, single answers, open answers, weighted averages, and more, anonymous voting, presentation slide integration, custom branding, and live graph results. 
+- Creators can also give customers or audiences the opportunity to ask their own questions in conferences and meetings, and event organizers can connect the  platform to a large screen to display audience feedback or interactions. 
+- Results are provided within VoxVote in real time with graphical data presentation and custom reports on chosen metrics.
 - Subscription mode: Free for education
 - Platform: Web
 - Tested by: UA (Romeu)
