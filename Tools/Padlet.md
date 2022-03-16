@@ -7,7 +7,10 @@ Collaborative online tool that allows posting text, images, links, documents, vi
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Padlet is a digital tool that allows teachers and learners to collaborate online by posting text, images, links, documents, videos and voice recordings. With these features, it can help teachers and students in class and beyond by offering a single place for a notice board. 
+This digital notice board works as a "wall" that can be made public or private. Thus, teachers and students can post on the wall any information they want.
+Since the interactive space is easy to use and easily accessible from nearly any web browser-capable device, it's a great resource for the teaching and learning process.
+
 
 
 ## Additional details
