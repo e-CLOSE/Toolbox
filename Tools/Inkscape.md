@@ -7,7 +7,7 @@ Vector graphics editor.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Inkscape is a free and open-source vector graphics editor used to create vector images, primarily in Scalable Vector Graphics (SVG) format. Other formats can be imported and exported. Inkscape can render primitive vector shapes (e.g. rectangles, ellipses, polygons, arcs, spirals, stars and 3D boxes) and text. These objects may be filled with solid colors, patterns, radial or linear color gradients and their borders may be stroked, both with adjustable transparency. Embedding and optional tracing of raster graphics is also supported, enabling the editor to create vector graphics from photos and other raster sources. Created shapes can be further manipulated with transformations, such as moving, rotating, scaling and skewing.
 
 
 ## Additional details
