@@ -7,7 +7,8 @@ Online collaborative whiteboard platform.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Miro is the online collaborative whiteboard platform that enables distributed teams to work effectively together, from brainstorming with digital sticky notes to planning and managing agile workflows.
+With Miro, is possible to take advantage of a full set of collaboration capabilities, make cross-functional teamwork effortless, and organize meetings and workshops: use video chat, presentation, sharing, and many other features.
 
 
 ## Additional details
