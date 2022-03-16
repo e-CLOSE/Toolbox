@@ -5,8 +5,7 @@ Interactive web-based student-response system (quizzes, polls, etc.).
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
-
+Vote is a cloud-based mobile voting solution which allows to create custom quizzes, surveys, and polls and deploy them to users via SMS or mobile in order to gather feedback, assess skills, gain insight, and more, and view results and responses in real time. VoxVote can be used within the MOOC (massive open online courses) industry, as well as classrooms, meetings, conferences, and other events. The VoxVote native mobile apps for Android and iOS allowing to deploy their polls and quizzes directly to recipient’s mobile devices and view results live as they come in.
 
 ## Additional details
 
