@@ -7,7 +7,7 @@ Online content management system to create and host blogs.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Blogger is a free Web log service from Google that allows members to share text, photos and videos. Blogger offers private and multi-user blogs with customized templates, time-stamped entries, archive pages, commenting capabilities and the ability to generate revenue from Google's AdSense. Blogger also provides members with a "BlogThis!" Google Toolbar feature, a Blogger for Word add-in for Microsoft Word and the abilitity to add Blogger posts to a Google+ account. Blogger Mobile is available for Android and iOS mobile devices.
 
 
 ## Additional details
