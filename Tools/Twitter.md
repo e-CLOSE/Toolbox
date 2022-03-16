@@ -11,7 +11,7 @@ Twitter is a social networking and microblogging online service that allows user
 
 After the online sign-up process, users can post their tweets by using a computer or other Twitter-compatible device such as a smartphone, and can view tweets posted by other "followed" users.
 
-Twitter is also referred to as the SMS of the Internet because of its unmatched popularity and its similarity to the SMS text messaging system used on cellphones. Twitter has been used to inform people about various TV events such as the Oscars, MTV Video Music Awards, etc. Because of this, Twitter is sometimes called the virtual watercooler or social television.
+Twitter is also referred to as the SMS of the Internet because of its unmatched popularity and its similarity to the SMS text messaging system used on cellphones.
 
 
 ## Additional details
