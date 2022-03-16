@@ -12,6 +12,10 @@ Once you begin using Microsoft Forms, you’ll find it easy to visualize data th
 
 ## Additional details
 
+- Microsoft Forms is typically used to collect survey data and user responses. 
+- Use it as a tool to survey employees, gather feedback and even ask for advice on projects and other key decisions. 
+- Use it to share quizzes, surveys and similar documents.
+- Another great benefit of the tool is visualized data. Form data is automatically converted into charts and graphs that make your data more functional and easy to interpret.
 - Subscription mode: Company account (Microsoft/Outlook)
 - Platform: Web
 - Tested by: UAH (Elisa); UA (Romeu); UA (Paulo); HTW (Xenia); UA(Margarida); UAH (Javi)
