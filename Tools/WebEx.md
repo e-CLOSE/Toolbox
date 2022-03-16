@@ -8,7 +8,7 @@ Platform for instant messaging, audio and video calls, online meetings, file and
 ## Detailed description & quick guide
 Cisco Webex is a cloud-based collaboration suite for video conferencing and collaborative work. This suite comprise different software tools, namely Webex Meetings, Webex Teams and Webex Devices, and merges the web conferencing platform and the Spark team collaboration tool from Cisco.
 The tools included in the Cisco Webex suite provide capabilities including online meetings, team messaging and file sharing. These features are important for collaboration work and allow to have a unified communications plataform adequate both for small as well as large group meetings.
-Users can join video conferences from a desktop or mobile app. A web version of Webex is available as well -- although more features are available on the other versions. Users can also share files and participate in team messaging features. The service is supported by both Cisco Webex Meetings and Webex Teams apps.
+Users can join video conferences from a desktop or mobile app. A web version of Webex is available as well, although more features are available on the other versions. Users can also share files and participate in team messaging features. The service is supported by both Cisco Webex Meetings and Webex Teams apps.
 
 
 ## Additional details
