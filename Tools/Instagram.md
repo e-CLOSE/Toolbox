@@ -7,7 +7,7 @@ Social network for sharing photos and videos between its users.
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
+Instagram is an photo and video sharing social networking service. The app allows users to upload media that can be edited with filters and organized by hashtags and geographical tagging. Posts can be shared publicly or with pre-approved followers. Users can browse other users' content by tags and locations and view trending content. Users can like photos and follow other users to add their content to a personal feed.
 
 
 ## Additional details
