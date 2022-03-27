@@ -19,9 +19,6 @@ GIMP is a free and open-source raster graphics editor used for image manipulatio
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Gimp website: [Gimp](http://www.gimp.org.es/)
 
 

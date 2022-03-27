@@ -19,13 +19,9 @@ Engage audiences across hybrid workspaces through live online polling, surveys, 
 - Subscription mode: Free/Paid
 - Platform: Web, iOS, Android, Windows, MacOS
 - Tested by: TUL (Gertruda)
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - Poll Everywhere website: [Poll Everywhere](https://www.polleverywhere.com/)
 - [Poll Everywhere support](https://support.polleverywhere.com/hc/en-us)

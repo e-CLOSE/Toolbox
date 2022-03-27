@@ -17,15 +17,10 @@ Use Cases: Hybrid Events, Virtual Team Meetings, Hybrid All-hands Meetings
 ## Additional details
 
 - Subscription mode: Free (up to 500 participants)
-- Platform: N/A
 - Tested by: HTW (Xenia)
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - pigeonhole website: [pigeonhole](https://pigeonholelive.com/)
 - how it works: [pigeonhole starting steps](https://pigeonholelive.com/how-it-works/#how=audience)

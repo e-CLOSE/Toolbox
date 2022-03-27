@@ -24,9 +24,6 @@ Once you begin using Microsoft Forms, you’ll find it easy to visualize data th
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Microsoft Forms website: [Microsoft Forms](https://forms.office.com/)
 
 

@@ -21,11 +21,8 @@ Wonder is perfect for networking, exhibitions, workshops and social events.
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - wonderme website: [wonderme](https://wonder.me/)
-- tutoirals: [wonderme tutorial](https://www.youtube.com/c/Wonderspace/videos)
+- tutorials: [wonderme tutorial](https://www.youtube.com/c/Wonderspace/videos)
 
 
 ## See also...

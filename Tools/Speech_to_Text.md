@@ -21,9 +21,6 @@ Website that allows to transform text to speech and speech to text and Transcrib
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Speech to Text website: [Speech to Text](https://www.textfromtospeech.com)
 
 

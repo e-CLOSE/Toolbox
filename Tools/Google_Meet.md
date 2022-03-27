@@ -23,9 +23,6 @@ Google Meet is a video conferencing service from Google. It's a great solution f
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Google Meet website: [Google Meet](https://meet.google.com)
 
 

@@ -21,9 +21,6 @@ Users can join video conferences from a desktop or mobile app. A web version of 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - WebEx website: [WebEx](https://www.webex.com)
 
 

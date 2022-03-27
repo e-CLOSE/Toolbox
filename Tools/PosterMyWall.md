@@ -25,9 +25,6 @@ Different themes: Events, Small business, Concerts, Church Educational, and more
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - PosterMyWall website: [PosterMyWall](https://www.postermywall.com/index.php)
 - [PosterMyWall help](https://support.postermywall.com/hc/en-us)
 

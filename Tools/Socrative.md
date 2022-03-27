@@ -31,9 +31,6 @@ rosters are not supported.
 
 ## References
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 + Socrative website: [Socrative](https://www.socrative.com/)
 + [Socrative for teachers: a brief introduction](https://www.youtube.com/watch?v=11O7Nwsn1Pc)
 + Articles:

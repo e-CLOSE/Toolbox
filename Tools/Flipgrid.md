@@ -20,9 +20,6 @@ Students can respond via the Flipgrid app or website with any camera-enabled dev
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Flipgrid website: [Flipgrid](https://flipgrid.com)
 
 

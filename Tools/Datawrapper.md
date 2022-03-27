@@ -30,9 +30,6 @@ Tables: Responsive data tables allow for lots of styling options and let you inc
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Datawrapper website: [Datawrapper](https://www.datawrapper.de/)
 - Datawrapper Welcome! [Datawrapper](https://academy.datawrapper.de/category/141-general)
 - Datawrapper Blog [Datawrapper](https://blog.datawrapper.de/)

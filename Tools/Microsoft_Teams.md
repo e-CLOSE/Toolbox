@@ -21,9 +21,6 @@ Microsoft Teams is a collaboration and video conferencing platform that helps pe
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Microsoft Teams website: [Microsoft Teams](https://teams.microsoft.com)
 
 

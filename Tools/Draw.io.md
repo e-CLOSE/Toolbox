@@ -22,9 +22,6 @@ diagrams.net is available as online as cross-browser web app, and as offline des
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Draw.io website: [Draw.io](https://drawio-app.com/)
 
 

@@ -20,9 +20,6 @@ Inkscape is a free and open-source vector graphics editor used to create vector 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Inkscape website: [Inkscape](https://inkscape.org/)
 
 

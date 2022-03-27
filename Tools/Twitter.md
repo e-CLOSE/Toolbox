@@ -24,9 +24,6 @@ Twitter is also referred to as the SMS of the Internet because of its unmatched 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Twitter website: [Twitter](https://www.twitter.com)
 
 

@@ -24,9 +24,6 @@ Video edition follows a drag-and-drop (simple) approach.
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Toonly website: [Toonly](https://www.toonly.com/)
 - Moovly website: [Moovly](https://www.moovly.com/)
 - Toonly @YouTube: [Toonly Official @YouTube](https://www.youtube.com/channel/UCMwfRBNy1KM1rf2fBYbGSVg)

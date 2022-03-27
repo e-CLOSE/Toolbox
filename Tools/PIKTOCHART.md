@@ -19,13 +19,9 @@ Web-based application to create presentations, posters, infographics, reports an
 - Subscription mode: Free/Paid
 - Platform: Web
 - Tested by: TUL (Gertruda)
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - PIKTOCHART website: [PIKTOCHART](https://piktochart.com/)
 - [Piktochart Tutorial](https://guides.library.ucsc.edu/DS/Resources/Piktochart)

@@ -35,13 +35,9 @@ OpenShot supports commonly used video compression formats that are supported by 
 - Subscription mode: Free
 - Platform: GNU/Linux, MacOS, Windows
 - Tested by: UAH (Elisa); UA (Paulo); UAH (Rosa)
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - OpenShot website: [OpenShot](https://www.openshot.org/)
 

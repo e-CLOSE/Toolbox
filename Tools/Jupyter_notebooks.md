@@ -25,9 +25,6 @@ A Jupyter Notebook can be converted to a number of open standard output formats 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Jupyter notebooks website: [Jupyter notebooks](https://jupyter.org)
 
 

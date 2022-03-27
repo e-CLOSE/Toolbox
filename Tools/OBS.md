@@ -21,9 +21,6 @@ For video encoding, OBS Studio can use the x264 transcoder, Intel Quick Sync Vid
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - OBS website: [OBS](https://obsproject.com/)
 
 

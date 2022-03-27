@@ -15,13 +15,9 @@ Prezi is a Hungarian video and visual communications software company. The word 
 - Subscription mode: Free/Paid
 - Platform: Web
 - Tested by: TUL (Gertruda); UA (Romeu); UAH (Elisa); UAH (Rosa)
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - Prezi website: [Prezi](https://prezi.com/)
 - [Prezi support](https://support.prezi.com/hc/en-us)

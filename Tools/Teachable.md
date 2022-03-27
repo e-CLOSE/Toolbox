@@ -29,9 +29,6 @@ Teachable is a tool to share their knowledge. It permits us to easily create an 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Teachable website: [Teachable](https://teachable.com/)
 
 

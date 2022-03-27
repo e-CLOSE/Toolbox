@@ -23,9 +23,6 @@ You'll need a Google account to create a Google Form, but you can adjust the set
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Google Forms website: [Google Forms](https://forms.google.com)
 
 

@@ -25,9 +25,6 @@ To have rich and useful content, simple drag/drop placement and layout of images
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Slimwiki website: [Slimwiki](https://slimwiki.com/)
 - [Slimwiki help](https://slimwiki.com/help)
 

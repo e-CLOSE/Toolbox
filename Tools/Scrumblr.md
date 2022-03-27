@@ -21,13 +21,9 @@ A tool to create an online whiteboard with columns and sticky notecards, that yo
 - Subscription mode: free
 - Platform: Web
 - Tested by: TUL (Gertruda)
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - Scrumblr website: [Scrumblr](http://www.scrumblr.ca/)
 - [Scrumblr help](https://scrumblr.tawk.help/)

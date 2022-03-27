@@ -19,9 +19,6 @@ Facebook is a website which allows users, who sign-up for free profiles, to conn
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Facebook website: [Facebook](https://www.facebook.com)
 
 

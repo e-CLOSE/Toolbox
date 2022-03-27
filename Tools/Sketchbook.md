@@ -22,9 +22,6 @@ Sketchbook features a radial/pie-menu user interface and has painting and drawin
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Sketchbook website: [Sketchbook](https://www.autodesk.com/products/sketchbook/overview)
 
 

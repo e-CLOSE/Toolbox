@@ -54,15 +54,11 @@ Answers can be presented in the form of a diagram, histogram or tagcloud. You ca
 ## Additional details
 
 - Subscription mode: Free
-- Platform: N/A
 - Tested by: HTW (Xenia)
 - Comments: German platform
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - pingo website: [pingo](https://trypingo.com/)
 - pingo on Github: [pingo github](https://github.com/PingoUPB)

@@ -24,9 +24,6 @@ No limitations on presentation quantity per month, storage space is limited. You
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Vcasmo website: [Vcasmo](https://www.vcasmo.com/)
 
 

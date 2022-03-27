@@ -19,9 +19,6 @@ Blogger is a free Web log service from Google that allows members to share text,
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Blogger website: [Blogger](https://www.blogger.com)
 
 

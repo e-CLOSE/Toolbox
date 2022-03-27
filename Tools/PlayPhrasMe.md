@@ -13,7 +13,6 @@ This section should include a detailed description of the tool.
 - Subscription mode: Freemium
 - Platform: Web
 - Tested by: UAH (Elisa)
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)

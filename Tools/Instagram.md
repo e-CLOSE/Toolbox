@@ -19,9 +19,6 @@ Instagram is an photo and video sharing social networking service. The app allow
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Instagram website: [Instagram](https://www.instagram.com)
 
 

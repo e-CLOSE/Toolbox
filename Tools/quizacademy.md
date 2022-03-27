@@ -5,6 +5,7 @@ Interactive web-based student-response system (quizzes, polls, etc.).
 
 
 ## Detailed description & quick guide
+
 University edition
 courses, quiz, index cards, exams and competition, live-quiz, survey, analysis
 
@@ -12,8 +13,6 @@ courses, quiz, index cards, exams and competition, live-quiz, survey, analysis
 ## Additional details
 
 - Subscription mode: Freemium
-- Platform: N/A
-- Tested by: ...
 - Comments: Only in German
 
 

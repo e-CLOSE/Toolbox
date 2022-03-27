@@ -22,9 +22,6 @@ Vote is a cloud-based mobile voting solution which allows to create custom quizz
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Voxvote website: [Voxvote](https://www.voxvote.com/ )
 
 

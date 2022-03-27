@@ -16,13 +16,9 @@ With Miro, is possible to take advantage of a full set of collaboration capabili
 - Subscription mode: Freemium
 - Platform: Web, MacOS, Windows, iOS, Android
 - Tested by: UAH (Elisa); UA (Romeu); UA (Paulo); HTW (Xenia)
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - Miro website: [Miro](https://miro.com/)
 

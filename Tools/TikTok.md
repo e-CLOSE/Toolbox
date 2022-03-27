@@ -20,9 +20,6 @@ TikTok is a video-focused social networking service owned by Chinese company Byt
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - TikTok website: [TikTok](https://www.tiktok.com)
 
 

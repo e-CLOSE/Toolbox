@@ -18,13 +18,9 @@ Since the interactive space is easy to use and easily accessible from nearly any
 - Subscription mode: Freemium
 - Platform: Web, iOS, Android
 - Tested by: UAH (Elisa, Soraya); UA (Romeu); UA (Paulo); HTW (Xenia); UA(Margarida); TUL (Gertruda)
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - Padlet website: [Padlet](https://padlet.com/)
 

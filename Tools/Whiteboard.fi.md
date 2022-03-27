@@ -15,13 +15,9 @@ Whiteboard.fi is a simple tool that can be used instantly. A class can be create
 - Subscription mode: Free / Freemium
 - Platform: Web
 - Tested by: TUL (Gertruda); UA(Margarida)
-- Comments: N/A
 
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
 
 - Whiteboard.fi website: [Whiteboard.fi](Whiteboard.fi - Free online whiteboard for teachers and classrooms)
 

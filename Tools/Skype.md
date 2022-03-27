@@ -20,9 +20,6 @@ Skype is software that enables the world's conversations. Millions of individual
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - Skype website: [Skype](https://www.skype.com)
 
 

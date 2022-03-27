@@ -33,9 +33,6 @@ Free Edition is available for iPad & iPhone and Android.
 
 ## References (links, howtos, tutorials, bibliography, sites, etc.)
 
-This section should include additional references and links to help in
-understanding and using the tool.
-
 - SimpleMind website: [SimpleMind](https://simplemind.eu/)
 - SimpleMind help: [SimpleMind help](https://simplemind.eu/support/)
 
