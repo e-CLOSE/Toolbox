@@ -2,7 +2,7 @@
 
 The largest database of free vector icons available in PNG, SVG, EPS, PSD and BASE 64 formats. 
 
-[<img src="images/Freeicons.svg" align="bottom" height="100" alt="Freeicons">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Freeicons.md)
+[<img src="images/Freeicons.svg" align="bottom" height="100" alt="Freeicons Logo">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Freeicons.md)
 
 
 ## Detailed description

@@ -2,7 +2,7 @@
 
 Free icon repository. Icons can be used without attribution.
 
-[<img src="images/Iconmonstr.png" align="bottom" height="100" alt="Iconmonstr">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Iconmonstr.md)
+[<img src="images/Iconmonstr.png" align="bottom" height="100" alt="Iconmonstr Logo">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Iconmonstr.md)
 
 
 ## Detailed description

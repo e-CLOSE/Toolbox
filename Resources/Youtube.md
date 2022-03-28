@@ -2,7 +2,7 @@
 
 YouTube is an American online video sharing and social media platform owned by Google. It is the second most visited website, right after Google itself.
 
-[<img src="images/YouTube.png" align="bottom" height="100">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Youtube.md)
+[<img src="images/YouTube.png" align="bottom" height="100" alt="YouTube Logo">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Youtube.md)
 
 ## Detailed description
 

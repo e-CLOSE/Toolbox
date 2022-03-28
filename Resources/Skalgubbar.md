@@ -2,7 +2,7 @@
 
 A steadily growing and carefully curated collection of cut out people by Teodor Javanaud Emdén and all the fantastic people he knows. Made to bring visualizations of unbuilt architecture to life. It’s a personal project that follows his everyday life. Yes, he knows all of the people and call them friends.
 
-[<img src="images/Skalgubbar.png" align="bottom" height="100" alt="Skalgubbar">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Skalgubbar.md)
+[<img src="images/Skalgubbar.png" align="bottom" height="100" alt="Skalgubbar Logo">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Skalgubbar.md)
 
 
 ## Detailed description

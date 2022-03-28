@@ -1,6 +1,6 @@
 # [Free Music Archive](https://freemusicarchive.org/)  [<img src="images/resource-music.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Amusic) [<img src="images/resource-audio.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aaudio)
 
-![Free Music Archive](images/FMA.png)
+![Free Music Archive Logo](images/FMA.png)
 
 Resource for free to download and royalty-free music.
 

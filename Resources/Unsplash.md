@@ -2,7 +2,7 @@
 
 The internet’s source of freely-usable images. Powered by creators everywhere.
 
-[<img src="images/Unsplash.png" align="bottom" height="100" alt="Unsplash">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Unsplash.md)
+[<img src="images/Unsplash.png" align="bottom" height="100" alt="Unsplash Logo">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Unsplash.md)
 
 
 ## Detailed description

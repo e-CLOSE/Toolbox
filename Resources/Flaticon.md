@@ -2,7 +2,7 @@
 
 Download free icons and stickers for your projects. Resources made by and for designers. PNG (free), SVG, EPS, PSD and BASE 64 formats.
 
-[<img src="images/Flaticon.svg" align="bottom" height="100" alt="Flaticon">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Flaticon.md)
+[<img src="images/Flaticon.svg" align="bottom" height="100" alt="Flaticon Logo">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Flaticon.md)
 
 
 ## Detailed description

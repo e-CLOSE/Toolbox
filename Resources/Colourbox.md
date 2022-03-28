@@ -2,7 +2,7 @@
 
 All photos, vectors and videos for one price.
 
-[<img src="images/Colourbox.svg" align="bottom" height="100" alt="Colourbox">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Colourbox.md)
+[<img src="images/Colourbox.svg" align="bottom" height="100" alt="Colourbox Logo">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Colourbox.md)
 
 
 ## Detailed description

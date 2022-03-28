@@ -2,7 +2,7 @@
 
 Image database by Adobe.
 
-[<img src="images/Stock.svg" align="bottom" height="100" alt="Stock">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Adobe_Stock_fotolia.md)
+[<img src="images/Stock.svg" align="bottom" height="100" alt="Stock Logo">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Adobe_Stock_fotolia.md)
 
 
 ## Detailed description

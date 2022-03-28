@@ -2,7 +2,7 @@
 
 Resource database associated to Wikipedia, populated by any user. All images have a CC license, though attribution depends on the author that uploaded it (sometimes it might be required, and some others not).
 
-[<img src="images/Wikimedia_Commons.svg" align="bottom" height="100" alt="Wikimedia_Commons">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Wikimedia_Commons.md)
+[<img src="images/Wikimedia_Commons.svg" align="bottom" height="100" alt="Wikimedia_Commons Logo">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Wikimedia_Commons.md)
 
 
 ## Detailed description

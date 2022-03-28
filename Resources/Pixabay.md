@@ -2,7 +2,7 @@
 
 Image and photo data base, many works can be used without attribution.
 
-[<img src="images/Pixabay.png" align="bottom" height="100" alt="Pixabay">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Pixabay.md)
+[<img src="images/Pixabay.png" align="bottom" height="100" alt="Pixabay Logo">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Pixabay.md)
 
 
 ## Detailed description

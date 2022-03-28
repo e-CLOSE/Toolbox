@@ -2,7 +2,7 @@
 
 Resources related with the global goals (Sustainable Development Goals).
 
-[<img src="images/SDG.svg" align="bottom" height="100" alt="SDG">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/SDG.md)
+[<img src="images/SDG.svg" align="bottom" height="100" alt="SDG Logo">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/SDG.md)
 
 
 ## Detailed description
