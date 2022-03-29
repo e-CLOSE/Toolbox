@@ -1,12 +1,24 @@
- -f# [Canva](https://www.canva.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/graphics.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agraphics) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
+ [Canva](https://www.canva.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/graphics.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agraphics) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
+![Logo Canva](https://user-images.githubusercontent.com/96419022/160601705-ac0b48fe-66fa-4fb7-ad36-03a8e69abb69.png)
 
-Web application to publish video and slides presentation.
+
+Web application to publish video and slides presentation or greate social media posts, posters etc..
 
 
 ## Detailed description & quick guide
+Easy to use graphic tool
 
-This section should include a detailed description of the tool.
+Start inspired
+With thousands of professional templates, images and quality content to choose from, get a headstart on bringing your best ideas and work to life.
 
+Collaborate with ease
+Invite people to edit with you or set your whole team up in Canva Pro to manage brand assets, leave feedback, get approvals, and scale your visual content.
+
+Share with pride
+Whether you’re presenting, downloading, scheduling, sharing or printing, enjoy seeing your work make an impact in the real world.
+
+Templates for absolutely anything
+Customize an office template, or design something more personal, like an invitation.
 
 ## Additional details
 
