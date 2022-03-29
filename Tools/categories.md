@@ -3,6 +3,29 @@
 This is the list of categories to which tools were aligned to in the
 IO2 initial efforts.
 
+## Final list
+
+- audio
+- cognitive
+- collaboration
+- communication
+- design
+- diagrams
+- dissemination
+- evaluation
+- feedback
+- gamification
+- graphics
+- organization
+- other
+- presentations
+- project
+- streaming
+- video
+- visualization
+- whiteboard
+
+
 ## Minimalistic list
 
 This list should be concise and informative enough. 
@@ -20,9 +43,6 @@ This list should be concise and informative enough.
 - whiteboard
 
 ## Refined list (generated from the Initial list below, please check and correct)
-
-This list should be wider...
-
 
 - audio
 - collaboration
