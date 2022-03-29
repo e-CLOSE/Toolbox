@@ -1,4 +1,5 @@
 # [pingo](https://trypingo.com/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
+
 ![logo pingo](https://user-images.githubusercontent.com/96419022/157409199-85cfdf62-75c8-4203-8957-2bb786f5fed4.png)
 
 Audience interaction system.
@@ -8,46 +9,46 @@ Audience interaction system.
 
 PINGO—the free Classroom-Response-System
 
-Completely free of charge.
++ Completely free of charge.
 PINGO was developed and is provided by the University of Paderborn. PINGO is free to use from anywhere around the world without any restrictions or installation
 
-Unlimited number of participants.
++ Unlimited number of participants.
 PINGO's unique architecture poses no limits to the number of participants that can participate in the same survey.
 
-Unlimited number of questions.
++ Unlimited number of questions.
 PINGO offers you endless possibilities. You can prepare and save as many questions as you like, store and use them in a survey at any time.
 
-Type of questions.
++ Type of questions.
 With PINGO supporting the TeX format you are not limited to a close-ended, single- or multiple choice question format. You can also choose to include open and numerical questions in your surveys.
 
  
-Question catalogue.
++ Question catalogue.
 You can store prepared questions in a catalogue, index them with keywords and share them with other lecturers.
 
  
-Import/export.
++ Import/export.
 PINGO enabled the import and export of your questions and is compatible with common formats such as Moodle XML, Aiken/Pearson, CSV and GIFT.
 
-Optimized for mobile.
++ Optimized for mobile.
 PINGO adapts to its users. You can link PINGO up to mobile devices as well as to your desktop.
 
  
-Always in sync.
++ Always in sync.
 Questions automatically attune to the devices used by voting participants. Students do not need to do any manual synchronization.
 
  
-Reliable and secure.
++ Reliable and secure.
 PINGO is hosted by a German High-Performance-Cluster and all your sensitive data are systematically encrypted.
 
-Sessions.
++ Sessions.
 You can assign questions to clearly identifiable sessions. After entering their personal identifier once, users can answer session questions straight away and throughout the session.
 
  
-Powerpoint-integration.
++ Powerpoint-integration.
 With “PINGO Remote” you can, without having to open your browser, access/open PINGO directly from your presentation software. Download here ›
 
  
-Intelligent visualization.
++ Intelligent visualization.
 Answers can be presented in the form of a diagram, histogram or tagcloud. You can also highlight the correct answers.
 
 
