@@ -18,7 +18,7 @@ Figma is a collaborative graphics editor and prototyping tool. It is a web appli
 - Comments: Online tool to enhance communication in the design process of systems and processes as well as to share ideas and projects
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Figma website: [Figma](https://www.figma.com/)
 - [Figma education program](https://www.figma.com/education/)

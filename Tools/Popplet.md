@@ -23,7 +23,7 @@ A simple, flexible, scalable solution to work on and share your ideas. Think Vis
 - Comments: Helps to learn visually and creatively
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Popplet website: [Popplet](https://www.popplet.com/)
 - [Popplet Tutorial](https://www.youtube.com/watch?v=HdGbELqaIYk)

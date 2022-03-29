@@ -1,7 +1,7 @@
 # [Google Meet](https://meet.google.com)  [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration) [<img src="images/streaming.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Astreaming) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
 
-![Google Meet logo](images/logo_googlemeet.png)
+![Google Meet Logo](images/logo_googlemeet.png)
 
 Platform for instant messaging, audio and video calls, online meetings, collaborative work, file and data sharing.
 
@@ -21,7 +21,7 @@ Google Meet is a video conferencing service from Google. It's a great solution f
 - Tested by: UAH (Elisa); UA (Romeu); TUL (Gertruda)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Google Meet website: [Google Meet](https://meet.google.com)
 

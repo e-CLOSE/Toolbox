@@ -1,6 +1,6 @@
 # [QR Code Generator](https://www.qr-code-generator.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/graphics.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agraphics)
 
-![QR Code Generator Logo logoQr](images/qr_code.png)
+![QR Code Generator Logo](images/qr_code.png)
 
 Generates QR codes for websites, texts and files.
 
@@ -18,10 +18,9 @@ QR Code is a two-dimensional version of the barcode, typically made up of black 
 - Subscription mode: Free
 - Platform: Web
 - Tested by: TUL (Gertruda & Monika)
-- Comments: N/A
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - QR Code Generator website: [QR Code Generator](https://www.qr-code-generator.com/)
 - [QR Code Generator help](https://help.qr-code-generator.com/en/)

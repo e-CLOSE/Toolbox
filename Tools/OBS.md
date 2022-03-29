@@ -1,6 +1,6 @@
 # [OBS](https://obsproject.com/)  [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo) [<img src="images/streaming.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Astreaming)
 
-![logo_obs](images/obs.jpeg)
+![OBS Logo](images/obs.jpeg)
 
 Solution for offline video recording and live streaming.
 
@@ -19,7 +19,7 @@ For video encoding, OBS Studio can use the x264 transcoder, Intel Quick Sync Vid
 - Tested by: UAH (Elisa); UA (Romeu); UA (Paulo); HTW (Xenia); TUL (Gertruda)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - OBS website: [OBS](https://obsproject.com/)
 

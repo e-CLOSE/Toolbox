@@ -16,7 +16,7 @@ MindMup is a mind-mapping tool that lets students create and share mind maps. Us
 - Tested by: UAH (Elisa)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - MindMup website: [MindMup](https://www.mindmup.com/)
 - [Tutorials](https://www.mindmup.com/tutorials/index.html)

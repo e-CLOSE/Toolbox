@@ -44,7 +44,7 @@ Enter the **code** and **submit your answer** to experience the ease and fun of 
 - Comments: Allow the generation of slides, sets of questions and quizzes to be posed to students interactively
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Mentimeter website: [Mentimeter](https://www.mentimeter.com/)
 - Mentimeter website for students to enter quiz-code: [Menti](https://www.menti.com/)

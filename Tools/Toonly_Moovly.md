@@ -22,7 +22,7 @@ Video edition follows a drag-and-drop (simple) approach.
 - Comments: Catchy animated explainer videos to attract audience
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Toonly website: [Toonly](https://www.toonly.com/)
 - Moovly website: [Moovly](https://www.moovly.com/)

@@ -23,7 +23,7 @@ To have rich and useful content, simple drag/drop placement and layout of images
 - Comments: Allows to share informations and files in groups
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Slimwiki website: [Slimwiki](https://slimwiki.com/)
 - [Slimwiki help](https://slimwiki.com/help)

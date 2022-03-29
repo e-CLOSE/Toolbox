@@ -25,7 +25,7 @@ Lino is a sticky and canvas service that requires nothing but a Web browser.
 - Comments: You can post, see and peel off stickies on canvases
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Linoit website: [Linoit](http://en.linoit.com/)   
 - [How to use lino](http://linoit.com/users/linoit-com/canvases/How%20to%20lino)

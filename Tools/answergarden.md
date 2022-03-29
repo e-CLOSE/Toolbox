@@ -1,20 +1,21 @@
 # [answergarden](https://answergarden.ch/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
-![logo answergarden](https://user-images.githubusercontent.com/96419022/157421028-992ce188-34e3-4463-8209-1a32de70b485.png)
+
+![answergarden Logo](https://user-images.githubusercontent.com/96419022/157421028-992ce188-34e3-4463-8209-1a32de70b485.png)
 
 Minimalistic feedback tool for real time audience participation, online brainstorming and classroom feedback.
 
 
 ## Detailed description & quick guide
 
-What is AnswerGarden?
+### What is AnswerGarden?
 
 AnswerGarden is a new minimalistic feedback tool. Use it for real time audience participation, online brainstorming and classroom feedback.
 
-Who uses AnswerGarden?
+### Who uses AnswerGarden?
 
 AnswerGarden has many different users: classroom, conference and corporate audiences, creative teams, online crowds, mindmappers, and more!
 
-Benefits of AnswerGarden.
+### Benefits of AnswerGarden.
 
 AnswerGarden fits educational, professional and creative purposes, is standalone and embeddable, and shows thousands of answers in a glance!
 
@@ -25,7 +26,7 @@ AnswerGarden fits educational, professional and creative purposes, is standalone
 - Tested by: HTW (Xenia)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - answergarden website: [answergarden](https://answergarden.ch/)
 

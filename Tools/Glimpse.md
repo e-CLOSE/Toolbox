@@ -1,5 +1,6 @@
 # [Glimpse](https://www.joinglimpse.com/post/how-to-do-speed-dating-on-zoom)  [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication)
-![logo glimpse](https://user-images.githubusercontent.com/96419022/157192071-a4e5d19f-3b9a-4fd3-9f9d-33f1b4d162ab.png)
+
+![glimpse Logo](https://user-images.githubusercontent.com/96419022/157192071-a4e5d19f-3b9a-4fd3-9f9d-33f1b4d162ab.png)
 
 Video communication tool.
 Glimpse got acquired and joined the team at twine
@@ -21,7 +22,7 @@ twine is easy to use, simple to setup, and can be used to power impactful conver
 - Comments: For new classes, students can get to know each other, e.g. 5 sessions a 4min, host can set up ice breaker questions, mini-games possible
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Glimpse original website: [Glimpse](https://www.joinglimpse.com/post/how-to-do-speed-dating-on-zoom)
 - Glimpse tutorials: [Glimpse tutorials](https://www.youtube.com/channel/UC2kSnGYiZ6uCOBdzwSdXOyw/featured)

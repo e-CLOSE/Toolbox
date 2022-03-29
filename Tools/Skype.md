@@ -1,6 +1,6 @@
 # [Skype](https://www.skype.com)  [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration) [<img src="images/audio.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aaudio) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-![Skype logo](images/logo_kype.png)
+![Skype Logo](images/logo_kype.png)
 
 Platform for instant messaging, audio and video calls, online meetings, file and data sharing.
 
@@ -18,7 +18,7 @@ Skype is software that enables the world's conversations. Millions of individual
 - Comments: N/A
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Skype website: [Skype](https://www.skype.com)
 

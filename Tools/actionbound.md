@@ -1,5 +1,6 @@
 # [actionbound](https://en.actionbound.com/?setlang)  [<img src="images/gamification.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agamification)
-![logo actionbound](https://user-images.githubusercontent.com/96419022/157419794-759d9c8d-c0b5-4c4c-8044-03bf953af142.png)
+
+![actionbound Logo](https://user-images.githubusercontent.com/96419022/157419794-759d9c8d-c0b5-4c4c-8044-03bf953af142.png)
 
 Create mobile adventures and interactive guides for smartphones and tablets.
 
@@ -22,7 +23,7 @@ Publish your amazing race to others and let them play it in the app with a mobil
 - Subscription mode: Freemium
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - actionbound website: [actionbound](https://en.actionbound.com/?setlang)
 - Tutorials (only German): [actionbound tutorial](https://www.youtube.com/channel/UChwtmdusgG7z6MoQTWoDXMA/videos)

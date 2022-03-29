@@ -1,5 +1,6 @@
 # [H5P in Moodle](https://docs.moodle.org/311/en/H5P)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
-![logo H5P](https://user-images.githubusercontent.com/96419022/157428551-e378ea6b-8e7f-4457-92db-1c515f9569d1.png)
+
+![H5P Logo](https://user-images.githubusercontent.com/96419022/157428551-e378ea6b-8e7f-4457-92db-1c515f9569d1.png)
 
 Moodle module to create content such as interactive videos, quizzes and presentations.
 
@@ -22,7 +23,7 @@ content types
 - Tested by: HTW (Xenia);TUL (Gertruda)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - H5P in Moodle website: [H5P in Moodle](https://docs.moodle.org/311/en/H5P)
 - H5P: [H5P](https://h5p.org/)

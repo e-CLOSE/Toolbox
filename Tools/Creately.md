@@ -1,5 +1,6 @@
 # [Creately](https://creately.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)
-![logo creately](https://user-images.githubusercontent.com/96419022/157195030-6270677f-090a-42ea-bb6b-7af7c72a8f1a.png)
+
+![creately Logo](https://user-images.githubusercontent.com/96419022/157195030-6270677f-090a-42ea-bb6b-7af7c72a8f1a.png)
 
 Online diagramming and collaboration tool.
 
@@ -19,7 +20,7 @@ templates e.g. SWOT Charts, Mind Maps, Fishbone Diagrams, Story Boards, Concept 
 - Subscription mode: Freemium
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Creately website: [Creately](https://creately.com/)
 - Creately tutorials: [Creately tutorials](https://www.youtube.com/c/CreatelyApp/videos)

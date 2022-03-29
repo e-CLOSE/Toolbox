@@ -1,8 +1,8 @@
 # [Teachable](https://vizia.co/)  [<img src="images/other.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aother) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo) [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication)
 
-Create online courses and coaching services. Transform your experience and know-how into a thriving knowledge business.
+![Teachable Logo](images/Teachable.png)
 
-![Teachable logo](images/Teachable.png)
+Create online courses and coaching services. Transform your experience and know-how into a thriving knowledge business.
 
 ## Detailed description & quick guide
 
@@ -27,7 +27,7 @@ Teachable is a tool to share their knowledge. It permits us to easily create an 
 - Comments: Online platform that helps to build online courses and monetize courses
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Teachable website: [Teachable](https://teachable.com/)
 

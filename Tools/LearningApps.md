@@ -31,7 +31,7 @@ Creating collections of Apps is available.
 - Tested by: TUL (Gertruda)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - LearningApps website: [LearningApps](https://learningapps.org/)
 

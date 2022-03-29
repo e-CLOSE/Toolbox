@@ -1,4 +1,5 @@
 # [WBS Learnspace 3D](https://www.wbsakademie.de/wbs-learnspace-3d/)  [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication)
+
 ![logo WBS Training](https://user-images.githubusercontent.com/96419022/157196080-9384251c-748d-4c1a-a155-af30df64b0c0.png)
 
 Realistic coworking virtual world for interaction, classes, communication.
@@ -21,12 +22,10 @@ As if you were there live. Communicate additionally with facial expressions and 
 ## Additional details
 
 - Subscription mode: Only paid
-- Platform: N/A
 - Tested by: HTW (Xenia, Frank)
-- Comments: N/A
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - WBS Learnspace 3D website: [WBS Learnspace 3D](https://www.wbsakademie.de/wbs-learnspace-3d/)
 - tutorials (only in German): [tutorials](https://www.youtube.com/channel/UCw8ns3pn_0voB87TQ60FZrw/videos)

@@ -1,5 +1,6 @@
 # [feedbackr](https://www.feedbackr.io/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation) [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback)
-![logo feedbackr](https://user-images.githubusercontent.com/96419022/157414813-7422593c-e9fc-445a-92e1-6d564d41b16d.png)
+
+![feedbackr Logo](https://user-images.githubusercontent.com/96419022/157414813-7422593c-e9fc-445a-92e1-6d564d41b16d.png)
 
 Audience response system.
 
@@ -29,7 +30,7 @@ Usually there is a lot of group dynamics going on during presentations or events
 - Subscription mode: Free
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - feedbackr website: [feedbackr](https://www.feedbackr.io/)
 - Tutorials: [tutorials feedbackr](https://www.youtube.com/c/FeedbackrIoc_n_c/videos)

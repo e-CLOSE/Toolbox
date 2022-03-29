@@ -27,7 +27,7 @@ Create unique
 - Comments: Gives the freedom to create professional and fully customized videos
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - PowToon website: [PowToon](https://www.powtoon.com/)
 - [PowToon support](https://support.powtoon.com/en/)

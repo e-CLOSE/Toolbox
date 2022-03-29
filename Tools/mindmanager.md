@@ -19,7 +19,7 @@ Visual productivity tools and mind mapping software that take you and your organ
 - Comments: N/A
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - mindmanager website: [mindmanager](https://www.mindmanager.com/en/)
 - tutorials: [mindmanager tutorials](https://www.youtube.com/c/MindManager/videos)

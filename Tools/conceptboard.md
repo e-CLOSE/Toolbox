@@ -1,5 +1,6 @@
 # [conceptboard](https://conceptboard.com/)  [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration) [<img src="images/cognitive.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acognitive) [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams)
-![logo concenptboard](https://user-images.githubusercontent.com/96419022/157191080-c79b2c39-76ec-4fdf-8f9a-af873446c6e1.png)
+
+![conceptboard Logo](https://user-images.githubusercontent.com/96419022/157191080-c79b2c39-76ec-4fdf-8f9a-af873446c6e1.png)
 
 Online visual workspace to brainstorm and collaborate on projects.
 
@@ -22,7 +23,7 @@ Collaboration: audio & video calls, real time feedback and presentation mode
 - Comments: German company, GDPR compliant
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - conceptboard website: [conceptboard](https://conceptboard.com/)
 - tutorial: [conceptboard tutorial](https://www.youtube.com/c/Conceptboard/featured)

@@ -34,7 +34,7 @@ Moreover, users can work collaboratively in a project, and measure metrics.
 - Comments: Infogram lets students and educators alike easily create infographics, online reports, charts, interactive maps, etc.
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - infogram website: [infogram](https://infogram.com)
 

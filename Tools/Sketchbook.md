@@ -1,6 +1,6 @@
 # [Sketchbook](https://www.autodesk.com/products/sketchbook/overview)  [<img src="images/whiteboard.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Awhiteboard) [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams) [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign)
 
-![logo_sketchbook](images/Sketchbook.png)
+![sketchbook Logo](images/Sketchbook.png)
 
 Painting and drawing app.
 
@@ -20,7 +20,7 @@ Sketchbook features a radial/pie-menu user interface and has painting and drawin
 - Comments: Free for iOS and Andoid, paid for MacOS and Windows
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Sketchbook website: [Sketchbook](https://www.autodesk.com/products/sketchbook/overview)
 

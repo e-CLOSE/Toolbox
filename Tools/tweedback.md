@@ -32,7 +32,7 @@ GDPR compliant with servers in German datacenters
 - Comments: It is a great tool to support live lectures. The students can chat and ask questions. Press any panic button, so the lecturers sees and can directly adjust his talking pace for example.
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 This section should include additional references and links to help in
 understanding and using the tool.

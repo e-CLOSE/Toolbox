@@ -1,5 +1,6 @@
 # [pigeonhole](https://pigeonholelive.com/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
-![logo pigeonhole](https://user-images.githubusercontent.com/96419022/157421315-6c7086af-1309-4471-adc1-1c5c6b38a619.png)
+
+![pigeonhole Logo](https://user-images.githubusercontent.com/96419022/157421315-6c7086af-1309-4471-adc1-1c5c6b38a619.png)
 
 Mobile, real-time conference question and answer (Q&A) tool.
 
@@ -20,7 +21,7 @@ Use Cases: Hybrid Events, Virtual Team Meetings, Hybrid All-hands Meetings
 - Tested by: HTW (Xenia)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - pigeonhole website: [pigeonhole](https://pigeonholelive.com/)
 - how it works: [pigeonhole starting steps](https://pigeonholelive.com/how-it-works/#how=audience)

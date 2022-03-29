@@ -16,7 +16,7 @@ MURAL is space for your team to collaborate visually and problem-solve faster wi
 - Tested by: Xenia (HTW)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - mural website: [mural](https://www.mural.co/)
 - tutorials: [mural tutorials](https://www.youtube.com/c/MURALtv/videos)

@@ -21,7 +21,7 @@ Mobile app designed for note taking, organizing, task lists, and archiving.
 - Comments: "The app allows users to create notes, which can be formatted text, web pages, photographs, voice memos, or ""ink"" notes."
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Evernote website: [Evernote](https://play.google.com/store/apps/details?id=com.evernote&hl=pl&gl=US)
 - [Evernote help](https://help.evernote.com/hc/en-us/categories/10681-Using-Evernote)

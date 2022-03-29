@@ -23,7 +23,7 @@ Different themes: Events, Small business, Concerts, Church Educational, and more
 - Comments: Choose the type of design, customize it and download it.
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - PosterMyWall website: [PosterMyWall](https://www.postermywall.com/index.php)
 - [PosterMyWall help](https://support.postermywall.com/hc/en-us)

@@ -1,6 +1,6 @@
 # [Inkscape](https://inkscape.org/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/graphics.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agraphics) [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams)
 
-![Inkscape logo](images/Inkscape_Logo_full.png)
+![Inkscape Logo](images/Inkscape_Logo_full.png)
 
 Vector graphics editor.
 
@@ -18,7 +18,7 @@ Inkscape is a free and open-source vector graphics editor used to create vector 
 - Comments: Vector graphic editor
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Inkscape website: [Inkscape](https://inkscape.org/)
 

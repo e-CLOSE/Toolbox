@@ -23,7 +23,7 @@ Among other things, we are perceived as the data protection-friendly alternative
 - Comments: Only in German
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 This section should include additional references and links to help in
 understanding and using the tool.

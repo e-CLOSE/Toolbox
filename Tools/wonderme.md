@@ -1,5 +1,6 @@
 # [wonderme](https://www.wonder.me/) [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication)
-![Logo Wonder](https://user-images.githubusercontent.com/96419022/160604353-b24ddd11-e9ad-4a49-93b2-856261419233.png)
+
+![Wonder Logo](https://user-images.githubusercontent.com/96419022/160604353-b24ddd11-e9ad-4a49-93b2-856261419233.png)
 
 
 "Virtual event room where participants can “meet“ and communicate via speech or video.
@@ -21,7 +22,7 @@ Wonder is perfect for networking, exhibitions, workshops and social events.
 - Comments: easy to set up, great for networking events
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - wonderme website: [wonderme](https://wonder.me/)
 - tutorials: [wonderme tutorial](https://www.youtube.com/c/Wonderspace/videos)

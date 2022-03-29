@@ -15,7 +15,7 @@ The Plickers platform has been designed with accessibility as a top priority, me
 - Comments: Plickers is designed for in-classroom teaching using standard Plickers Cards but it also offers an E-Learning feature that allows students to participate securely at home and answer Questions in real-time.
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Plickers website: [Plickers](https://get.plickers.com/)
 - [How-to guides](https://help.plickers.com/hc/en-us/categories/360000845853-How-to-Guides)

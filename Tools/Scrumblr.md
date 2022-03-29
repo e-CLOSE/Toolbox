@@ -23,7 +23,7 @@ A tool to create an online whiteboard with columns and sticky notecards, that yo
 - Tested by: TUL (Gertruda)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Scrumblr website: [Scrumblr](http://www.scrumblr.ca/)
 - [Scrumblr help](https://scrumblr.tawk.help/)

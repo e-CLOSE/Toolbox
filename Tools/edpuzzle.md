@@ -20,7 +20,7 @@ Web based platform to organize students work, give tasks and grade.
 - Tested by: TUL (Gertruda)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - edpuzzle website: [edpuzzle](https://edpuzzle.com/)
 - [edpuzzle support](https://support.edpuzzle.com/hc/en-us/sections/360001671011-Getting-Started)

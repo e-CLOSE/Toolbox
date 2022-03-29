@@ -1,6 +1,6 @@
 # [WeVideo](https://www.wevideo.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-![WeVideo logo](images/wevideo.png)
+![WeVideo Logo](images/wevideo.png)
 
 An online, cloud-based video editing platform that works in web browsers and on mobile devices. Social media channel.
 
@@ -28,7 +28,7 @@ Different plans and features: The free WeVideo account has limited features allo
 - Comments: Boost creativity and collaboration with fun activities for students. Dive in for lesson objectives, sample videos, and an activity description that you can plug right into your classroom assignments.
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - WeVideo website: [WeVideo](https://www.wevideo.com/)
 - [Getting started with WeVideo](https://www.wevideo.com/support/getting-started-with-wevideo)

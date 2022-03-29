@@ -39,7 +39,7 @@ Participants can simply join with a **code** and presenters can later on **expor
 - Comments: Allow the generation of sets of questions to be posed to students interactively which can be integrated into Power Point and Google Slides.
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Wooclap website: [Wooclap](https://www.wooclap.com/)
 - [Wooclap guides](https://www.wooclap.com/blog/en-gb/guide)

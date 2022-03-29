@@ -30,7 +30,7 @@ On the free-to-use platform the number of boards/topics is restricted to one.
 - Comments: Takes the process of dot voting online to allow groups of people to collaborate on a topic
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - dotstorming website: [dotstorming](https://dotstorming.com/)
 - Dotstorming Tutorial for Teachers: [Dotstorming Tutorial for Teachers](https://www.youtube.com/watch?v=5M2keRMCr_c)

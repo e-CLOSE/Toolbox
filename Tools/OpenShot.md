@@ -1,6 +1,6 @@
 # [OpenShot](https://www.openshot.org/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-![logo_openshot](images/openshot.jpeg)
+![openshot Logo](images/openshot.jpeg)
 
 Video editor.
 
@@ -37,7 +37,7 @@ OpenShot supports commonly used video compression formats that are supported by 
 - Tested by: UAH (Elisa); UA (Paulo); UAH (Rosa)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - OpenShot website: [OpenShot](https://www.openshot.org/)
 

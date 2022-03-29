@@ -17,7 +17,7 @@ Blogger is a free Web log service from Google that allows members to share text,
 - Tested by: UAH (Elisa); UA (Romeu); UA (Paulo); HTW (Xenia)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Blogger website: [Blogger](https://www.blogger.com)
 

@@ -1,6 +1,6 @@
 # [Microsoft Forms](https://forms.office.com/)  [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback) [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation) [<img src="images/gamification.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agamification) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)
 
-![Microsoft forms logo](images/logo_microsoftforms.png)
+![Microsoft Forms Logo](images/logo_microsoftforms.png)
 
 Application for creating shareable surveys, quizzes and polls.
 
@@ -22,7 +22,7 @@ Once you begin using Microsoft Forms, you’ll find it easy to visualize data th
 - Comments: Easy form generation, sharing and results collection
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Microsoft Forms website: [Microsoft Forms](https://forms.office.com/)
 

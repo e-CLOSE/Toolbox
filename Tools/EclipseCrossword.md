@@ -19,7 +19,7 @@ Application for Windows to create and share crosswords.
 - Tested by: TUL (Gertruda)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - EclipseCrossword website: [EclipseCrossword](https://www.eclipsecrossword.com/)
 - [EclipseCrossword tutorial](https://www.eclipsecrossword.com/help/getting-started)

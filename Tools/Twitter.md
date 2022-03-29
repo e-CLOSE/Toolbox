@@ -1,6 +1,6 @@
 # [Twitter](https://www.twitter.com)  [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication) [<img src="images/dissemination.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adissemination) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-![Twitter logo](images/twitter.png)
+![Twitter Logo](images/twitter.png)
 
 Social networking microblogging service.
 
@@ -22,7 +22,7 @@ Twitter is also referred to as the SMS of the Internet because of its unmatched 
 - Comments: N/A
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Twitter website: [Twitter](https://www.twitter.com)
 

@@ -1,6 +1,6 @@
 # [Miro](https://miro.com/)  [<img src="images/whiteboard.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Awhiteboard) [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration) [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback) [<img src="images/project.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aproject) [<img src="images/presentations.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Apresentations)
 
-![Miro logo](images/miro.png)
+![Miro Logo](images/miro.png)
 
 Online collaborative whiteboard platform.
 
@@ -18,7 +18,7 @@ With Miro, is possible to take advantage of a full set of collaboration capabili
 - Tested by: UAH (Elisa); UA (Romeu); UA (Paulo); HTW (Xenia)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Miro website: [Miro](https://miro.com/)
 

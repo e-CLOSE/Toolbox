@@ -1,6 +1,5 @@
 # [ClassTools.net](https://www.classtools.net/)  [<img src="images/gamification.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agamification) [<img src="images/evaluation.png" align="bottom" >](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
-
 <img src="images/logoClasstools.gif" align="bottom" height="100">
 
 Website containing of applications for creating and sharing crosswords, games, quizzes, diagrams and others.
@@ -22,7 +21,7 @@ The saved templates stay on the server permanently. The only exception is for fi
 - Tested by: TUL (Gertruda)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - ClassTools.net website: [ClassTools.net](https://www.classtools.net/)
 

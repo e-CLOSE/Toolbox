@@ -1,8 +1,9 @@
 # [Datawrapper](https://www.datawrapper.de/)  [<img src="images/visualization.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avisualization) [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams) [<img src="images/graphics.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agraphics)
 
+![Datawrapper logo](images/Datawrapper.png)
+
 Data visualization tool capable of showing data in beautiful charts, maps or tables with a few clicks.
 
-![Datawrapper logo](images/Datawrapper.png)
 
 # Detailed description & quick guide
 
@@ -28,7 +29,7 @@ Tables: Responsive data tables allow for lots of styling options and let you inc
 - Comments: Web based application to create high-quality data graphics and animations from raw data files.
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Datawrapper website: [Datawrapper](https://www.datawrapper.de/)
 - Datawrapper Welcome! [Datawrapper](https://academy.datawrapper.de/category/141-general)

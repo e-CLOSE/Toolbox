@@ -25,7 +25,7 @@ Our mission is to make the world easier to understand for everyone. In more than
 - Subscription mode: Free for education
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - The simple show website: [The simple show](https://videomaker.simpleshow.com/)
 - tutorials: [The simple show tutorials](https://www.youtube.com/user/thesimpleshow/videos)

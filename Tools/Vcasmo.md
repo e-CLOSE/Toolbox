@@ -22,7 +22,7 @@ No limitations on presentation quantity per month, storage space is limited. You
 - Comments: Allows to upload the recorded presentation and add slides, photos, pdf files
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Vcasmo website: [Vcasmo](https://www.vcasmo.com/)
 

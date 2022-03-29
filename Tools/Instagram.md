@@ -1,6 +1,6 @@
 # [Instagram](https://www.instagram.com)  [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication) [<img src="images/dissemination.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adissemination) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-![Instagram logo](images/instagram.jpg)
+![Instagram Logo](images/instagram.jpg)
 
 Social network for sharing photos and videos between its users.
 
@@ -17,7 +17,7 @@ Instagram is an photo and video sharing social networking service. The app allow
 - Tested by: UAH (Elisa); UA (Romeu); UA (Paulo); HTW (Xenia)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Instagram website: [Instagram](https://www.instagram.com)
 

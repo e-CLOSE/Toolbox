@@ -31,7 +31,7 @@ Free Edition is available for iPad & iPhone and Android.
 - Comments: Allows you to analyze your thoughts and structure them
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - SimpleMind website: [SimpleMind](https://simplemind.eu/)
 - SimpleMind help: [SimpleMind help](https://simplemind.eu/support/)

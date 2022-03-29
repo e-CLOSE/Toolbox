@@ -1,6 +1,6 @@
 # [Microsoft Teams](https://teams.microsoft.com)  [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration) [<img src="images/streaming.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Astreaming) [<img src="images/whiteboard.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Awhiteboard) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo) [<img src="images/organization.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aorganization)
 
-![Microsoft Teams logo](images/logo_microsoftteams.png)
+![Microsoft Teams Logo](images/logo_microsoftteams.png)
 
 Platform for instant messaging, audio and video calls, online meetings, collaborative work, file and data sharing.
 
@@ -19,7 +19,7 @@ Microsoft Teams is a collaboration and video conferencing platform that helps pe
 - Comments: Can be used for creating teams with teacher and students, organise remote lessons, share content and promote collaboration
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Microsoft Teams website: [Microsoft Teams](https://teams.microsoft.com)
 

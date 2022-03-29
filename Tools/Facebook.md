@@ -17,7 +17,7 @@ Facebook is a website which allows users, who sign-up for free profiles, to conn
 - Tested by: UAH (Elisa); UA (Romeu); UA (Paulo); HTW (Xenia)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Facebook website: [Facebook](https://www.facebook.com)
 

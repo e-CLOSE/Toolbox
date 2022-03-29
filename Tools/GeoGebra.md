@@ -27,7 +27,7 @@ GeoGebra resources can be easily shared through our collaboration platform GeoGe
 - Platform: Web
 - Tested by: TUL (Gertruda)
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - GeoGebra website: [GeoGebra](https://www.geogebra.org/)
 - [GeoGebra Manual/Tutorials](https://wiki.geogebra.org/?do=lastcomments)

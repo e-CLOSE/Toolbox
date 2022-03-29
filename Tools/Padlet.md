@@ -1,6 +1,6 @@
 # [Padlet](https://padlet.com/)  [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration) [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback) [<img src="images/project.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aproject) [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication)
 
-![Padlet logo](images/padlet.png)
+![Padlet Logo](images/padlet.png)
 
 Collaborative online tool that allows posting text, images, links, documents, videos and voice recordings.
 
@@ -20,7 +20,7 @@ Since the interactive space is easy to use and easily accessible from nearly any
 - Tested by: UAH (Elisa, Soraya); UA (Romeu); UA (Paulo); HTW (Xenia); UA(Margarida); TUL (Gertruda)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Padlet website: [Padlet](https://padlet.com/)
 

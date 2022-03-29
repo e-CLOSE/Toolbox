@@ -18,7 +18,7 @@ Bitpaper is accessible through desktops, laptops and tablets (but not smartphone
 - Comments: Includes math formulas. Bitpaper is accessible through desktops, laptops and tablets (but not smartphones). Bitpaper is available through different internet browsers (e.g. Safari and Firefox), but it is optimized to work through Chrome, and the developers strongly recommend using Chrome to work with Bitpaper.
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Bitpaper website: [Bitpaper](https://www.bitpaper.io/)
 - [Bitpaper manual](https://bitpaper.io/guide)

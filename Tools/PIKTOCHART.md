@@ -21,7 +21,7 @@ Web-based application to create presentations, posters, infographics, reports an
 - Tested by: TUL (Gertruda)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - PIKTOCHART website: [PIKTOCHART](https://piktochart.com/)
 - [Piktochart Tutorial](https://guides.library.ucsc.edu/DS/Resources/Piktochart)

@@ -25,7 +25,7 @@ Streamyard makes possible:
 - Comments: UA: Backoffice for Youtube streaming and lives
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Streamyard website: [Streamyard](https://streamyard.com/broadcasts)
 - Streamyard help: [Streamyard help](https://support.streamyard.com/hc/en-us)

@@ -21,7 +21,7 @@ Engage audiences across hybrid workspaces through live online polling, surveys, 
 - Tested by: TUL (Gertruda)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Poll Everywhere website: [Poll Everywhere](https://www.polleverywhere.com/)
 - [Poll Everywhere support](https://support.polleverywhere.com/hc/en-us)

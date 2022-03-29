@@ -40,7 +40,7 @@ CreateStudio is a video editor, focused on the creation of short clips and anima
 - Comments: Creation of blackboard, glassboard, and even green screen animations.
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - CreateStudio website: [CreateStudio](https://createstudio.com/)
 - CreateStudio tutorials: [CreateStudio Software Review @YouTube](https://www.youtube.com/channel/UCkSAgkdgN1TzLpQY_jbmQLA)

@@ -23,7 +23,7 @@ All-in-one online tool to create presentations, interactive images, infographics
 - Comments: Allows them to present their work to large groups in a simple and interesting way
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Genially website: [Genially](https://www.genial.ly/)
 - [Genially support](https://support.genial.ly/en/support/home)

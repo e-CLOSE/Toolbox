@@ -1,6 +1,6 @@
 # [Pear Deck](https://www.peardeck.com/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation) [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback)
 
-![Pear Deck logo](images/peardeck.png)
+![Pear Deck Logo](images/peardeck.png)
 
 Interactive web-based student-response system (quizzes, polls, etc.) with PowerPoint on-line and Google Slides integration.
 
@@ -24,7 +24,7 @@ The basic free version offers limited features.
 - Comments: Allow the generation of sets of questions to be posed to students interactively which can be integrated into both Power Point and Google Slides on-line.
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Pear Deck website: [Pear Deck](https://www.peardeck.com/)
 - [Templates](https://www.peardeck.com/templates)

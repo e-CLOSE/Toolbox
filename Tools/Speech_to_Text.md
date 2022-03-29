@@ -16,10 +16,9 @@ Website that allows to transform text to speech and speech to text and Transcrib
 - Subscription mode: Free
 - Platform: Web
 - Tested by: TUL (Gertruda)
-- Comments: N/A
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Speech to Text website: [Speech to Text](https://www.textfromtospeech.com)
 

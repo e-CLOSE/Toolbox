@@ -1,9 +1,10 @@
 # [RPG Playground](https://rpgplayground.com/)  [<img src="images/other.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aother)
 
+![RPGPlayground Logo](images/RPGPlayground.png)
+
 Create your game by dragging and dropping items into your world. It is ideal for hobby games, personal projects, school assignments, etc.
 
 
-![RPGPlayground logo](images/RPGPlayground.png)
 
 ## Detailed description & quick guide
 
@@ -29,10 +30,7 @@ No coding required!
 - Comments:  No programming or artistic skills required. It’s a freemium rpg maker. Games can be shared with the community.
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
+## References
 
 - RPG Playground website: [RPG Playground](https://rpgplayground.com/)
 - RPG Playground forum: [RPG Playground](https://rpgplayground.com/forum-index/)

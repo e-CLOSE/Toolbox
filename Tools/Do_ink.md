@@ -1,8 +1,9 @@
 # [Do ink](http://www.doink.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
+[<img src="images/Do_ink.png" align="bottom" height="100" alt="Do_ink">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Do_ink.md)
+
 Drawing editor to create vector artwork and frame-by-frame (flip book) animations. and composition editor to combine your artwork into more complex and sophisticated scenes with Green screen support.
 
-[<img src="images/Do_ink.png" align="bottom" height="100" alt="Do_ink">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Do_ink.md)
 
 ## Detailed description & quick guide
 
@@ -18,7 +19,7 @@ Green Screen by Do Ink makes it easy to create incredible green screen videos an
 - Comments: Simple tool for Apple devices
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Do ink website: [Do ink](http://www.doink.com/)
 

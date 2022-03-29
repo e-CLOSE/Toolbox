@@ -26,7 +26,7 @@ Doodly includes continuous software updates.
 - Comments: Creation of blackboard, glassboard, and even green screen animations.
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Doodly website: [Doodly](https://www.doodly.com/)
 - Official Doodly tutorials: [Doodly Official @YouTube](https://www.youtube.com/channel/UC0naFmQzU8GtFEZiTkBqaSg)

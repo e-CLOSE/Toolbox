@@ -17,7 +17,7 @@ Prezi is a Hungarian video and visual communications software company. The word 
 - Tested by: TUL (Gertruda); UA (Romeu); UAH (Elisa); UAH (Rosa)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Prezi website: [Prezi](https://prezi.com/)
 - [Prezi support](https://support.prezi.com/hc/en-us)

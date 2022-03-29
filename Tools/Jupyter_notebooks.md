@@ -1,6 +1,6 @@
 # [Jupyter notebooks](https://jupyter.org)  [<img src="images/project.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aproject) [<img src="images/cognitive.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acognitive) [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
-![logo_jupyter](images/Jupyter.png)
+![jupyter Logo](images/Jupyter.png)
 
 Web-based application to create and share documents that contain live code, equations, visualizations, and narrative text.
 
@@ -23,7 +23,7 @@ A Jupyter Notebook can be converted to a number of open standard output formats 
 - Tested by: UA (Paulo)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Jupyter notebooks website: [Jupyter notebooks](https://jupyter.org)
 

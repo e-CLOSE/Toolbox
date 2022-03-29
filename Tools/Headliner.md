@@ -1,8 +1,8 @@
 # [Headliner](https://www.headliner.app/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/graphics.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agraphics) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-Easy-to-use video podcast generator from audio and video raw files with multiple features.
+![Headliner Logo](images/headliner.png)
 
-![Headliner logo](images/headliner.png)
+Easy-to-use video podcast generator from audio and video raw files with multiple features.
 
 ## Detailed description & quick guide
 
@@ -25,7 +25,7 @@ The Headliner is a video editor helps you quickly and easily create audiograms a
 - Comments: Waveforms, audio visualizers, social media publishing, audio and video transcription, text animation, etc.
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Headliner website: [Headliner](https://www.headliner.app/)
 

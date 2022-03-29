@@ -28,7 +28,7 @@ A live webinar has several opportunities for lead generation and nurturing. Gath
 - Comments: It includes real-time audio/video and comes with an array of handy features
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - ClickMeeting website: [ClickMeeting](https://clickmeeting.com/)
 - [Video-tutorials](https://knowledge.clickmeeting.com/video/)

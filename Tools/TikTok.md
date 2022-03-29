@@ -1,6 +1,6 @@
 # [TikTok](https://www.tiktok.com)  [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication) [<img src="images/dissemination.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adissemination) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-![TikTok logo](images/TikTok.jpg)
+![TikTok Logo](images/TikTok.jpg)
 
 Social media platform for creating, sharing and discovering short videos.
 
@@ -15,10 +15,9 @@ TikTok is a video-focused social networking service owned by Chinese company Byt
 - Subscription mode: Free, Fremium, Company account
 - Platform: Web, iOS, Android
 - Tested by: UAH (Elisa); UA (Romeu); UA (Paulo); HTW (Xenia)
-- Comments: N/A
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - TikTok website: [TikTok](https://www.tiktok.com)
 

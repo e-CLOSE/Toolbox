@@ -20,7 +20,7 @@ Record tutorials, create interactive presentations and assignments.
 - Comments: Tool that lets you annotate, animate, narrate, import, and export
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - ExplainEverything website: [ExplainEverything](https://explaineverything.com/)
 - [ExplainEverything manual](https://explaineverything.com/brand-new-multi-touch-explain-everything-user-manual/)

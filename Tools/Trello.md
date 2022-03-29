@@ -19,7 +19,7 @@ Trello means boards, lists and cards. You can customize and expand with more fea
 - Comments: "Organizes ""anything"" in boards, lists and cards. Very easy user interface"
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Trello website: [Trello](https://trello.com/)
 - Trello Help: [Trello Help](https://help.trello.com/)

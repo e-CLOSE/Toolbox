@@ -59,7 +59,7 @@ Answers can be presented in the form of a diagram, histogram or tagcloud. You ca
 - Comments: German platform
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - pingo website: [pingo](https://trypingo.com/)
 - pingo on Github: [pingo github](https://github.com/PingoUPB)

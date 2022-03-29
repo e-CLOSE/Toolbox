@@ -30,7 +30,7 @@ Early morning? All-nighter? With teaching methods backed by learning science, Qu
 - Comments: Better for schools
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Quizlet website: [Quizlet](https://quizlet.com/)
 - Tutorials: [Quizlet tutorials](https://www.youtube.com/c/quizlet/videos)

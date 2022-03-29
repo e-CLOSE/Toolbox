@@ -1,6 +1,6 @@
 # [Kahoot](https://kahoot.com/)  [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback) [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation) [<img src="images/gamification.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agamification)
 
-![Kahoot logo](images/Kahoot.png)
+![Kahoot Logo](images/Kahoot.png)
 
 Interactive web-based student-response system (quizzes, polls, etc.).
 
@@ -22,7 +22,7 @@ The free version only allows 10 users.
 - Comments: Allow the generation of sets of questions to be posed to students interactively. Note it has a limitation in the question length.
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 + Kahoot website: [Kahoot](https://kahoot.com/)
 + Articles:

@@ -15,7 +15,7 @@ From your first brainstorming session to your final presentation, MindMeister’
 - Comments: German Company (follows EU General Data Processing Regulation (GDPR))
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - mindmeister website: [mindmeister](https://www.mindmeister.com)
 - tutorials: [mindmeister tutorials](https://www.youtube.com/c/mindmeister/videos)

@@ -1,6 +1,6 @@
 # [Gimp](http://www.gimp.org.es/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/graphics.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agraphics)
 
-![Gimp logo](images/GIMP-Wilbur-Vector-Logo-Large-1520.png)
+![Gimp Logo](images/GIMP-Wilbur-Vector-Logo-Large-1520.png)
 
 Raster graphics editor.
 
@@ -17,7 +17,7 @@ GIMP is a free and open-source raster graphics editor used for image manipulatio
 - Tested by: UAH (Elisa); UA (Paulo)
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Gimp website: [Gimp](http://www.gimp.org.es/)
 

@@ -1,8 +1,9 @@
 # [Google Calendar](https://calendar.google.com)  [<img src="images/organization.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aorganization) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)
 
+[<img src="images/Google_Calendar.png" align="bottom" height="100" alt="Google_Calendar">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Google_Calendar.md)
+
 Google Calendar quickly allows the schedule of meetings and events and getting reminders about upcoming activities. 
 
-[<img src="images/Google_Calendar.png" align="bottom" height="100" alt="Google_Calendar">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Google_Calendar.md)
 
 ## Detailed description & quick guide
 
@@ -25,7 +26,7 @@ With Google Calendar, you can quickly schedule meetings and events and get remin
 - Comments: Google Calendar allows users to create and edit events. Reminders can be enabled for events, with options available for type and time. Event locations can also be added, and other users can be invited to events.
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Google Calendar website: [Google Calendar](https://calendar.google.com)
 

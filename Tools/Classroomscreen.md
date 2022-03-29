@@ -1,8 +1,8 @@
 # [Classroomscreen](https://classroomscreen.com/)  [<img src="images/other.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aother)
 
-Classroomscreen is an online tool that allows you to display the instructions for lesson and lectures in a clear and visual way.
+![Classroomscreen Logo](images/Classroomscreen.png)
 
-![Classroomscreen logo](images/Classroomscreen.png)
+Classroomscreen is an online tool that allows you to display the instructions for lesson and lectures in a clear and visual way.
 
 ## Detailed description & quick guide
 
@@ -18,7 +18,7 @@ Classroomscreen has the most widgets that are commonly needed by teachers to tea
 - Comments: Nice litte applets to use in class (stopwatch, timer, ...) that can be placed and distributed in the web page.
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
+## References
 
 - Classroomscreen website: [Classroomscreen](https://classroomscreen.com/)
 
