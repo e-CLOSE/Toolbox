@@ -7,8 +7,15 @@ Interactive web-based student-response system (quizzes, polls, etc.).
 ## Detailed description & quick guide
 
 University edition
+
 courses, quiz, index cards, exams and competition, live-quiz, survey, analysis
 
+Create your own quizzes and flashcards online
+
+Data protection compliant - ad-free - training & support
+
+QuizAcademy is the simple and safe learning software from Germany. With QuizAcademy, you as a teacher can create your own quizzes, flashcards and surveys, make them available to your learners and analyze the results. 
+Among other things, we are perceived as the data protection-friendly alternative.
 
 ## Additional details
 
