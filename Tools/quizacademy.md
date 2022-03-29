@@ -1,21 +1,24 @@
 # [quizacademy](https://quizacademy.de/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
-![logo quizacademy](https://user-images.githubusercontent.com/96419022/157411677-3adc9ac8-adb3-4216-9d3b-5a30b5687d64.png)
+
+![quizacademy Logo](https://user-images.githubusercontent.com/96419022/157411677-3adc9ac8-adb3-4216-9d3b-5a30b5687d64.png)
 
 Interactive web-based student-response system (quizzes, polls, etc.).
 
 
 ## Detailed description & quick guide
 
-University edition
-
-courses, quiz, index cards, exams and competition, live-quiz, survey, analysis
-
-Create your own quizzes and flashcards online
-
-Data protection compliant - ad-free - training & support
-
 QuizAcademy is the simple and safe learning software from Germany. With QuizAcademy, you as a teacher can create your own quizzes, flashcards and surveys, make them available to your learners and analyze the results. 
-Among other things, we are perceived as the data protection-friendly alternative.
+
++ University edition
+
++ courses, quiz, index cards, exams and competition, live-quiz, survey, analysis
+
++ Create your own quizzes and flashcards online
+
++ Data protection compliant - ad-free - training & support
+
++ Among other things, we are perceived as the data protection-friendly alternative.
+
 
 ## Additional details
 

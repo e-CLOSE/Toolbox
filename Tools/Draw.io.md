@@ -1,6 +1,6 @@
 # [Draw.io](https://drawio-app.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/graphics.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agraphics) [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams)
 
-![Draw.io logo](images/draw.io_logo.png)
+![Draw.io Logo](images/draw.io_logo.png)
 
 Diagramming application that allows users to create and share diagrams within a web browser.
 

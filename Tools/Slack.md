@@ -1,6 +1,6 @@
 # [Slack](https://slack.com/) [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication) [<img src="images/dissemination.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adissemination)
 
-![Slack logo](images/Slack.png)
+![Slack Logo](images/Slack.png)
 
 Professional instant messaging application.
 

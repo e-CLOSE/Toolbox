@@ -1,4 +1,4 @@
-![e-Close logo](../Logos/e-close-color.png)
+![e-Close Logo](../Logos/e-close-color.png)
 
 # :hammer_and_wrench: Tools folder :hammer_and_wrench:
 

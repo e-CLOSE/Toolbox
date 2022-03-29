@@ -3,8 +3,9 @@
 ![glimpse Logo](https://user-images.githubusercontent.com/96419022/157192071-a4e5d19f-3b9a-4fd3-9f9d-33f1b4d162ab.png)
 
 Video communication tool.
+
 Glimpse got acquired and joined the team at twine
-![logo twine](https://user-images.githubusercontent.com/96419022/157192140-fe8354fe-bc90-434d-86bf-6693ec083528.png)
+![twine Logo](https://user-images.githubusercontent.com/96419022/157192140-fe8354fe-bc90-434d-86bf-6693ec083528.png)
 
 More conversations. More connection. More impact.
 twine is easy to use, simple to setup, and can be used to power impactful conversations that help break down silos and foster connection.
