@@ -1,5 +1,7 @@
 # [PlayPhrasMe](https://www.playphrase.me/)  [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo) [<img src="images/audio.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aaudio) [<img src="images/dissemination.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adissemination) [<img src="images/presentations.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Apresentations)
 
+![PlayPhrasMe Logo](images/playphraseme.png)
+
 Website that generates short cuts of films containing specific words and phrases.
 
 
