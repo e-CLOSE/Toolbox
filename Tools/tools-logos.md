@@ -90,7 +90,7 @@ https://user-images.githubusercontent.com/96419022/157192140-fe8354fe-bc90-434d-
 [<img src="https://user-images.githubusercontent.com/96419022/157250278-62c78553-2162-4be7-980f-f713ab490562.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Camtasia.md)
 [<img src="https://user-images.githubusercontent.com/96419022/160601705-ac0b48fe-66fa-4fb7-ad36-03a8e69abb69.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Canva.md)
 [<img src="https://user-images.githubusercontent.com/96419022/157195030-6270677f-090a-42ea-bb6b-7af7c72a8f1a.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Creately.md)
-[<img src="<img src="images/createstudio.png" alt="CreateStudio Logo" width="200"/>" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/CreateStudio.md)
+[<img src="images/createstudio.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/CreateStudio.md)
 [<img src="https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Do_ink.md" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Do_ink.md)
 [<img src="images/doodly.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Doodly.md)
 [<img src="images/draw.io_logo.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Draw.io.md)
@@ -160,7 +160,7 @@ images/moovly.png" align="bottom" height="50" alt="">](https://github.com/e-CLOS
 ## Category evaluation
 
 [<img src="https://user-images.githubusercontent.com/96419022/157421028-992ce188-34e3-4463-8209-1a32de70b485.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/answergarden.md)
-[<img src="<img src="images/logoClasstools.gif" align="bottom" height="100" alt="ClassTools Logo">" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/ClassTools.net.md)
+[<img src="images/logoClasstools.gif" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/ClassTools.net.md)
 [<img src="images/eclipsecrossword.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/EclipseCrossword.md)
 [<img src="images/edpuzzle.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/edpuzzle.md)
 [<img src="https://user-images.githubusercontent.com/96419022/157409508-a2413070-ba83-4934-91f1-6c685879645f.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/educaplay.md)
@@ -213,7 +213,7 @@ images/moovly.png" align="bottom" height="50" alt="">](https://github.com/e-CLOS
 ## Category gamification
 
 [<img src="https://user-images.githubusercontent.com/96419022/157419794-759d9c8d-c0b5-4c4c-8044-03bf953af142.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/actionbound.md)
-[<img src="<img src="images/logoClasstools.gif" align="bottom" height="100" alt="ClassTools Logo">" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/ClassTools.net.md)
+[<img src="images/logoClasstools.gif" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/ClassTools.net.md)
 [<img src="images/eclipsecrossword.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/EclipseCrossword.md)
 [<img src="https://user-images.githubusercontent.com/96419022/157409508-a2413070-ba83-4934-91f1-6c685879645f.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/educaplay.md)
 [<img src="images/geogebra.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/GeoGebra.md)
@@ -312,7 +312,7 @@ images/moovly.png" align="bottom" height="50" alt="">](https://github.com/e-CLOS
 [<img src="images/Blogger.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Blogger.md)
 [<img src="https://user-images.githubusercontent.com/96419022/157250278-62c78553-2162-4be7-980f-f713ab490562.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Camtasia.md)
 [<img src="https://user-images.githubusercontent.com/96419022/160601705-ac0b48fe-66fa-4fb7-ad36-03a8e69abb69.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Canva.md)
-[<img src="<img src="images/createstudio.png" alt="CreateStudio Logo" width="200"/>" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/CreateStudio.md)
+[<img src="images/createstudio.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/CreateStudio.md)
 [<img src="https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Do_ink.md" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Do_ink.md)
 [<img src="images/doodly.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Doodly.md)
 [<img src="images/edpuzzle.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/edpuzzle.md)
