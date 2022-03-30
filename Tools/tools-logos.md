@@ -1,5 +1,6 @@
 # List of all tools classified by category
 
+---
 ## Category audio
 
 [<img src="images/audacity.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Audacity.md)
@@ -9,6 +10,7 @@
 [<img src="" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/tool-links.md)
 
 
+---
 ## Category cognitive
 
 [<img src="https://user-images.githubusercontent.com/96419022/157191080-c79b2c39-76ec-4fdf-8f9a-af873446c6e1.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/conceptboard.md)
@@ -18,6 +20,7 @@
 [<img src="images/mindmeister.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/mindmeister.md)
 
 
+---
 ## Category collaboration
 
 [<img src="images/Bitpaper_logo.PNG" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Bitpaper.md)
@@ -52,6 +55,7 @@
 [<img src="images/slimwiki.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/wiki_moodle_.md)
 
 
+---
 ## Category communication
 
 [<img src="images/Blogger.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Blogger.md)
@@ -80,6 +84,7 @@ https://user-images.githubusercontent.com/96419022/157192140-fe8354fe-bc90-434d-
 [<img src="https://user-images.githubusercontent.com/96419022/160604353-b24ddd11-e9ad-4a49-93b2-856261419233.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/wonderme.md)
 
 
+---
 ## Category design
 
 [<img src="images/activepresenter.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/ActivePresenter.md)
@@ -122,6 +127,7 @@ images/moovly.png" align="bottom" height="50" alt="">](https://github.com/e-CLOS
 [<img src="images/Whiteboard.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Whiteboard.fi.md)
 
 
+---
 ## Category diagrams
 
 [<img src="https://user-images.githubusercontent.com/96419022/157191080-c79b2c39-76ec-4fdf-8f9a-af873446c6e1.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/conceptboard.md)
@@ -144,6 +150,7 @@ images/moovly.png" align="bottom" height="50" alt="">](https://github.com/e-CLOS
 [<img src="images/Whiteboard.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Whiteboard.fi.md)
 
 
+---
 ## Category dissemination
 
 [<img src="images/Blogger.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Blogger.md)
@@ -157,6 +164,7 @@ images/moovly.png" align="bottom" height="50" alt="">](https://github.com/e-CLOS
 [<img src="images/slimwiki.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/wiki_moodle_.md)
 
 
+---
 ## Category evaluation
 
 [<img src="https://user-images.githubusercontent.com/96419022/157421028-992ce188-34e3-4463-8209-1a32de70b485.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/answergarden.md)
@@ -189,6 +197,7 @@ images/moovly.png" align="bottom" height="50" alt="">](https://github.com/e-CLOS
 [<img src="images/wooclap.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Wooclap.md)
 
 
+---
 ## Category feedback
 
 [<img src="https://user-images.githubusercontent.com/96419022/157414813-7422593c-e9fc-445a-92e1-6d564d41b16d.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/feedbackr.md)
@@ -210,6 +219,7 @@ images/moovly.png" align="bottom" height="50" alt="">](https://github.com/e-CLOS
 [<img src="images/wooclap.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Wooclap.md)
 
 
+---
 ## Category gamification
 
 [<img src="https://user-images.githubusercontent.com/96419022/157419794-759d9c8d-c0b5-4c4c-8044-03bf953af142.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/actionbound.md)
@@ -224,6 +234,7 @@ images/moovly.png" align="bottom" height="50" alt="">](https://github.com/e-CLOS
 [<img src="images/logo_voxvote.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Voxvote.md)
 
 
+---
 ## Category graphics
 
 [<img src="https://user-images.githubusercontent.com/96419022/160601705-ac0b48fe-66fa-4fb7-ad36-03a8e69abb69.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Canva.md)
@@ -240,6 +251,7 @@ images/moovly.png" align="bottom" height="50" alt="">](https://github.com/e-CLOS
 [<img src="images/qr_code.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/QR_Code_Generator.md)
 
 
+---
 ## Category organization
 
 [<img src="images/dotstorming.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/dotstorming.md)
@@ -256,6 +268,7 @@ images/moovly.png" align="bottom" height="50" alt="">](https://github.com/e-CLOS
 [<img src="images/Webex.jpg" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/WebEx.md)
 
 
+---
 ## Category other
 
 [<img src="images/Classroomscreen.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Classroomscreen.md)
@@ -265,6 +278,7 @@ images/moovly.png" align="bottom" height="50" alt="">](https://github.com/e-CLOS
 [<img src="images/Teachable.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Teachable.md)
 
 
+---
 ## Category presentations
 
 [<img src="images/genially.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Genially.md)
@@ -277,6 +291,7 @@ images/moovly.png" align="bottom" height="50" alt="">](https://github.com/e-CLOS
 [<img src="images/vcasmo.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Vcasmo.md)
 
 
+---
 ## Category project
 
 [<img src="images/edpuzzle.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/edpuzzle.md)
@@ -293,6 +308,7 @@ images/moovly.png" align="bottom" height="50" alt="">](https://github.com/e-CLOS
 [<img src="images/slimwiki.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/wiki_moodle_.md)
 
 
+---
 ## Category streaming
 
 [<img src="images/facebook.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Facebook.md)
@@ -303,6 +319,7 @@ images/moovly.png" align="bottom" height="50" alt="">](https://github.com/e-CLOS
 [<img src="images/Webex.jpg" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/WebEx.md)
 
 
+---
 ## Category video
 
 [<img src="images/activepresenter.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/ActivePresenter.md)
@@ -343,6 +360,7 @@ images/moovly.png" align="bottom" height="50" alt="">](https://github.com/e-CLOS
 [<img src="images/wevideo.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/WeVideo.md)
 
 
+---
 ## Category visualization
 
 [<img src="images/Datawrapper.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Datawrapper.md)
@@ -351,6 +369,7 @@ images/moovly.png" align="bottom" height="50" alt="">](https://github.com/e-CLOS
 [<img src="images/piktochart_logo.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/PIKTOCHART.md)
 
 
+---
 ## Category whiteboard
 
 [<img src="images/Bitpaper_logo.PNG" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Bitpaper.md)
