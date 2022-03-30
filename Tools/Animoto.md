@@ -1,27 +1,26 @@
 # [Animoto](https://animoto.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
+![Animoto Logo](images/animoto.png)
+
 Cloud based video creation tool.
 
 
 ## Detailed description & quick guide
 
-This section should include a detailed description of the tool.
-
+Animoto is a cloud-based video creation service that produces videos
+from photos, video clips and music in video slideshows. It is
+available on mobile and online platforms. 
 
 ## Additional details
 
 - Subscription mode: Freemium
-- Platform: N/A
-- Tested by: ...
-- Comments: N/A
+- Platform: Mobile and online
 
 
-## References (links, howtos, tutorials, bibliography, sites, etc.)
-
-This section should include additional references and links to help in
-understanding and using the tool.
+## References
 
 - Animoto website: [Animoto](https://animoto.com/)
+- [Animoto tutorials](https://animoto.com/resources/tutorials/how-to-create-a-video-in-animoto)
 
 
 ## See also...
