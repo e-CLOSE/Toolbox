@@ -1,5 +1,7 @@
 # [mindmanager](https://www.mindmanager.com/en/)  [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams) [<img src="images/cognitive.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acognitive)
 
+![MindManager Logo](images/mindmanager.png)
+
 Visual productivity tools and mind mapping software.
 
 
@@ -14,9 +16,7 @@ Visual productivity tools and mind mapping software that take you and your organ
 ## Additional details
 
 - Subscription mode: Freemium
-- Platform: N/A
 - Tested by: HTW (Xenia)
-- Comments: N/A
 
 
 ## References
