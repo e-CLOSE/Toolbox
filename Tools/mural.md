@@ -1,5 +1,7 @@
 # [mural](https://www.mural.co/)  [<img src="images/whiteboard.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Awhiteboard) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)
 
+![mural Logo](images/mural.png)
+
 Collaborative white board.
 
 
