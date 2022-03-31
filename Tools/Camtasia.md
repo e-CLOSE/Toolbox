@@ -1,6 +1,6 @@
 # [Camtasia](https://www.techsmith.es/editor-video.html)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-[<img src="images/camtasia.png" align="bottom" height="75" alt="camtasia Logo">](https://www.techsmith.es/editor-video.html)
+[<img src="images/camtasia.png" align="bottom" height="50" alt="camtasia Logo">](https://www.techsmith.es/editor-video.html)
 
 Powerful screen recorder + video editor.
 
