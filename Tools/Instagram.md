@@ -1,6 +1,6 @@
 # [Instagram](https://www.instagram.com)  [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication) [<img src="images/dissemination.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adissemination) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-[<img src="images/instagram.jpg" align="bottom" alt="instagram Logo">](https://www.instagram.com)
+[<img src="images/instagram.jpg" align="bottom" height="50" alt="instagram Logo">](https://www.instagram.com)
 
 Social network for sharing photos and videos between its users.
 

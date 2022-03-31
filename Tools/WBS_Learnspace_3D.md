@@ -1,6 +1,6 @@
 # [WBS Learnspace 3D](https://www.wbsakademie.de/wbs-learnspace-3d/)  [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication)
 
-[<img src="images/wbs.png" align="bottom" alt="wbs Logo">](https://www.wbsakademie.de/wbs-learnspace-3d/)
+[<img src="images/wbs.png" align="bottom" height="50" alt="wbs Logo">](https://www.wbsakademie.de/wbs-learnspace-3d/)
 
 Realistic coworking virtual world for interaction, classes, communication.
 

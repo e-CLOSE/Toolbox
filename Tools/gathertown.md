@@ -1,6 +1,6 @@
 # [gathertown](https://gather.town/)  [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication)
 
-[<img src="images/gathertown.png" align="bottom" alt="gathertown Logo">](https://gather.town/)
+[<img src="images/gathertown.png" align="bottom" height="50" alt="gathertown Logo">](https://gather.town/)
 
 Web-conferencing software with visualization and interaction within a virtual room.
 

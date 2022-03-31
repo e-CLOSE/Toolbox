@@ -1,6 +1,6 @@
 # [RPG Playground](https://rpgplayground.com/)  [<img src="images/other.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aother)
 
-[<img src="images/RPGPlayground.png" align="bottom" alt="RPGPlayground Logo">](https://rpgplayground.com/)
+[<img src="images/RPGPlayground.png" align="bottom" height="50" alt="RPGPlayground Logo">](https://rpgplayground.com/)
 
 Create your game by dragging and dropping items into your world. It is ideal for hobby games, personal projects, school assignments, etc.
 

@@ -1,6 +1,6 @@
 # [Wooclap](https://www.wooclap.com/)  [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback) [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
-[<img src="images/wooclap.png" align="bottom" alt="wooclap Logo">](https://www.wooclap.com/)
+[<img src="images/wooclap.png" align="bottom" height="50" alt="wooclap Logo">](https://www.wooclap.com/)
 
 Interactive web-based student-response system (quizzes, polls, etc.) with PowerPoint add-in or the Google Slides extension to insert Wooclap quizzes directly into presentations.
 

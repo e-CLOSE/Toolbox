@@ -1,6 +1,6 @@
 # [Quizlet](https://quizlet.com/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
-[<img src="images/quizlet.png" align="bottom" alt="quizlet Logo">](https://quizlet.com/)
+[<img src="images/quizlet.png" align="bottom" height="50" alt="quizlet Logo">](https://quizlet.com/)
 
 Website providing learning tools for students.
 

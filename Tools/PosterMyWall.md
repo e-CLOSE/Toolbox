@@ -1,6 +1,6 @@
 # [PosterMyWall](https://www.postermywall.com/index.php)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/graphics.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agraphics)
 
-[<img src="images/postermywall.png" align="bottom" alt="postermywall Logo">](https://www.postermywall.com/index.php)
+[<img src="images/postermywall.png" align="bottom" height="50" alt="postermywall Logo">](https://www.postermywall.com/index.php)
 
 Online graphic design tool.
 

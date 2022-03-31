@@ -1,6 +1,6 @@
 # [ActivePresenter](https://atomisystems.com/activepresenter/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-[<img src="images/activepresenter.png" align="bottom" height="75" alt="activepresenter Logo">](https://atomisystems.com/activepresenter/)
+[<img src="images/activepresenter.png" align="bottom" height="50" alt="activepresenter Logo">](https://atomisystems.com/activepresenter/)
 
 Record screen, create demos, tutorials, training videos, and interactive HTML5 elearning contents.
 

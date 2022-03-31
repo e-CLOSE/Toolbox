@@ -1,6 +1,6 @@
 # [SimpleMind](https://simplemind.eu/)  [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration) [<img src="images/organization.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aorganization) [<img src="images/project.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aproject)
 
-[<img src="images/simplemind.png" align="bottom" alt="simplemind Logo">](https://simplemind.eu/)
+[<img src="images/simplemind.png" align="bottom" height="50" alt="simplemind Logo">](https://simplemind.eu/)
 
 Mind Mapper with focus on simplicity and ease of use.
 

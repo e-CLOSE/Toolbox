@@ -1,6 +1,6 @@
 # [Figma](https://www.figma.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration) [<img src="images/cognitive.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acognitive) [<img src="images/whiteboard.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Awhiteboard)
 
-[<img src="images/Figma.png" align="bottom" alt="Figma Logo">](https://www.figma.com)
+[<img src="images/Figma.png" align="bottom" height="50" alt="Figma Logo">](https://www.figma.com)
 
 End-to-end collaboration by connecting teams in the design process by integrating diagram, sticky-notes, workshop tools and online whiteboard.
 

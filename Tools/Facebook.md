@@ -1,6 +1,6 @@
 # [Facebook](https://www.facebook.com)  [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication) [<img src="images/dissemination.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adissemination) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo) [<img src="images/streaming.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Astreaming)
 
-[<img src="images/facebook.png" align="bottom" alt="facebook Logo">](https://www.facebook.com)
+[<img src="images/facebook.png" align="bottom" height="50" alt="facebook Logo">](https://www.facebook.com)
 
 Social network for sharing photos, videos and posts between its users.
 

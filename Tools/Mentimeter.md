@@ -1,6 +1,6 @@
 # [Mentimeter](https://www.mentimeter.com/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation) [<img src="images/presentations.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Apresentations) [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback)
 
-[<img src="images/mentimeter.png" align="bottom" alt="mentimeter Logo">](https://www.mentimeter.com/)
+[<img src="images/mentimeter.png" align="bottom" height="50" alt="mentimeter Logo">](https://www.mentimeter.com/)
 
 Interactive presentations builder with the easy-to-use online (web) editor with capabilities to add questions, polls, quizzes, slides, images, gifs, etc. to create engaging presentations.
 

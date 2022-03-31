@@ -1,6 +1,6 @@
 # [Poll Everywhere](https://www.polleverywhere.com/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation) [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)
 
-[<img src="images/poll-everywhere2.png" align="bottom" alt="poll-everywhere2 Logo">](https://www.polleverywhere.com/)
+[<img src="images/poll-everywhere2.png" align="bottom" height="50" alt="poll-everywhere2 Logo">](https://www.polleverywhere.com/)
 
 Poll Everywhere provides a platform for students to ask questions, participate in group activities, and share thoughts and insights, right from their phone or computer.
 

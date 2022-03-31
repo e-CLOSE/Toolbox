@@ -1,6 +1,6 @@
 # [Classroomscreen](https://classroomscreen.com/)  [<img src="images/other.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aother)
 
-[<img src="images/Classroomscreen.png" align="bottom" alt="Classroomscreen Logo">](https://classroomscreen.com/)
+[<img src="images/Classroomscreen.png" align="bottom" height="50" alt="Classroomscreen Logo">](https://classroomscreen.com/)
 
 Classroomscreen is an online tool that allows you to display the instructions for lesson and lectures in a clear and visual way.
 

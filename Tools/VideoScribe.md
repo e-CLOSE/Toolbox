@@ -1,6 +1,6 @@
 # [VideoScribe](https://www.sparkol.com/en)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-[<img src="images/videoscribe.png" align="bottom" alt="videoscribe Logo">](https://www.sparkol.com/en)
+[<img src="images/videoscribe.png" align="bottom" height="50" alt="videoscribe Logo">](https://www.sparkol.com/en)
 
 Easy to use, affordable video software, whiteboard animation software, services, and workshops .
 
