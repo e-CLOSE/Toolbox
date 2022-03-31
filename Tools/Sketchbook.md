@@ -1,6 +1,6 @@
 # [Sketchbook](https://www.autodesk.com/products/sketchbook/overview)  [<img src="images/whiteboard.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Awhiteboard) [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams) [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign)
 
-[<img src="images/Sketchbook.png" align="bottom" height="100" alt="Sketchbook Logo">](https://www.autodesk.com/products/sketchbook/overview)
+[<img src="images/Sketchbook.png" align="bottom" alt="Sketchbook Logo">](https://www.autodesk.com/products/sketchbook/overview)
 
 Painting and drawing app.
 

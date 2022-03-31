@@ -1,6 +1,6 @@
 # [Quizizz](https://quizizz.com/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation) [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback)
 
-[<img src="images/quizizz.png" align="bottom" height="100" alt="quizizz Logo">](https://quizizz.com/)
+[<img src="images/quizizz.png" align="bottom" alt="quizizz Logo">](https://quizizz.com/)
 
 Engagement platform based on gamified quizzes and interactive lessons.
 

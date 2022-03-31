@@ -1,6 +1,6 @@
 # [wonderme](https://www.wonder.me/) [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication)
 
-[<img src="images/wonder.png" align="bottom" height="100" alt="wonder Logo">](https://wonder.me/)
+[<img src="images/wonder.png" align="bottom" alt="wonder Logo">](https://wonder.me/)
 
 
 "Virtual event room where participants can “meet“ and communicate via speech or video.
