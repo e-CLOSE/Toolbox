@@ -51,7 +51,7 @@
 [<img src="images/logo_kype.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Skype.md)
 [<img src="images/trello.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Trello.md)
 [<img src="images/Webex.jpg" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/WebEx.md)
-[<img src="images/Whiteboard.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Whiteboard.fi.md)
+[<img src="images/Whiteboard.fi.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Whiteboard.fi.md)
 [<img src="images/slimwiki.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/wiki_moodle_.md)
 
 
@@ -124,7 +124,7 @@ images/moovly.png" align="bottom" height="50" alt="">](https://github.com/e-CLOS
 [<img src="images/vcasmo.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Vcasmo.md)
 [<img src="images/videoscribe.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/VideoScribe.md)
 [<img src="images/wevideo.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/WeVideo.md)
-[<img src="images/Whiteboard.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Whiteboard.fi.md)
+[<img src="images/Whiteboard.fi.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Whiteboard.fi.md)
 
 
 ---
@@ -147,7 +147,7 @@ images/moovly.png" align="bottom" height="50" alt="">](https://github.com/e-CLOS
 [<img src="images/popplet2.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Popplet.md)
 [<img src="images/simplemind.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/SimpleMind.md)
 [<img src="images/Sketchbook.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Sketchbook.md)
-[<img src="images/Whiteboard.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Whiteboard.fi.md)
+[<img src="images/Whiteboard.fi.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Whiteboard.fi.md)
 
 
 ---
@@ -382,7 +382,7 @@ images/moovly.png" align="bottom" height="50" alt="">](https://github.com/e-CLOS
 [<img src="images/mural.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/mural.md)
 [<img src="images/Sketchbook.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Sketchbook.md)
 [<img src="images/Webex.jpg" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/WebEx.md)
-[<img src="images/Whiteboard.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Whiteboard.fi.md)
+[<img src="images/Whiteboard.fi.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Whiteboard.fi.md)
 [<img src="images/xournal++.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Xournal++.md)
 
 
