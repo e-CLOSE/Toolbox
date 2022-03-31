@@ -10,6 +10,9 @@ This database is divided into three main categories:
 - [Methodologies](https://github.com/e-CLOSE/Toolbox/tree/main/Methodologies) :book: 
 - [Resources](https://github.com/e-CLOSE/Toolbox/blob/main/Resources) :paperclip:
 
+  Which can be accessed by its [logo-based graphical list](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/resources-logos.md) or using the
+  category-based links below:
+  
   [<img src="Resources/images/resource-audio.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aaudio)
   [<img src="Resources/images/resource-design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Adesign)
   [<img src="Resources/images/resource-icon.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aicon) 
