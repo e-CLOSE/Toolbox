@@ -59,8 +59,7 @@
 ---
 ## All Resources in category podcast
 
-[<img src="images/ted.png
-images/ted ed.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/TED.md)
+[<img src="images/ted.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/TED.md)
 [<img src="images/YouTube.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Youtube.md)
 
 
@@ -69,8 +68,7 @@ images/ted ed.png" align="bottom" height="50" alt="">](https://github.com/e-CLOS
 
 [<img src="images/khanacademy.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Khan_Academy.md)
 [<img src="images/SDG.svg" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/SDG.md)
-[<img src="images/ted.png
-images/ted ed.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/TED.md)
+[<img src="images/ted.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/TED.md)
 [<img src="images/Wikimedia_Commons.svg" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Wikimedia_Commons.md)
 [<img src="images/YouTube.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Youtube.md)
 
