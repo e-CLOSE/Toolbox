@@ -1,6 +1,6 @@
 # [Pixabay](https://pixabay.com/)  [<img src="images/resource-image.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aimage) [<img src="images/resource-design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Adesign)
 
-[<img src="images/Pixabay.png" align="bottom" height="100" alt="Pixabay Logo">](https://pixabay.com/)
+[<img src="images/Pixabay.png" align="bottom" height="50" alt="Pixabay Logo">](https://pixabay.com/)
 
 Image and photo data base, many works can be used without attribution.
 

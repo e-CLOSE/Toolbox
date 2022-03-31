@@ -1,6 +1,6 @@
 # [YouTube audio archive/library](https://studio.youtube.com/ )  [<img src="images/resource-music.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Amusic)
 
-[<img src="images/youtube.png" align="bottom" height="100" alt="Youtube Logo">](https://studio.youtube.com/)
+[<img src="images/youtube.png" align="bottom" height="50" alt="Youtube Logo">](https://studio.youtube.com/)
 
 YouTube Music Audio Library is a library provided by YouTube full of music to use in videos. The tracks are covered by Creative Commons, meaning that can be used  without copyright issues or infringement.
 

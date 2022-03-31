@@ -7,8 +7,9 @@ within the e-CLOSE project, under the IO2 working group.
 
 There is a single `md` file for each of the collected resources. Indexing is done from the [issues section](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE), and you can also access related resources by following the labels next to the titles in each resource description file.
 
-Here you are the full list of resource categories that are linked to their
-corresponding list of resources:
+If you want to have a look at a list with the logos of the selected resources, you can access the [graphical version of the list](resources-logos.md).
+
+Here you are the full list of resource categories that are linked to their corresponding list of resources:
 
 [<img src="images/resource-audio.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aaudio)
 [<img src="images/resource-design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Adesign)

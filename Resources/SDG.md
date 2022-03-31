@@ -1,6 +1,6 @@
 # [SDG](https://www.globalgoals.org/resources)  [<img src="images/resource-image.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aimage) [<img src="images/resource-video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Avideo)
 
-[<img src="images/SDG.svg" align="bottom" height="100" alt="SDG Logo">](https://www.globalgoals.org/resources)
+[<img src="images/SDG.svg" align="bottom" height="50" alt="SDG Logo">](https://www.globalgoals.org/resources)
 
 Resources related with the global goals (Sustainable Development Goals).
 
