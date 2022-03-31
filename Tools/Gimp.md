@@ -1,6 +1,6 @@
 # [Gimp](http://www.gimp.org.es/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/graphics.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agraphics)
 
-[<img src="images/gimp.png" align="bottom" alt="gimp Logo">](http://www.gimp.org)
+[<img src="images/gimp.png" align="bottom" height="50" alt="gimp Logo">](http://www.gimp.org)
 
 Raster graphics editor.
 
