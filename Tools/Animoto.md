@@ -15,6 +15,7 @@ available on mobile and online platforms.
 
 - Subscription mode: Freemium
 - Platform: Mobile and online
+- Tested by: Frank (HTW)
 
 
 ## References
