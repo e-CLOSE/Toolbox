@@ -1,6 +1,6 @@
 # [flinga](https://flinga.fi/)  [<img src="images/whiteboard.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Awhiteboard) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)
 
-[<img src="images/flinga.png" align="bottom" height="100" alt="flinga Logo">](https://flinga.fi/)
+[<img src="images/flinga.png" align="bottom" height="50" alt="flinga Logo">](https://flinga.fi/)
 
 Collaborative white board.
 

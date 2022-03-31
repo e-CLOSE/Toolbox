@@ -1,6 +1,6 @@
 # [Do ink](http://www.doink.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-[<img src="images/Do_ink.png" align="bottom" height="100" alt="Do_ink Logo">](http://www.doink.com/)
+[<img src="images/Do_ink.png" align="bottom" height="50" alt="Do_ink Logo">](http://www.doink.com/)
 
 Drawing editor to create vector artwork and frame-by-frame (flip book) animations. and composition editor to combine your artwork into more complex and sophisticated scenes with Green screen support.
 

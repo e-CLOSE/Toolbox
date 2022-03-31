@@ -1,6 +1,6 @@
 # [LearningApps](https://learningapps.org/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation) [<img src="images/gamification.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agamification)
 
-[<img src="images/learningapps.png" align="bottom" height="100" alt="learningapps Logo">](https://learningapps.org/)
+[<img src="images/learningapps.png" align="bottom" height="50" alt="learningapps Logo">](https://learningapps.org/)
 
 LearningApps.org is a web application, to support learning and teaching processes with small interactive modules.
 

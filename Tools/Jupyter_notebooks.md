@@ -1,6 +1,6 @@
 # [Jupyter notebooks](https://jupyter.org)  [<img src="images/project.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aproject) [<img src="images/cognitive.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acognitive) [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
-[<img src="images/Jupyter.png" align="bottom" alt="Jupyter Logo">](https://jupyter.org)
+[<img src="images/Jupyter.png" align="bottom" height="50" alt="Jupyter Logo">](https://jupyter.org)
 
 Web-based application to create and share documents that contain live code, equations, visualizations, and narrative text.
 

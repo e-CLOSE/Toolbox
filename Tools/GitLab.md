@@ -1,6 +1,6 @@
 # [GitLab](https://gitlab.com/ )  [<img src="images/project.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aproject) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)
 
-[<img src="images/GitLab.png" align="bottom" height="100" alt="GitLab Logo">](https://gitlab.com/)
+[<img src="images/GitLab.png" align="bottom" height="50" alt="GitLab Logo">](https://gitlab.com/)
 
 Collaborative development platform that hosts projects using the git revision control system .
 

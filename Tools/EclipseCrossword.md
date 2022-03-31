@@ -1,6 +1,6 @@
 # [EclipseCrossword](https://www.eclipsecrossword.com/)  [<img src="images/gamification.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agamification) [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
-[<img src="images/eclipsecrossword.png" align="bottom" height="100" alt="eclipsecrossword Logo">](https://www.eclipsecrossword.com/)
+[<img src="images/eclipsecrossword.png" align="bottom" height="50" alt="eclipsecrossword Logo">](https://www.eclipsecrossword.com/)
 
 Application for Windows to create and share crosswords.
 

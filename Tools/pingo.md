@@ -1,6 +1,6 @@
 # [pingo](https://trypingo.com/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
-[<img src="images/pingo.png" align="bottom" height="100" alt="pingo Logo">](https://trypingo.com/)
+[<img src="images/pingo.png" align="bottom" height="50" alt="pingo Logo">](https://trypingo.com/)
 
 Audience interaction system.
 

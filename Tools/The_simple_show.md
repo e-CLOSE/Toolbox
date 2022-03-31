@@ -1,6 +1,6 @@
 # [The simple show](https://videomaker.simpleshow.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-[<img src="images/simpleshow.png" align="bottom" height="100" alt="simpleshow Logo">](https://videomaker.simpleshow.com/)
+[<img src="images/simpleshow.png" align="bottom" height="50" alt="simpleshow Logo">](https://videomaker.simpleshow.com/)
 
 Explainer video creation tool.
 

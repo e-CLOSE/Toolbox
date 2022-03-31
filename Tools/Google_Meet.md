@@ -1,7 +1,7 @@
 # [Google Meet](https://meet.google.com)  [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration) [<img src="images/streaming.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Astreaming) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
 
-[<img src="images/logo_googlemeet.png" align="bottom" height="100" alt="logo_googlemeet Logo">](https://meet.google.com)
+[<img src="images/logo_googlemeet.png" align="bottom" height="50" alt="logo_googlemeet Logo">](https://meet.google.com)
 
 Platform for instant messaging, audio and video calls, online meetings, collaborative work, file and data sharing.
 
