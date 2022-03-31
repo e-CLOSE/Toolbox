@@ -1,6 +1,6 @@
 # [Animoto](https://animoto.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-[<img src="images/animoto.png" align="bottom" alt="animoto Logo">](https://animoto.com/)
+[<img src="images/animoto.png" align="bottom" height="75" alt="animoto Logo">](https://animoto.com/)
 
 Cloud based video creation tool.
 

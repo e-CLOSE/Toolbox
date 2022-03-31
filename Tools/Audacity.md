@@ -1,6 +1,6 @@
 # [Audacity](https://www.audacityteam.org/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/audio.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aaudio)
 
-[<img src="images/audacity.png" align="bottom" alt="audacity Logo">](https://www.audacityteam.org/)
+[<img src="images/audacity.png" align="bottom" height="75" alt="audacity Logo">](https://www.audacityteam.org/)
 
 Free, open source, multi-platform audio processing software.
 

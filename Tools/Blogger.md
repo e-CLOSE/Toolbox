@@ -1,6 +1,6 @@
 # [Blogger](https://www.blogger.com)  [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication) [<img src="images/dissemination.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adissemination) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-[<img src="images/Blogger.png" align="bottom" height="100" alt="Blogger Logo">](https://www.blogger.com)
+[<img src="images/Blogger.png" align="bottom" alt="Blogger Logo">](https://www.blogger.com)
 
 Online content management system to create and host blogs.
 
