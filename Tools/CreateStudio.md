@@ -1,6 +1,6 @@
 # [CreateStudio](https://createstudio.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-[<img src="images/createstudio.png" alt="CreateStudio Logo" width="200"/>](https://createstudio.com/)
+[<img src="images/createstudio.png" alt="CreateStudio Logo" height="50"/>](https://createstudio.com/)
 
 It is a whiteboard animation software that allows to create professional and realistic whiteboard videos.
 
