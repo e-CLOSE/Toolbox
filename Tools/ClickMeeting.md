@@ -1,6 +1,6 @@
 # [ClickMeeting](https://clickmeeting.com/)  [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication)
 
-[<img src="images/clickmeeting.png" align="bottom" height="100" alt="clickmeeting Logo">](https://clickmeeting.com/)
+[<img src="images/clickmeeting.png" align="bottom" alt="clickmeeting Logo">](https://clickmeeting.com/)
 
 Platform for video conferencing and webinars.
 

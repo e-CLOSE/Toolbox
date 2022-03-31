@@ -1,6 +1,6 @@
 # [Streamyard](https://streamyard.com/broadcasts)  [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication) [<img src="images/streaming.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Astreaming)
 
-[<img src="images/streamyard.png" align="bottom" height="100" alt="streamyard Logo">](https://streamyard.com/broadcasts)
+[<img src="images/streamyard.png" align="bottom" alt="streamyard Logo">](https://streamyard.com/broadcasts)
 
 Live streaming studio in your browser.
 

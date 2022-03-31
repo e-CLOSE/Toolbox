@@ -1,6 +1,6 @@
 # [actionbound](https://en.actionbound.com/?setlang)  [<img src="images/gamification.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agamification)
 
-[<img src="images/actionbound" align="bottom" height="100" alt="actionbound Logo">](https://en.actionbound.com/?setlang)
+[<img src="images/actionbound" align="bottom" alt="actionbound Logo">](https://en.actionbound.com/?setlang)
 
 Create mobile adventures and interactive guides for smartphones and tablets.
 

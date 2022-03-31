@@ -1,6 +1,6 @@
 # [H5P in Moodle](https://docs.moodle.org/311/en/H5P)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
-[<img src="images/h5p.png" align="bottom" height="100" alt="h5p Logo">](https://docs.moodle.org/311/en/H5P)
+[<img src="images/h5p.png" align="bottom" alt="h5p Logo">](https://docs.moodle.org/311/en/H5P)
 
 Moodle module to create content such as interactive videos, quizzes and presentations.
 

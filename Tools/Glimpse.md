@@ -1,6 +1,6 @@
 # [Glimpse](https://www.joinglimpse.com/post/how-to-do-speed-dating-on-zoom)  [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication)
 
-[<img src="images/glimpse.png" align="bottom" height="100" alt="glimpse Logo">](https://www.jointglimpse.com)
+[<img src="images/glimpse.png" align="bottom" alt="glimpse Logo">](https://www.jointglimpse.com)
 
 Video communication tool.
 

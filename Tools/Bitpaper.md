@@ -1,6 +1,6 @@
 # [Bitpaper](https://www.bitpaper.io/)  [<img src="images/whiteboard.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Awhiteboard) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)
 
-[<img src="images/Bitpaper_logo.PNG" align="bottom" height="100" alt="Bitpaper_logo Logo">](https://www.bitpaper.io/)
+[<img src="images/Bitpaper_logo.PNG" align="bottom" alt="Bitpaper_logo Logo">](https://www.bitpaper.io/)
 
 Web-based application to colaborate.
 

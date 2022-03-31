@@ -1,6 +1,6 @@
 # [WeVideo](https://www.wevideo.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-[<img src="images/wevideo.png" align="bottom" height="100" alt="wevideo Logo">](https://www.wevideo.com/)
+[<img src="images/wevideo.png" align="bottom" alt="wevideo Logo">](https://www.wevideo.com/)
 
 An online, cloud-based video editing platform that works in web browsers and on mobile devices. Social media channel.
 

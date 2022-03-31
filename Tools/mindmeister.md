@@ -1,6 +1,6 @@
 # [mindmeister](https://www.mindmeister.com)  [<img src="images/cognitive.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acognitive) [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)
 
-[<img src="images/mindmeister.png" align="bottom" height="100" alt="mindmeister Logo">](https://www.mindmeister.com)
+[<img src="images/mindmeister.png" align="bottom" alt="mindmeister Logo">](https://www.mindmeister.com)
 
 Online mind map collaborative designer.
 

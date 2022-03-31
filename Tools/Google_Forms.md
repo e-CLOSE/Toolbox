@@ -1,6 +1,6 @@
 # [Google Forms](https://forms.google.com)  [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback) [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation) [<img src="images/gamification.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agamification) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)
 
-[<img src="images/logo_googleforms.jpg" align="bottom" height="100" alt="logo_googleforms Logo">](https://forms.google.com)
+[<img src="images/logo_googleforms.jpg" align="bottom" alt="logo_googleforms Logo">](https://forms.google.com)
 
 Application for creating shareable surveys, quizzes and polls.
 

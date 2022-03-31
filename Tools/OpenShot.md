@@ -1,6 +1,6 @@
 # [OpenShot](https://www.openshot.org/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-[<img src="images/openshot.jpeg" align="bottom" height="100" alt="openshot Logo">](https://www.openshot.org/)
+[<img src="images/openshot.jpeg" align="bottom" alt="openshot Logo">](https://www.openshot.org/)
 
 Video editor.
 

@@ -1,7 +1,7 @@
 # [Toonly, Moovly, etc.](https://www.toonly.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-[<img src="images/toonly.png" align="bottom" height="100" alt="toonly Logo">](https://www.toonly.com/) 
-[<img src="images/moovly.png" align="bottom" height="100" alt="moovly Logo">](https://www.moovly.com/)
+[<img src="images/toonly.png" align="bottom" alt="toonly Logo">](https://www.toonly.com/) 
+[<img src="images/moovly.png" align="bottom" alt="moovly Logo">](https://www.moovly.com/)
 
 Drag and drop explainer video creator that generates cartoon videos to entertain.
 

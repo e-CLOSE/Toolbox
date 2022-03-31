@@ -1,6 +1,6 @@
 # [quizacademy](https://quizacademy.de/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
-[<img src="images/quizacademy.png" align="bottom" height="100" alt="quizacademy Logo">](https://quizacademy.de/)
+[<img src="images/quizacademy.png" align="bottom" alt="quizacademy Logo">](https://quizacademy.de/)
 
 Interactive web-based student-response system (quizzes, polls, etc.).
 

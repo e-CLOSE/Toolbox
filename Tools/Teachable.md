@@ -1,6 +1,6 @@
 # [Teachable](https://vizia.co/)  [<img src="images/other.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aother) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo) [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication)
 
-[<img src="images/Teachable.png" align="bottom" height="100" alt="Teachable Logo">](https://teachable.com/)
+[<img src="images/Teachable.png" align="bottom" alt="Teachable Logo">](https://teachable.com/)
 
 Create online courses and coaching services. Transform your experience and know-how into a thriving knowledge business.
 
