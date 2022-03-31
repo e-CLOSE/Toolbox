@@ -3,7 +3,7 @@
 ---
 ## All Resources in category audio
 
-[<img src="![Free Music Archive Logo](images/FMA.png)" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Free_Music_Archive.md)
+[<img src="images/FMA.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Free_Music_Archive.md)
 [<img src="images/Wikimedia_Commons.svg" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Wikimedia_Commons.md)
 [<img src="images/YouTube.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Youtube.md)
 
@@ -41,18 +41,18 @@
 ---
 ## All Resources in category learning_platform
 
-[<img src="![Drillster Logo](images/drillster.png)" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Drillster.md)
-[<img src="![NearPod Logo](images/nearpod.png)" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Nearpod.md)
-[<img src="![WISEapp Logo](images/wise.png)" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Wiseapp.md)
-[<img src="![WISE Logo](images/WISEberk.png)" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/WISE.md)
+[<img src="images/drillster.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Drillster.md)
+[<img src="images/nearpod.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Nearpod.md)
+[<img src="images/wise.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Wiseapp.md)
+[<img src="images/WISEberk.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/WISE.md)
 
 
 ---
 ## All Resources in category music
 
-[<img src="![Bensound Logo](images/Bendsound.png)" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Bensound.md)
-[<img src="![Free Music Archive Logo](images/FMA.png)" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Free_Music_Archive.md)
-[<img src="![Youtube Logo](images/youtube.png)" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/YouTube_audio_archive_library.md)
+[<img src="images/Bendsound.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Bensound.md)
+[<img src="images/FMA.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Free_Music_Archive.md)
+[<img src="images/youtube.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/YouTube_audio_archive_library.md)
 [<img src="images/YouTube.png" align="bottom" height="50" alt="">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Youtube.md)
 
 
