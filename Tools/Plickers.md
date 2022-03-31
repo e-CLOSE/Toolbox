@@ -1,6 +1,6 @@
 # [Plickers](https://get.plickers.com/)  [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback) [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
-[<img src="images/Plickers.png" align="bottom" alt="Plickers Logo">](https://get.plickers.com/)
+[<img src="images/Plickers.png" align="bottom" height="50" alt="Plickers Logo">](https://get.plickers.com/)
 
 Plickers is a rapid-response classroom-polling app that lets teachers use one mobile device to scan paper cards for student responses. 
 

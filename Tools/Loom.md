@@ -1,6 +1,6 @@
 # [Loom](https://www.loom.com)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo) [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback) [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication)
 
-[<img src="images/Loom.png" align="bottom" alt="Loom Logo">](https://www.loom.com)
+[<img src="images/Loom.png" align="bottom" height="50" alt="Loom Logo">](https://www.loom.com)
 
 Web-based simple & fast screen+webcam recorder focused in easy & instant sharing.
 
@@ -14,7 +14,7 @@ You log in their site and select "New Video", select the options (flip
 camera, recording countdown, etc.) and go. After the video creation,
 the system will automatically put the link to the video in your
 clipboard, for easy sharing
-(e.g. https://www.loom.com/share/beace631cf81400991015e385463b13a). While
+(e.g. [a simple sample video](https://www.loom.com/share/beace631cf81400991015e385463b13a)). While
 recording, you can superimpose the "webcam view", and move it around.
 
 It is a great tool to easily generate screencasts, or even provide

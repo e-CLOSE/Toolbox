@@ -1,6 +1,6 @@
 # [mindmanager](https://www.mindmanager.com/en/)  [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams) [<img src="images/cognitive.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acognitive)
 
-[<img src="images/mindmanager.png" align="bottom" alt="mindmanager Logo">](https://www.mindmanager.com/en/)
+[<img src="images/mindmanager.png" align="bottom" height="50" alt="mindmanager Logo">](https://www.mindmanager.com/en/)
 
 Visual productivity tools and mind mapping software.
 

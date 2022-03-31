@@ -1,6 +1,6 @@
 # [OneNote](https://onenote.office.com)  [<img src="images/organization.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aorganization) [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)
 
-[<img src="images/onenote.png" align="bottom" alt="OneNote Logo">](https://onenote.office.com)
+[<img src="images/onenote.png" align="bottom" height="50" alt="OneNote Logo">](https://onenote.office.com)
 
 OneNote for Education allows a personal workspace for every student, a content library for handouts, and a collaboration space for lessons and creative activities  allowing the tracking of any activity or assignment.
 
