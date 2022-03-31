@@ -1,6 +1,6 @@
 # [Wiseapp](https://www.wiseapp.live/)  [<img src="images/resource-learning_platform.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Alearning_platform)
 
-![WISEapp Logo](images/wise.png)
+[<img src="images/wise.png" align="bottom" height="100" alt="WISE Logo">](https://www.wiseapp.live/)
 
 WISE app is a platform that provides teachers and coaches with tools necessary for them to manage and automate operations such as scheduling, attendance, assessments, resource sharing, etc. 
 

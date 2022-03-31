@@ -1,8 +1,9 @@
 # [Adobe Stock / fotolia](https://stock.adobe.com/)  [<img src="images/resource-image.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aimage)
 
+[<img src="images/Stock.svg" align="bottom" height="100" alt="Stock Logo">](https://stock.adobe.com/)
+
 Image database by Adobe.
 
-[<img src="images/Stock.svg" align="bottom" height="100" alt="Stock Logo">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Adobe_Stock_fotolia.md)
 
 
 ## Detailed description

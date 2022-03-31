@@ -21,6 +21,9 @@ This database is divided into three main categories:
   
 - [Tools](https://github.com/e-CLOSE/Toolbox/tree/main/Tools) :hammer_and_wrench:
 
+  Which can be accessed by its [logo-based graphical list](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/tools-logos.md) or using the
+  category-based links below:
+  
   [<img src="Tools/images/audio.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aaudio)
   [<img src="Tools/images/cognitive.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acognitive)
   [<img src="Tools/images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)

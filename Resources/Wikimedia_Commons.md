@@ -1,8 +1,8 @@
 # [Wikimedia Commons](https://commons.wikimedia.org/)  [<img src="images/resource-icon.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aicon) [<img src="images/resource-image.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aimage) [<img src="images/resource-video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Avideo) [<img src="images/resource-audio.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aaudio)
 
-Resource database associated to Wikipedia, populated by any user. All images have a CC license, though attribution depends on the author that uploaded it (sometimes it might be required, and some others not).
+[<img src="images/Wikimedia_Commons.svg" align="bottom" height="100" alt="Wikimedia_Commons Logo">](https://commons.wikimedia.org/)
 
-[<img src="images/Wikimedia_Commons.svg" align="bottom" height="100" alt="Wikimedia_Commons Logo">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Wikimedia_Commons.md)
+Resource database associated to Wikipedia, populated by any user. All images have a CC license, though attribution depends on the author that uploaded it (sometimes it might be required, and some others not).
 
 
 ## Detailed description

@@ -1,8 +1,8 @@
 # [Flaticon](https://www.flaticon.es/)  [<img src="images/resource-icon.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aicon)
 
-Download free icons and stickers for your projects. Resources made by and for designers. PNG (free), SVG, EPS, PSD and BASE 64 formats.
+[<img src="images/Flaticon.svg" align="bottom" height="100" alt="Flaticon Logo">](https://www.flaticon.es/)
 
-[<img src="images/Flaticon.svg" align="bottom" height="100" alt="Flaticon Logo">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Flaticon.md)
+Download free icons and stickers for your projects. Resources made by and for designers. PNG (free), SVG, EPS, PSD and BASE 64 formats.
 
 
 ## Detailed description

@@ -1,8 +1,9 @@
 # [Colourbox](https://www.colourbox.com/)  [<img src="images/resource-image.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aimage) [<img src="images/resource-design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Adesign)
 
+[<img src="images/Colourbox.svg" align="bottom" height="100" alt="Colourbox Logo">](https://www.colourbox.com/)
+
 All photos, vectors and videos for one price.
 
-[<img src="images/Colourbox.svg" align="bottom" height="100" alt="Colourbox Logo">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Colourbox.md)
 
 
 ## Detailed description

@@ -1,8 +1,9 @@
 # [Youtube](https://youtube.com/ )  [<img src="images/resource-video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Avideo) [<img src="images/resource-podcast.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Apodcast) [<img src="images/resource-music.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Amusic) [<img src="images/resource-audio.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aaudio)
 
+[<img src="images/YouTube.png" align="bottom" height="100" alt="YouTube Logo">](https://youtube.com/ )
+
 YouTube is an American online video sharing and social media platform owned by Google. It is the second most visited website, right after Google itself.
 
-[<img src="images/YouTube.png" align="bottom" height="100" alt="YouTube Logo">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Youtube.md)
 
 ## Detailed description
 

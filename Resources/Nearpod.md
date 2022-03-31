@@ -1,6 +1,6 @@
 # [Nearpod](https://nearpod.com/)  [<img src="images/resource-learning_platform.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Alearning_platform)
 
-![NearPod Logo](images/nearpod.png)
+[<img src="images/nearpod.png" align="bottom" height="100" alt="NearPod Logo">](https://nearpod.com/)
 
 Real-time insights into student understanding through interactive lessons, interactive videos, gamification, and activities — all in a single platform.
 

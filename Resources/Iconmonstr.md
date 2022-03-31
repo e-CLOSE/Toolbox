@@ -1,8 +1,8 @@
 # [Iconmonstr](https://iconmonstr.com/)  [<img src="images/resource-icon.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aicon)
 
-Free icon repository. Icons can be used without attribution.
+[<img src="images/Iconmonstr.png" align="bottom" height="100" alt="Iconmonstr Logo">](https://iconmonstr.com/)
 
-[<img src="images/Iconmonstr.png" align="bottom" height="100" alt="Iconmonstr Logo">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Iconmonstr.md)
+Free icon repository. Icons can be used without attribution.
 
 
 ## Detailed description

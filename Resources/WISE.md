@@ -1,6 +1,6 @@
 # [WISE](https://wise.berkeley.edu/)  [<img src="images/resource-learning_platform.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Alearning_platform)
 
-![WISE Logo](images/WISEberk.png)
+[<img src="images/WISEberk.png" align="bottom" height="100" alt="WISE Logo">](https://wise.berkeley.edu/)
 
 WISE is the product of more than 25 years of research on teaching and learning with educational technologies.
 

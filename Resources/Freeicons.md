@@ -1,8 +1,8 @@
 # [Freeicons](https://freeicons.io/)  [<img src="images/resource-icon.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Aicon)
 
-The largest database of free vector icons available in PNG, SVG, EPS, PSD and BASE 64 formats. 
+[<img src="images/Freeicons.svg" align="bottom" height="100" alt="Freeicons Logo">](https://freeicons.io/)
 
-[<img src="images/Freeicons.svg" align="bottom" height="100" alt="Freeicons Logo">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Freeicons.md)
+The largest database of free vector icons available in PNG, SVG, EPS, PSD and BASE 64 formats. 
 
 
 ## Detailed description

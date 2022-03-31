@@ -1,8 +1,8 @@
 # [Khan Academy](https://www.khanacademy.org/)  [<img src="images/resource-video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Avideo)
 
-Our mission is to provide a free, world-class education to anyone, anywhere.
+[<img src="images/khanacademy.png" align="bottom" height="100" alt="Khan Academy Logo">](https://www.khanacademy.org/)
 
-[<img src="images/khanacademy.png" align="bottom" height="100" alt="Khan Academy Logo">](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/Khan_Academy.md)
+Our mission is to provide a free, world-class education to anyone, anywhere.
 
 
 ## Detailed description
