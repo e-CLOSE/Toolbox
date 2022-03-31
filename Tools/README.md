@@ -7,7 +7,10 @@ within the e-CLOSE project, under the IO2 working group.
 
 There is a single `md` file for each of the collected tools. Indexing is done from the [issues section](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL), and you can also access related tools by following the labels next to the titles in each tool description file.
 
-Here you are the full list of tool categories that are linked to their
+If you want to have a look at a list with the logos of the selected tools, you can
+access the [graphical version of the list](tools-logos.md).
+
+Finally, here you are the full list of tool categories that are linked to their
 corresponding list of tools:
 
 [<img src="images/audio.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aaudio)
