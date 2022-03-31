@@ -1,6 +1,6 @@
 # [Whiteboard.fi](https://www.whiteboard.fi/)  [<img src="images/whiteboard.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Awhiteboard) [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration) [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign)
 
-![whiteboard Logo](images/Whiteboard.png)
+[<img src="images/Whiteboard.png" align="bottom" height="100" alt="Whiteboard Logo">](https://www.whiteboard.fi)
 
 Whiteboard tool for teachers and classrooms.
 
@@ -19,7 +19,7 @@ Whiteboard.fi is a simple tool that can be used instantly. A class can be create
 
 ## References
 
-- Whiteboard.fi website: [Whiteboard.fi](Whiteboard.fi - Free online whiteboard for teachers and classrooms)
+- Whiteboard.fi website: [Whiteboard.fi](https://www.whiteboard.fi)
 
 
 ## See also...

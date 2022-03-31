@@ -1,6 +1,6 @@
  [Canva](https://www.canva.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/graphics.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agraphics) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-![Canva Logo](https://user-images.githubusercontent.com/96419022/160601705-ac0b48fe-66fa-4fb7-ad36-03a8e69abb69.png)
+[<img src="images/canva.png" align="bottom" height="100" alt="canva Logo">](https://www.canva.com/)
 
 
 Web application to publish video and slides presentation or greate social media posts, posters etc..

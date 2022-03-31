@@ -1,6 +1,6 @@
 # [Flipgrid](https://flipgrid.com)  [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-![flipgrid Logo](images/FlipGrid.png)
+[<img src="images/FlipGrid.png" align="bottom" height="100" alt="FlipGrid Logo">](https://flipgrid.com)
 
 Website and app that allows teachers to facilitate video discussions.
 

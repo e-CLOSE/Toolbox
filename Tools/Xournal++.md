@@ -1,6 +1,6 @@
 # [Xournal++](https://github.com/xournalpp/xournalpp)  [<img src="images/whiteboard.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Awhiteboard)
 
-![Xournal++ Logo](images/xournal++.png)
+[<img src="images/xournal++.png" align="bottom" height="100" alt="xournal++ Logo">](https://xournalpp.github.io/)
 
 Powerful open source and cross-platform whiteboard/blackboard & note taking app.
 

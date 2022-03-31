@@ -1,6 +1,6 @@
 # [pigeonhole](https://pigeonholelive.com/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
-![pigeonhole Logo](https://user-images.githubusercontent.com/96419022/157421315-6c7086af-1309-4471-adc1-1c5c6b38a619.png)
+[<img src="images/pigeonhole.png" align="bottom" height="100" alt="pigeonhole Logo">](https://pigeonholelive.com/)
 
 Mobile, real-time conference question and answer (Q&A) tool.
 

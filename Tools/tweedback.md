@@ -1,6 +1,6 @@
 # [tweedback](https://tweedback.de/?l=en)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation) [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback)
 
-![tweedback Logo](https://user-images.githubusercontent.com/96419022/157417421-91cb1b2a-66b6-409d-b89a-2b8d6feb8542.png)
+[<img src="images/tweenback.png" align="bottom" height="100" alt="tweenback Logo">](https://tweedback.de/?l=en)
 
 Platform for anonymous realtime feedback at events, businesses and educational facilities.
 

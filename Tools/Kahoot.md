@@ -1,6 +1,6 @@
 # [Kahoot](https://kahoot.com/)  [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback) [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation) [<img src="images/gamification.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agamification)
 
-![Kahoot Logo](images/Kahoot.png)
+[<img src="images/Kahoot.png" align="bottom" height="100" alt="Kahoot Logo">](https://kahoot.com/)
 
 Interactive web-based student-response system (quizzes, polls, etc.).
 

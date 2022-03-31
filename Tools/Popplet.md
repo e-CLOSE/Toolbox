@@ -1,6 +1,6 @@
 # [Popplet](https://www.popplet.com/)  [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration) [<img src="images/organization.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aorganization) [<img src="images/project.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aproject)
 
-![Popplet Logo](images/popplet2.png)
+[<img src="images/popplet2.png" align="bottom" height="100" alt="popplet2 Logo">](https://www.popplet.com/)
 
 Platform to visualize ideas.
 

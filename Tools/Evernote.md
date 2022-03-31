@@ -1,6 +1,6 @@
 # [Evernote](https://play.google.com/store/apps/details?id=com.evernote&hl=pl&gl=US)  [<img src="images/organization.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aorganization)
 
-![Evernote Logo](images/evernote.png)
+[<img src="images/evernote.png" align="bottom" height="100" alt="evernote Logo">](https://evernote.com)
 
 Mobile app designed for note taking, organizing, task lists, and archiving.
 
@@ -23,7 +23,7 @@ Mobile app designed for note taking, organizing, task lists, and archiving.
 
 ## References
 
-- Evernote website: [Evernote](https://play.google.com/store/apps/details?id=com.evernote&hl=pl&gl=US)
+- Evernote website: [Evernote](https://evernote.com)
 - [Evernote help](https://help.evernote.com/hc/en-us/categories/10681-Using-Evernote)
 - [Evernote for Beginners Tutorial](https://www.youtube.com/watch?v=6z4plcBQsow)
 

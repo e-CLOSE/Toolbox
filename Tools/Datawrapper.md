@@ -1,6 +1,6 @@
 # [Datawrapper](https://www.datawrapper.de/)  [<img src="images/visualization.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avisualization) [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams) [<img src="images/graphics.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agraphics)
 
-![Datawrapper Logo](images/Datawrapper.png)
+[<img src="images/Datawrapper.png" align="bottom" height="100" alt="Datawrapper Logo">](https://www.datawrapper.de/)
 
 Data visualization tool capable of showing data in beautiful charts, maps or tables with a few clicks.
 

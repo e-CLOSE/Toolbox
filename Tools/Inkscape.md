@@ -1,6 +1,6 @@
 # [Inkscape](https://inkscape.org/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/graphics.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agraphics) [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams)
 
-![Inkscape Logo](images/Inkscape_Logo_full.png)
+[<img src="images/Inkscape_Logo_full.png" align="bottom" height="100" alt="Inkscape_Logo_full Logo">](https://inkscape.org/)
 
 Vector graphics editor.
 

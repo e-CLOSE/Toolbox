@@ -1,6 +1,6 @@
 # [Doodly](https://www.doodly.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo) [<img src="images/whiteboard.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Awhiteboard)
 
-![Doodly Logo](images/doodly.png)
+[<img src="images/doodly.png" align="bottom" height="100" alt="doodly Logo">](https://www.doodly.com/)
 
 It is a whiteboard animation software that allows to create professional and realistic whiteboard videos.
 

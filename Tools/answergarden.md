@@ -1,6 +1,6 @@
 # [answergarden](https://answergarden.ch/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
-![answergarden Logo](https://user-images.githubusercontent.com/96419022/157421028-992ce188-34e3-4463-8209-1a32de70b485.png)
+[<img src="images/answergarden.png" align="bottom" height="100" alt="answergarden Logo">](https://answergarden.ch/)
 
 Minimalistic feedback tool for real time audience participation, online brainstorming and classroom feedback.
 

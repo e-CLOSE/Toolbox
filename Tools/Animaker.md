@@ -1,6 +1,6 @@
 # [Animaker](https://www.animaker.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-![Animaker Logo](images/animaker.png)
+[<img src="images/animaker.png" align="bottom" height="100" alt="animaker Logo">](https://www.animaker.com/)
 
 A platform for beginners, non-designers and professionals to create Animation and Live-Action videos.
 

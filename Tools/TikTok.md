@@ -1,6 +1,6 @@
 # [TikTok](https://www.tiktok.com)  [<img src="images/communication.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acommunication) [<img src="images/dissemination.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adissemination) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-![TikTok Logo](images/TikTok.jpg)
+[<img src="images/TikTok.jpg" align="bottom" height="100" alt="TikTok Logo">](https://www.tiktok.com)
 
 Social media platform for creating, sharing and discovering short videos.
 

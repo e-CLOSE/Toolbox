@@ -1,6 +1,6 @@
 # [Genially](https://www.genial.ly/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/graphics.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agraphics) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo) [<img src="images/presentations.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Apresentations)
 
-![Genially Logo](images/genially.png)
+[<img src="images/genially.png" align="bottom" height="100" alt="genially Logo">](https://www.genial.ly/)
 
 All-in-one online tool to create presentations, interactive images, infographics, dossiers, quizzes, resumes.
 

@@ -1,6 +1,6 @@
 # [Socrative](https://www.socrative.com/)  [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback) [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
-![Socrative Logo](images/Socrative.png)
+[<img src="images/Socrative.png" align="bottom" height="100" alt="Socrative Logo">](https://www.socrative.com/)
 
 Interactive web-based student-response system (quizzes, polls, etc.).
 

@@ -1,6 +1,6 @@
 # [Headliner](https://www.headliner.app/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/graphics.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agraphics) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-![Headliner Logo](images/headliner.png)
+[<img src="images/headliner.png" align="bottom" height="100" alt="headliner Logo">](https://www.headliner.app/)
 
 Easy-to-use video podcast generator from audio and video raw files with multiple features.
 

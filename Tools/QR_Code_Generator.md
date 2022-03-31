@@ -1,6 +1,6 @@
 # [QR Code Generator](https://www.qr-code-generator.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/graphics.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agraphics)
 
-![QR Code Generator Logo](images/qr_code.png)
+[<img src="images/qr_code.png" align="bottom" height="100" alt="qr_code Logo">](https://www.qr-code-generator.com/)
 
 Generates QR codes for websites, texts and files.
 

@@ -1,6 +1,6 @@
 # [Voxvote](https://www.voxvote.com/ )  [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback) [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation) [<img src="images/gamification.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agamification)
 
-![VoxVote Logo](images/logo_voxvote.png)
+[<img src="images/logo_voxvote.png" align="bottom" height="100" alt="logo_voxvote Logo">](https://www.voxvote.com/)
 
 Interactive web-based student-response system (quizzes, polls, etc.).
 
@@ -22,7 +22,7 @@ Vote is a cloud-based mobile voting solution which allows to create custom quizz
 
 ## References
 
-- Voxvote website: [Voxvote](https://www.voxvote.com/ )
+- Voxvote website: [Voxvote](https://www.voxvote.com/)
 
 
 ## See also...

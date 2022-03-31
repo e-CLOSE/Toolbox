@@ -1,6 +1,6 @@
 # [GitLab](https://gitlab.com/ )  [<img src="images/project.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aproject) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)
 
-[<img src="images/GitLab.png" align="bottom" height="100" alt="GitLab Logo">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/GitLab.md)
+[<img src="images/GitLab.png" align="bottom" height="100" alt="GitLab Logo">](https://gitlab.com/)
 
 Collaborative development platform that hosts projects using the git revision control system .
 
@@ -31,7 +31,7 @@ GitLab is The DevOps Platform that empowers organizations to maximize the overal
 
 ## References
 
-- GitLab website: [GitLab](https://gitlab.com/ )
+- GitLab website: [GitLab](https://gitlab.com/)
 
 
 ## See also...

@@ -1,6 +1,6 @@
 # [conceptboard](https://conceptboard.com/)  [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration) [<img src="images/cognitive.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acognitive) [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams)
 
-![conceptboard Logo](https://user-images.githubusercontent.com/96419022/157191080-c79b2c39-76ec-4fdf-8f9a-af873446c6e1.png)
+[<img src="images/conceptboard.png" align="bottom" height="100" alt="conceptboard Logo">](https://conceptboard.com/)
 
 Online visual workspace to brainstorm and collaborate on projects.
 

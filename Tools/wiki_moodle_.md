@@ -1,6 +1,6 @@
 # [Slimwiki](https://slimwiki.com/)  [<img src="images/project.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aproject) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration) [<img src="images/dissemination.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adissemination)
 
-![Slimwiki Logo](images/slimwiki.png)
+[<img src="images/slimwiki.png" align="bottom" height="100" alt="slimwiki Logo">](https://slimwiki.com/)
 
 Website that allows students to create and edit website content.
 

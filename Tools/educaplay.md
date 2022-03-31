@@ -1,6 +1,6 @@
 # [educaplay](https://www.educaplay.com/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation) [<img src="images/gamification.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agamification)
 
-![educaplay Logo](https://user-images.githubusercontent.com/96419022/157409508-a2413070-ba83-4934-91f1-6c685879645f.png)
+[<img src="images/educaplay.png" align="bottom" height="100" alt="educaplay Logo">](https://www.educaplay.com/)
 
 Platform to allow teachers to create their own multimedia teaching activities.
 

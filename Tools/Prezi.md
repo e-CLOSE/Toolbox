@@ -1,6 +1,6 @@
 # [Prezi](https://prezi.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/graphics.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agraphics) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo) [<img src="images/presentations.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Apresentations)
 
-![Prezi Logo](images/Prezi.png)
+[<img src="images/Prezi.png" align="bottom" height="100" alt="Prezi Logo">](https://prezi.com/)
 
 Web-based tool that allows users to create a presentation using a map layout.
 

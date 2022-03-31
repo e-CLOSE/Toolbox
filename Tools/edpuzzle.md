@@ -1,6 +1,6 @@
 # [edpuzzle](https://edpuzzle.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo) [<img src="images/project.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aproject) [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
-![EDpuzzle Logo](images/edpuzzle.png)
+[<img src="images/edpuzzle.png" align="bottom" height="100" alt="edpuzzle Logo">](https://edpuzzle.com/)
 
 Web based platform to organize students work, give tasks and grade.
 

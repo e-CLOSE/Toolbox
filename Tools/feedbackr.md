@@ -1,6 +1,6 @@
 # [feedbackr](https://www.feedbackr.io/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation) [<img src="images/feedback.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Afeedback)
 
-![feedbackr Logo](https://user-images.githubusercontent.com/96419022/157414813-7422593c-e9fc-445a-92e1-6d564d41b16d.png)
+[<img src="images/feedbackr.png" align="bottom" height="100" alt="feedbackr Logo">](https://www.feedbackr.io/)
 
 Audience response system.
 

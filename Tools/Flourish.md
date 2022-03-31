@@ -1,6 +1,6 @@
 # [Flourish](https://flourish.studio/)  [<img src="images/visualization.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avisualization) [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams) [<img src="images/graphics.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Agraphics)
 
-![Flourish Logo](images/Flourish.png)
+[<img src="images/Flourish.png" align="bottom" height="100" alt="Flourish Logo">](https://flourish.studio/)
 
 Data visualization tool to explore and analyse data with no need to code or install software.
 

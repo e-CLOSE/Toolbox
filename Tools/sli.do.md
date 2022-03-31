@@ -1,6 +1,6 @@
 # [sli.do](https://www.sli.do/)  [<img src="images/evaluation.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aevaluation)
 
-![Slido Logo](https://user-images.githubusercontent.com/96419022/157391538-bb8af663-b402-4d1f-953b-12eca9b7cdf3.png)
+[<img src="images/slido.png" align="bottom" height="100" alt="slido Logo">](https://www.sli.do/)
 
 Online tool for live polls, Q&A, quizzes and word clouds.
 

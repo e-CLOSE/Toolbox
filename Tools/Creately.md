@@ -1,6 +1,6 @@
 # [Creately](https://creately.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/diagrams.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adiagrams) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)
 
-![creately Logo](https://user-images.githubusercontent.com/96419022/157195030-6270677f-090a-42ea-bb6b-7af7c72a8f1a.png)
+[<img src="images/creately.png" align="bottom" height="100" alt="creately Logo">](https://creately.com/)
 
 Online diagramming and collaboration tool.
 

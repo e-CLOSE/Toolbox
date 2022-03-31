@@ -1,6 +1,6 @@
 # [Biteable](https://biteable.com/)  [<img src="images/design.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Adesign) [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 
-![biteable Logo](https://user-images.githubusercontent.com/96419022/157402019-16f4d70c-a59b-4858-bbd1-6765ff63b2a8.png)
+[<img src="images/biteable.png" align="bottom" height="100" alt="biteable Logo">](https://biteable.com/)
 
 Video creation tool.
 

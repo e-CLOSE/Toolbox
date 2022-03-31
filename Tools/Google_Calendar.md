@@ -1,6 +1,6 @@
 # [Google Calendar](https://calendar.google.com)  [<img src="images/organization.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aorganization) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)
 
-[<img src="images/Google_Calendar.png" align="bottom" height="100" alt="Google_Calendar Logo">](https://github.com/e-CLOSE/Toolbox/blob/main/Tools/Google_Calendar.md)
+[<img src="images/Google_Calendar.png" align="bottom" height="100" alt="Google_Calendar Logo">](https://calendar.google.com)
 
 Google Calendar quickly allows the schedule of meetings and events and getting reminders about upcoming activities. 
 

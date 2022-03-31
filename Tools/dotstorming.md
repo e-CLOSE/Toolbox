@@ -1,6 +1,6 @@
 # [dotstorming](https://dotstorming.com/)  [<img src="images/organization.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Aorganization) [<img src="images/collaboration.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Acollaboration)
 
-![dotstorming Logo](images/dotstorming.png)
+[<img src="images/dotstorming.png" align="bottom" height="100" alt="dotstorming Logo">](https://dotstorming.com/)
 
 A real-time group brainstorming and decision making app.
 
