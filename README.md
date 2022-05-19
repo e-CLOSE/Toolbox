@@ -6,8 +6,8 @@
 | A database of active learning methods and tecniques used in a/synchronous education + Supporting software/hardware |
 | ------ |
 
-This database is divided into three main categories:
-- [Methodologies](https://github.com/e-CLOSE/Toolbox/tree/main/Methodologies) :book: 
+This database is divided into two main categories:
+
 - [Resources](https://github.com/e-CLOSE/Toolbox/blob/main/Resources) :paperclip:
 
   Which can be accessed by its [logo-based graphical list](https://github.com/e-CLOSE/Toolbox/blob/main/Resources/resources-logos.md) or using the
