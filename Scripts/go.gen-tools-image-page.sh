@@ -6,7 +6,7 @@ HEIGHT=100
 TMP_FILE=`mktemp`
 DELIMITER=":"
 
-grep "!" $DIR/*.md |grep images |grep -i logo > $TMP_FILE
+grep "!" ../$DIR/*.md |grep images |grep -i logo > $TMP_FILE
 
 
 while IFS=$DELIMITER read -r TOOL_FILE LOGO
