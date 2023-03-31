@@ -19,3 +19,6 @@ Here you are the full list of resource categories that are linked to their corre
 [<img src="images/resource-music.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Amusic)
 [<img src="images/resource-podcast.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Apodcast)
 [<img src="images/resource-video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A02_RESOURCE+label%3Avideo)
+
+[<img src="../Logos/Erasmus+cofunded.png" align="bottom">](https://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/2020-1-PL01-KA226-HE-096239)  
+[<img src="../Logos/by-sa.png" align="bottom">](https://creativecommons.org/licenses/by-sa/3.0/)  
