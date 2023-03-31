@@ -54,13 +54,14 @@ The [e-CLOSE](eclose.eu) participant institutions are:
 
 | | |
 | --------------------------------------------------------|---------------------------------------------------------------------------|
-| Lodz University of Technology (Poland)                  | ![https://p.lodz.pl/](Logos/tul.png)                  |
-| Universidad de Alcalá (Spain)                           | ![](Logos/uah.png)                           |
-| Universidade de Aveiro (Portugal)                       | ![](Logos/ua.png)                        |
-| University of Applied Sciences in Saarbrücken (Germany) | ![](Logos/htw.png) |
+| Lodz University of Technology (Poland)                  | [<img src="Logos/tul.png" align="bottom">](https://p.lodz.pl/)                |
+| Universidad de Alcalá (Spain)                           | [<img src="Logos/uah.png" align="bottom">](https://www.uah.es/)                           |
+| Universidade de Aveiro (Portugal)                       | [<img src="Logos/ua.png" align="bottom">](https://www.ua.pt/)                        |
+| University of Applied Sciences in Saarbrücken (Germany) | [<img src="Logos/htw.png" align="bottom">](https://www.htwsaar.de/) |
 
-![](Logos/Erasmus+cofunded.png) 
-![](Logos/by-sa.png) 
+[<img src="Logos/Erasmus+cofunded.png" align="bottom">](https://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/2020-1-PL01-KA226-HE-096239)  
+[<img src="Logos/by-sa.png" align="bottom">](https://creativecommons.org/licenses/by-sa/3.0/)  
+
 
 
 
