@@ -30,3 +30,7 @@ Finally, here you are the full list of tool categories that are linked to their 
 [<img src="images/video.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avideo)
 [<img src="images/visualization.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Avisualization)
 [<img src="images/whiteboard.png" align="bottom">](https://github.com/e-CLOSE/Toolbox/issues?q=label%3A01_TOOL+label%3Awhiteboard)
+
+
+[<img src="Logos/Erasmus+cofunded.png" align="bottom">](https://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/2020-1-PL01-KA226-HE-096239)  
+[<img src="Logos/by-sa.png" align="bottom">](https://creativecommons.org/licenses/by-sa/3.0/)  
