@@ -50,7 +50,7 @@ This database is divided into two main categories:
 
 ## Team
 
-The [e-CLOSE](eclose.eu) participant institutions are:
+The [e-CLOSE](https://eclose.eu) participant institutions are:
 
 | | |
 | --------------------------------------------------------|---------------------------------------------------------------------------|
