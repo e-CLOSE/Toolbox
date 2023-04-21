@@ -59,8 +59,10 @@ The [e-CLOSE](https://eclose.eu) participant institutions are:
 | Universidade de Aveiro (Portugal)                       | [<img src="Logos/ua.png" align="bottom">](https://www.ua.pt/)                        |
 | University of Applied Sciences in Saarbrücken (Germany) | [<img src="Logos/htw.png" align="bottom">](https://www.htwsaar.de/) |
 
-[<img src="Logos/Erasmus+cofunded.png" align="bottom">](https://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/2020-1-PL01-KA226-HE-096239)  
 [<img src="Logos/by-sa.png" align="bottom">](https://creativecommons.org/licenses/by-sa/3.0/)  
+[<img src="Logos/Erasmus+cofunded.png" align="bottom">](https://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/2020-1-PL01-KA226-HE-096239)  
+This publication has been co-funded by the Erasmus+ Programme of the European Union and reflects the views only of the authors, the National Agency and European Commission cannot be held responsible for any use, which may be made of the information contained therein.
+
 
 
 
